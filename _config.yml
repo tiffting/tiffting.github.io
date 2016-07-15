@@ -9,8 +9,7 @@
 title: Tiff tastes on the world
 email: tiff.ting@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  A personal account of my round-the-world trip spanning seven
-  or more months between 2016 and 2017.
+  An account of my round-the-world trip spanning 7+ months.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://tiffting.com" # the base hostname & protocol for your site
 twitter_username: tiffting
