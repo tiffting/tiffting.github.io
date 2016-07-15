@@ -1,18 +1,23 @@
-<!DOCTYPE html>
-<html lang="en-US">
-<head>
-    <meta charset="UTF-8">
-    <meta description="Methodically and lovingly crafted cold-brew coffee in the Bay Area">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+---
+layout: default
+---
 
-    <link rel="stylesheet" href="styles/main.css" type="text/css" media="all">
+<div class="home">
 
-    <title>Tiff Ting: Tasting the World</title>
+  <h1 class="page-heading">Posts</h1>
 
-<body>
-<section>
-  <h1>Tasting the World</h1>
-  <p>Hi, world!</p>
-</section>
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-<footer>Copyright &copy; 2016 by Tiff Ting</footer>
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
