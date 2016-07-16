@@ -1,18 +1,31 @@
 ---
 layout: post
-title:  "The 7kg-limited packing list"
+title: The 7kg-limited packing list
 categories: luggage gear
+published: true
 ---
 Because the [most restrictive][qantas-allowance] of airlines I’m flying has a carry-on allowance of 7kg (about 15lb), I had to consciously choose what to bring with me. My top priority for any item was for it to be as lightweight as possible, and I balanced that with other features (e.g., anti-theft, quick-drying).
 
 ## Luggage
 
 - [Backpack][pacsafe-venturesafe]
+  - [Compression packing cubes][eaglecreek-specter]
+  - [Toiletry organizer][eaglecreek-wallaby]
 - [Purse][pacsafe-citysafe]
+  - Coin purse
+  - [SlimFold original soft shell wallet][slimfold-wallet]
 - [Neck stash][lewisnclark-neckstash]
-- [Compression packing cubes][eaglecreek-specter]
-- [Toiletry organizer][eaglecreek-wallaby]
-- [Combination lock (1)][masterlock-combo]
+
+## Cards
+
+### Identification
+- California driver license
+- US passport
+- Handwritten business cards
+
+### Finances
+- [Charles Schwab Visa debit card][schwab-checking] (refunds **all** ATM fees)
+- [Chase Sapphire Preferred Visa Signature credit card][chase-sapphire] (no foreign transaction fees)
 
 ## Clothing
 
@@ -21,6 +34,7 @@ Because the [most restrictive][qantas-allowance] of airlines I’m flying has a 
   - [Short-sleeved shirt][marmot-julia]
 - Bottoms
   - [Convertible pants (2 pairs)][columbia-saturday]
+  - Tights (for layering in cold weather)
 - Undergarments
   - [Panties (3 pairs)][exofficio-givengo]
   - Sports bras (2)
@@ -39,9 +53,11 @@ Because the [most restrictive][qantas-allowance] of airlines I’m flying has a 
   	- [Bottom][bp-meshbottom]
   - [Dress][toadnco-islanddress]
   - Sarong
+  - Gloves
 
 ## Electronics
 
+- [SteriPEN Ultra portable UV water purifier][steripen-ultra]
 - Screens
   - [iPhone SE (64GB, unlocked)][apple-iphonese]
     - [Slim case][spigen-slimarmor]
@@ -56,32 +72,56 @@ Because the [most restrictive][qantas-allowance] of airlines I’m flying has a 
   - [Lightning to USB cable][anker-cable]
   - Micro USB cable
   - Power brick
-- [Tangle-free earbud case][digitalinnovations-earbudcase]
+- Audio
+  - Apple earbuds (came with iPhone)
+  - [Tangle-free earbud case][digitalinnovations-earbudcase]
+  - Airline headphone adapter (just in case)
 
 ## Personal care
 
 - [Sleep mask][bucky-eyemask]
+- Face mask
+- Handkerchief
+- Folding hair brush (from previous hotel stay)
 - Oral care
   - Toothbrush (from previous hotel stay)
   - Toothpaste
+  - [Oral-B Glide Pro-Health Comfort Plus mint-flavored floss][oralb-floss]
+  - Tongue cleaner
   - Night guard
 - [Nail clippers][designgo-nailclippers]
 - Pads and pantyliners
-- Mineral-based sunscreen
-
+- Exfoliating mesh soap saver pouch (with some saved bar soap)
+- Bar shampoo from [Lush][lush]
+- Liquids
+  - Mineral-based sunscreen (zinc oxide 19%)
+  - DEET-based mosquito repellent
+  - Grapefruit-scented air freshener
+  - Hand sanitizer
+  - Facial soap
+  - Body lotion
+- Pacman bandages (3)
+- Rubber bands (2)
+- Hair bands (2)
 
 ## Medication
 
 - [Pill bags][apex-pillbaggies]
 - Antihistamine (Zyrtec)
-- Anti-diarrheal antibiotic (Cipro)
+- Anti-diarrheal medication
+  - Over-the-counter agent (Imodium A-D)
+  - Antibiotic (Cipro)
+- Birth control (Nuvaring)
+- Motion sickness patch (Transderm Scop)
+- Pain relief (Tylenol)
 - Sleep aid (Ambien)
 
 ## Other
 
+- [Combination lock (1)][masterlock-combo]
 - Compact umbrella (from [Loft][loft])
-
-
+- Empty plastic zipper bags
+- Copies of transportation tickets and passport
 
 [anker-astro]: https://www.amazon.com/gp/product/B00EF1OGOG/
 [anker-cable]: http://amzn.to/29Du6T8
@@ -94,6 +134,7 @@ Because the [most restrictive][qantas-allowance] of airlines I’m flying has a 
 [bp-meshtop]: http://shop.nordstrom.com/s/bp-mesh-triangle-bikini-top/4106043
 [bucky-eyemask]: http://amzn.to/29Ov5mO
 [chacos-ecotread]: http://amzn.to/29HNGxr
+[chase-sapphire]: https://creditcards.chase.com/credit-cards/chase-sapphire-preferred
 [columbia-midweightbase]: http://amzn.to/29As62q
 [columbia-saturday]: http://amzn.to/29AuIxi
 [designgo-nailclippers]: http://amzn.to/29AqzJL
@@ -105,17 +146,22 @@ Because the [most restrictive][qantas-allowance] of airlines I’m flying has a 
 [kensington-traveladapter]: http://amzn.to/29OloF8
 [lewisnclark-neckstash]: http://amzn.to/29AqtSg
 [loft]: http://www.loft.co.jp/
+[lush]: http://www.lushusa.com/
 [luvvitt-case]: http://amzn.to/29HEPvk
 [marmot-julia]: http://amzn.to/29JHpo6
 [masterlock-combo]: http://amzn.to/29Ov2rk
 [mountainhardware-fedora]: https://www.rei.com/product/101484/mountain-hardwear-raffia-fedora-hat-womens
+[oralb-floss]: http://amzn.to/29JkYMF
 [pacsafe-venturesafe]: http://amzn.to/2afL1N1
 [pacsafe-citysafe]: http://amzn.to/29AoXQr
 [patagonia-downsweater]: http://amzn.to/2afOuev
 [qantas-allowance]: http://www.qantas.com/travel/airlines/carry-on-baggage/global/en#carry-on-baggage-allowances
 [saucony-triumphiso]: http://amzn.to/2afUDYa
+[schwab-checking]: http://www.schwab.com/public/schwab/banking_lending/checking_account/index-a.html
 [sierradesigns-solarwind]: http://amzn.to/29HFe16
+[slimfold-wallet]: http://amzn.to/2ahzMDZ
 [smartwool-phdrunlite]: http://amzn.to/29VuWxi
 [sparin-screenprotector]: http://amzn.to/29HFQ6A
 [spigen-slimarmor]: http://amzn.to/29HIvxo
+[steripen-ultra]: http://amzn.to/29BSf0M
 [toadnco-islanddress]: http://amzn.to/29HGl0J
