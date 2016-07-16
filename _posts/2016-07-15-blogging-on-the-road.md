@@ -9,6 +9,7 @@ Being [limited to 7kg of stuff][permalink-packing-list], I opted not to bring my
 So after a bit of searching online and trial and error, I set up [Github Pages][github-pages] with [Jekyll][jekyll] from my laptop. ([This Github documentation][github-pages-with-jekyll] has more details about how to use the two of them together, and [this Smashing Magazine post][sm-build-a-blog] gives you a good starting point.)
 
 What approaches did I try, and which did I ultimately go with?
+
 1. [Working Copy][workingcopy] and [Git2Go][git2go] were the first iPad apps I came across, but both require upgrading to a premium level of service to actually push any changes to Github.
 1. [CodeHub][codehub] seemed like an okay free version, but the interface is a bit lacking.
 1. I found [Editorial][editorial] (pay $9.99 once and get it both on iPhone and iPad), which is a [Markdown][markdown] editor for iOS that supports workflows to automate repetitive tasks like interacting with Github. [This workflow][hardscrabble] does just that, and it was pretty simple to implement.
