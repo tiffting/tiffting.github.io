@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hey, there: I'm Tiff Ting. As of July 18, 2016, I started a round-the-world trip, and I'm not exactly sure when I'm returning home to San Francisco, CA. I hope sharing my experiences is valuable, and not just to future me who needs a reminder of past me.
 
-### More Information
+## More info
 
-A place to include any other types of information that you'd like to include about yourself.
+I love all things related to food, so you'll hear a lot about that. I also enjoy hanging out with locals and going off the beaten path.
 
-### Contact me
+My native language is English, and I am conversational in Mandarin Chinese. My Japanese skills are very basic, and my Spanish is worse. I warn you that I have terrible French pronunciation.
 
-[email@domain.com](mailto:email@domain.com)
+## Contact me
+
+If you have any feedback on any posts or want to request a post on a particular topic, send me a message on [Facebook][facebook].
+
+[facebook]: https://www.facebook.com/tiff.ting/
