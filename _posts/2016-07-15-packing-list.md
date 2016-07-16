@@ -6,6 +6,8 @@ published: true
 ---
 Because the [most restrictive][qantas-allowance] of airlines I’m flying has a carry-on allowance of 7kg (about 15lb), I had to consciously choose what to bring with me. My top priority for any item was for it to be as lightweight as possible, and I balanced that with other features (e.g., anti-theft, quick-drying).
 
+In total, my backpack ends up weighing 5.9kg, and my travel jacket and neck stash weigh 2.2kg. 
+
 ## Luggage
 
 - [Backpack][pacsafe-venturesafe]
