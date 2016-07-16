@@ -144,7 +144,7 @@ Because the [most restrictive][qantas-allowance] of airlines I’m flying has a 
 [eaglecreek-wallaby]: http://amzn.to/29IoY63
 [exofficio-flyq]: http://amzn.to/29DsXv1
 [exofficio-givengo]: http://amzn.to/29VssyP
-[hydroflask-bottle]: http://amzn.to/29DIHA0
+[hydroflask-bottle]: http://amzn.to/29DlHA0
 [kensington-traveladapter]: http://amzn.to/29OloF8
 [lewisnclark-neckstash]: http://amzn.to/29AqtSg
 [loft]: http://www.loft.co.jp/
