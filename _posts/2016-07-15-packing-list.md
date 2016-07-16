@@ -36,20 +36,22 @@ My backpack weighs 5.9kg, and my travel jacket and neck stash weigh 2.2kg.
 ### Finances
 - [Charles Schwab Visa debit card][schwab-checking] (refunds **all** ATM fees)
 - [Chase Sapphire Preferred Visa Signature credit card][chase-sapphire] (no foreign transaction fees)
+- Leftover Euro bills and coins
+- A few US$100 bills
 
 ## Clothing
 
 - Tops
   - [Long-sleeved shirt][sierradesigns-solarwind]
   - [Short-sleeved shirt][marmot-julia]
+  - [Long-sleeved base layer][columbia-midweightbase]
 - Bottoms
   - [Convertible pants (2 pairs)][columbia-saturday]
-  - Tights (for layering in cold weather)
+  - Tights (for layering in cold weather and to double as pajama pants)
 - Undergarments
-  - [Panties (3 pairs)][exofficio-givengo]
   - Sports bras (2)
+  - [Panties (3 pairs)][exofficio-givengo]
   - [Socks (2 pairs)][smartwool-phdrunlite]
-  - [Long-sleeved undershirt][columbia-midweightbase]
 - Outerwear
   - [Travel jacket][exofficio-flyq]
   - [Down jacket][patagonia-downsweater]
@@ -89,6 +91,9 @@ My backpack weighs 5.9kg, and my travel jacket and neck stash weigh 2.2kg.
 
 ## Personal care
 
+- Chewing gum
+- Tissues
+- Wet wipes
 - [Sleep mask][bucky-eyemask]
 - Face mask
 - Handkerchief
