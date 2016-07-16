@@ -8,13 +8,13 @@ Because the [most restrictive][qantas-allowance] of airlines I’m flying has a 
 
 In total, my backpack ends up weighing 5.9kg, and my travel jacket and neck stash weigh 2.2kg.
 
-![Backpack: before packing]({{site.baseurl}}/images/2016/07/15/01.jpeg)
+![Backpack: before packing]({{site.baseurl}}/images/2016/07/15/packing-list/01.jpeg)
 
-![Backpack: after packing, front]({{site.baseurl}}/images/2016/07/15/02.jpeg)
+![Backpack: after packing, front]({{site.baseurl}}/images/2016/07/15/packing-list/02.jpeg)
 
-![Backpack: after packing, side]({{site.baseurl}}/images/2016/07/15/03.jpeg)
+![Backpack: after packing, side]({{site.baseurl}}/images/2016/07/15/packing-list/03.jpeg)
 
-![Travel jacket: before packing]({{site.baseurl}}/images/2016/07/15/04.jpeg)
+![Travel jacket: before packing]({{site.baseurl}}/images/2016/07/15/packing-list/04.jpeg)
 
 ## Luggage
 
