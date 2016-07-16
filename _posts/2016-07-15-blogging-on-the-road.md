@@ -13,7 +13,7 @@ What approaches did I try, and which did I ultimately go with?
 1. [Working Copy][workingcopy] and [Git2Go][git2go] were the first iPad apps I came across, but both require upgrading to a premium level of service to actually push any changes to Github.
 1. [CodeHub][codehub] seemed like an okay free version, but the interface is a bit lacking.
 1. I found [Editorial][editorial] (pay $9.99 once and get it both on iPhone and iPad), which is a [Markdown][markdown] editor for iOS that supports workflows to automate repetitive tasks like interacting with Github. [This workflow][hardscrabble] does just that, and it was pretty simple to implement.
-1. But in the end, it wasn't an app that I went with at all: [Prose][prose], which is a third-party web interface to edit Markdown files was the best option, and it was free. It has syntax highlighting and the ability to preview edits: what more could I ask for?
+1. But in the end, it wasn't an app that I went with at all: [Prose][prose], which is a third-party web interface to edit Github files was the best option, and it was free. It has syntax highlighting, the ability to preview edits, and isn't limited to editing Markdown files: what more could I ask for?
 
 In case you're interested, here's a [cheatsheet for Markdown syntax][md-cheatsheet].
 
