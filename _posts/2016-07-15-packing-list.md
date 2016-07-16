@@ -18,13 +18,13 @@ My backpack weighs 5.9kg, and my travel jacket and neck stash weigh 2.2kg.
 
 ## Luggage
 
-- [Backpack][pacsafe-venturesafe]
-  - [Compression packing cubes][eaglecreek-specter]
-  - [Toiletry organizer][eaglecreek-wallaby]
-- [Purse][pacsafe-citysafe]
-  - Coin purse
+- [Pacsafe Venturesafe 25L GII anti-theft backpack][pacsafe-venturesafe]
+  - [Eagle Creek Specter compression packing cubes][eaglecreek-specter]
+  - [Eagle Creek Wallaby toiletry organizer][eaglecreek-wallaby]
+- [Pacsafe Citysafe CS150 anti-theft cross-body shoulder bag][pacsafe-citysafe]
+  - Leather coin purse
   - [SlimFold original soft shell wallet][slimfold-wallet]
-- [Neck stash][lewisnclark-neckstash]
+- [Lewis N. Clark neck stash][lewisnclark-neckstash]
 
 ## Cards
 
@@ -42,22 +42,22 @@ My backpack weighs 5.9kg, and my travel jacket and neck stash weigh 2.2kg.
 ## Clothing
 
 - Tops
-  - [Long-sleeved shirt][sierradesigns-solarwind]
-  - [Short-sleeved shirt][marmot-julia]
-  - [Long-sleeved base layer][columbia-midweightbase]
+  - [Sierra Designs Solar Wind long-sleeved shirt][sierradesigns-solarwind]
+  - [Marmot Julia short-sleeved shirt][marmot-julia]
+  - [Columbia mid-weight long-sleeved base layer][columbia-midweightbase]
 - Bottoms
-  - [Convertible pants (2 pairs)][columbia-saturday]
+  - [Columbia Saturday convertible pants (2 pairs)][columbia-saturday]
   - Tights (for layering in cold weather and to double as pajama pants)
 - Undergarments
   - Sports bras (2)
-  - [Panties (3 pairs)][exofficio-givengo]
-  - [Socks (2 pairs)][smartwool-phdrunlite]
+  - [ExOfficio Give-n-Go string bikini panties (3 pairs)][exofficio-givengo]
+  - [SmartWool PhD Run Light socks (2 pairs)][smartwool-phdrunlite]
 - Outerwear
-  - [Travel jacket][exofficio-flyq]
-  - [Down jacket][patagonia-downsweater]
+  - [ExOfficio FlyQ travel jacket][exofficio-flyq]
+  - [Patagonia down sweater hoody][patagonia-downsweater]
 - Shoes
-  - [Flip flops (1 pair)][chacos-ecotread]
-  - [Sneakers (1 pair)][saucony-triumphiso]
+  - [Chacos EcoTread flip flops (1 pair)][chacos-ecotread]
+  - [Saucony Triumph ISO sneakers (1 pair)][saucony-triumphiso]
 - Accessories
   - [Hat][mountainhardware-fedora]
   - Bikini
@@ -72,16 +72,16 @@ My backpack weighs 5.9kg, and my travel jacket and neck stash weigh 2.2kg.
 - [SteriPEN Ultra portable UV water purifier][steripen-ultra]
 - Screens
   - [iPhone SE (64GB, unlocked)][apple-iphonese]
-    - [Slim case][spigen-slimarmor]
-    - [Screen protector][anker-scratchterminator]
+    - [Spigen Slim Armor case][spigen-slimarmor]
+    - [Anker Scratch Terminator screen protector][anker-scratchterminator]
   - [iPad Pro 9.7" (128GB, wifi)][apple-ipadpro]
-    - [Smart Keyboard][apple-smartkeyboard]
-    - [Smart Keyboard-compatible case][luvvitt-case]
-    - [Screen protector][sparin-screenprotector]
+    - [Apple Smart Keyboard][apple-smartkeyboard]
+    - [Luvvitt Smart Keyboard-compatible case][luvvitt-case]
+    - [Sparin screen protector][sparin-screenprotector]
 - Power
-  - [Universal adapter][kensington-traveladapter]
-  - [Portable battery][anker-astro]
-  - [Lightning to USB cable][anker-cable]
+  - [Kensington universal adapter][kensington-traveladapter]
+  - [Anker Astro portable battery][anker-astro]
+  - [Anker Lightning to USB cable][anker-cable]
   - Micro USB cable
   - Power brick
 - Audio
@@ -94,7 +94,7 @@ My backpack weighs 5.9kg, and my travel jacket and neck stash weigh 2.2kg.
 - Chewing gum
 - Tissues
 - Wet wipes
-- [Sleep mask][bucky-eyemask]
+- [Bucky eye mask][bucky-eyemask]
 - Face mask
 - Handkerchief
 - Folding hair brush (from previous hotel stay)
@@ -104,9 +104,9 @@ My backpack weighs 5.9kg, and my travel jacket and neck stash weigh 2.2kg.
   - [Oral-B Glide Pro-Health Comfort Plus mint-flavored floss][oralb-floss]
   - Tongue cleaner
   - Night guard
-- [Nail clippers][designgo-nailclippers]
+- [Travel nail clippers][designgo-nailclippers]
 - Pads and pantyliners
-- Exfoliating mesh soap saver pouch (with some saved bar soap)
+- [Exfoliating mesh soap saver][miracleshop-soapsaver] (with some saved bar soap)
 - Bar shampoo from [Lush][lush]
 - Liquids
   - Mineral-based sunscreen (zinc oxide 19%)
@@ -121,7 +121,7 @@ My backpack weighs 5.9kg, and my travel jacket and neck stash weigh 2.2kg.
 
 ## Medication
 
-- [Pill bags][apex-pillbaggies]
+- [Apex pill bags][apex-pillbaggies]
 - Antihistamine (Zyrtec)
 - Anti-diarrheal medication
   - Over-the-counter agent (Imodium A-D)
@@ -131,6 +131,14 @@ My backpack weighs 5.9kg, and my travel jacket and neck stash weigh 2.2kg.
 - Pain relief (Tylenol)
 - Sleep aid (Ambien)
 
+## Stationery
+
+- [Muji select color pen, 0.3mm][muji-pen] (black, blue, and green)
+- [Midori Traveler's passport-sized notebook][travelers-passport]
+  - [Blank refill][travelers-blankrefill]
+  - [Craft file][travelers-craftfile]
+  - [Pen holder][travelers-penholder]
+
 ## Other
 
 - [Combination lock (1)][masterlock-combo]
@@ -138,6 +146,7 @@ My backpack weighs 5.9kg, and my travel jacket and neck stash weigh 2.2kg.
 - Empty plastic zipper bags
 - Copies of transportation tickets and passport
 - [Hydroflask vacuum insulated 18-oz water bottle][hydroflask-bottle]
+- [Rayovac LED pen light][rayovac-penlight]
 
 [anker-astro]: https://www.amazon.com/gp/product/B00EF1OGOG/
 [anker-cable]: http://amzn.to/29Du6T8
@@ -167,12 +176,15 @@ My backpack weighs 5.9kg, and my travel jacket and neck stash weigh 2.2kg.
 [luvvitt-case]: http://amzn.to/29HEPvk
 [marmot-julia]: http://amzn.to/29JHpo6
 [masterlock-combo]: http://amzn.to/29Ov2rk
+[miracleshop-soapsaver]: http://amzn.to/29ReyP8
 [mountainhardware-fedora]: https://www.rei.com/product/101484/mountain-hardwear-raffia-fedora-hat-womens
+[muji-pen]: http://www.muji.us/store/stationery/pen-pencils-1/select-color-pen.html
 [oralb-floss]: http://amzn.to/29JkYMF
 [pacsafe-venturesafe]: http://amzn.to/2afL1N1
 [pacsafe-citysafe]: http://amzn.to/29AoXQr
 [patagonia-downsweater]: http://amzn.to/2afOuev
 [qantas-allowance]: http://www.qantas.com/travel/airlines/carry-on-baggage/global/en#carry-on-baggage-allowances
+[rayovac-penlight]: http://amzn.to/29G3f91
 [saucony-triumphiso]: http://amzn.to/2afUDYa
 [schwab-checking]: http://www.schwab.com/public/schwab/banking_lending/checking_account/index-a.html
 [sierradesigns-solarwind]: http://amzn.to/29HFe16
@@ -182,3 +194,7 @@ My backpack weighs 5.9kg, and my travel jacket and neck stash weigh 2.2kg.
 [spigen-slimarmor]: http://amzn.to/29HIvxo
 [steripen-ultra]: http://amzn.to/29BSf0M
 [toadnco-islanddress]: http://amzn.to/29HGl0J
+[travelers-blankrefill]: http://amzn.to/29XwBU4
+[travelers-craftfile]: http://amzn.to/29PBM9d
+[travelers-passport]: http://amzn.to/29EDYgh
+[travelers-penholder]: http://amzn.to/29G3IrN
