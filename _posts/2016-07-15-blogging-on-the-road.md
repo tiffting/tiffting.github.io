@@ -27,7 +27,7 @@ In case you're interested, here's a [cheatsheet for Markdown syntax][md-cheatshe
 [jekyll]: https://jekyllrb.com/
 [markdown]: http://whatismarkdown.com
 [md-cheatsheet]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-[permalink-packing-list]: /luggage/gear/2016/07/15/packing-list.html
+[permalink-packing-list]: /the-7kg-limited-packing-list
 [prose]: http://prose.io/
 [sm-build-a-blog]: https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/
 [workingcopy]: http://workingcopyapp.com
