@@ -2,7 +2,6 @@
 published: true
 layout: post
 title: WOW air misses the mark
-excerpt_separator: |+
 ---
 ## Grade
 
