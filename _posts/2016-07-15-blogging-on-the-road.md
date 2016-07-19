@@ -3,7 +3,6 @@ layout: post
 title: Blogging on the road
 categories: writing
 published: true
-excerpt_separator: |+
 ---
 Being [limited to 7kg of stuff][permalink-packing-list], I opted not to bring my laptop (1.82kg with case) and instead threw down the money to buy a tablet (800g with case and keyboard). But how would I publish any musings about my travels without a laptop? I knew I wanted to use [Github][github], but I wasn't sure how well it works with tablets.
 
