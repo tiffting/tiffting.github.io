@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: WOW air misses the mark
+excerpt_separator: <!–-break-–>
 ---
 ## Grade
 
@@ -10,6 +11,8 @@ D.
 ## Would I fly with them again?
 
 Nope.
+
+<!--break-->
 
 ## Review
 
