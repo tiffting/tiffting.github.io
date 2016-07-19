@@ -3,8 +3,6 @@ published: true
 layout: post
 title: WOW air misses the mark
 ---
-![WOW air logo]({{site.baseurl}}/images/2016/07/19/wow-air-misses-the-mark/wow-logo.jpeg)
-
 ## Grade
 
 D.
@@ -14,6 +12,8 @@ D.
 Nope.
 
 ## Review
+
+![WOW air logo]({{site.baseurl}}/images/2016/07/19/wow-air-misses-the-mark/wow-logo.jpeg)
 
 When I'd first started thinking about my round-the-world trip, I considered beginning in New York City before flying to Europe. But then I started hearing about these Icelandic discount airlines doing sales from the West Coast, SF included, to different parts of Europe. [WOW air][wowair] in particular was advertising cheap flights, and since I have a friend in Paris, I opted to fly straight from SF to Paris (with a layover in Reykjavik).
 
