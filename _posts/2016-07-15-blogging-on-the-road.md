@@ -6,6 +6,8 @@ published: true
 ---
 Being [limited to 7kg of stuff][permalink-packing-list], I opted not to bring my laptop (1.82kg with case) and instead threw down the money to buy a tablet (800g with case and keyboard). But how would I publish any musings about my travels without a laptop? I knew I wanted to use [Github][github], but I wasn't sure how well it works with tablets.
 
+<!--more-->
+
 So after a bit of searching online and trial and error, I set up [Github Pages][github-pages] with [Jekyll][jekyll] from my laptop. ([This Github documentation][github-pages-with-jekyll] has more details about how to use the two of them together, and [this Smashing Magazine post][sm-build-a-blog] gives you a good starting point.)
 
 What approaches did I try, and which did I ultimately go with?
