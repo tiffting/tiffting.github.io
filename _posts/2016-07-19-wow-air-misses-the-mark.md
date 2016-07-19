@@ -11,6 +11,8 @@ D.
 
 Nope.
 
+<!--more-->
+
 ## Review
 
 ![WOW air logo]({{site.baseurl}}/images/2016/07/19/wow-air-misses-the-mark/wow-logo.jpeg)
