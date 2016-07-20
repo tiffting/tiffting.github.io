@@ -6,6 +6,8 @@ categories: connectivity
 ---
 If you have an unlocked [GSM][gsm] phone, you can easily avoid buying and carrying around a bunch of SIM cards with you especially if you're traveling to a bunch of different countries by subscribing to any [T-Mobile Simple Choice plan][tmobile-plans]. I'm going to be keeping a running tally of how well the service performs in each city I visit.
 
+<!--more-->
+
 Jump directly to a city:
 
 - [Keflavik, Iceland](#keflavi-iceland)
