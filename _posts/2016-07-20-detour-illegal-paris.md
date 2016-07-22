@@ -6,6 +6,8 @@ categories: walking
 ---
 If you haven't heard of [Detour][detour] and you live in or are visiting San Francisco, Austin, New York City, London, Paris, Berlin, Barcelona, or Marrakech; do yourself a favor, download the app, and experience one of their self-guided walking tours today. My first [Detour][detour] was [Radiolab Austin](https://www.detour.com/austin/radiolab-austin), which covers the serial killings of servant girls in the late 1800s. The second one I did was [Making Market Street](https://www.detour.com/san-francisco/market-street) in San Francisco.
 
+<!--more-->
+
 Before visiting Paris this time, I was excited to tackle my third [Detour][detour], [Illegal Paris](https://www.detour.com/paris/illegal-paris). It takes you away from the usual tourist view of the city and into its historic and current underbelly. I also noticed a few things off the tour that you might also appreciate.
 
 It starts in Montmarte at [Au Lapin Agile][au-lapin-agile]. As I approached it, I saw some lovely architecture:
