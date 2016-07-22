@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: WOW air misses the mark
+date: 2016-07-19 13:00:00 +0200
 ---
 ## Grade
 
