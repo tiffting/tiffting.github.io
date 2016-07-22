@@ -23,6 +23,11 @@ Including the time spent in the gift shop and other exhibits like the one for Be
 
 ![Puzzling]({{site.baseurl}}/images/2016/07/20/musee-marmottan-monet.jpeg)
 
-I hope to return someday when the basement gallery is open!
+I hope to return someday when the basement gallery is open! After another Métro ride to Paul's office, we had lunch at [Crêpe Avenue][crepe-avenue]. We both ordered galettes: he got the St. Germaine with steak, and I tried the Savoyarde with raclette cheese. Both were €10.50 and looked the same on the outside:
 
-[musee-marmottan]: http://www.marmottan.fr/
+![Savory crêpes are known as galettes here.]({{site.baseurl}}/images/2016/07/20/musee-marmottan-monet/galette.jpeg)
+
+What a delicious final French meal before we said goodbye. I went to mail my Monet postcards, and he's off to a music festival in Boom, Belgium for the weekend. I hope to see him again soon!
+
+[crepe-avenue]: http://www.crepeavenue.com
+[musee-marmottan]: http://www.marmottan.fr
