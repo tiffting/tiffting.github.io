@@ -6,6 +6,8 @@ categories: museums
 ---
 [Musée Marmottan Monet][musee-marmottan] was the first of several spots I visited that Sneha recommended. She spent some time in Paris while she was going to grad school, and I get to reap the benefits of her experience.
 
+<!--more-->
+
 It's about a ten-minute walk west of La Muette Métro station through a park called Jardin du Ranelagh. I got a little lost because I thought Google Maps was telling me to look for a roundabout, but it was really directing me around a gazebo.
 
 The first thing I noticed was the construction around the museum. The second was the busts of the Marmottans responsible for the collection.
