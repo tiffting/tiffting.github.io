@@ -42,6 +42,6 @@ Towards the end of our tour, we stopped by a little park on Nunne Street with a 
 
 Marii left us in [Raekoja Plats](http://www.guideintallinn.com/town-hall-square/) (Town Hall Square), which is known for having the world's first Christmas tree in 1441 and still hosts a Christmas market every winter. She pointed out the tiny figure who serves as the weather vane on top of the Town Hall tower. Vana Toomas (Old Thomas), and he was a peasant boy in the 1400s. In an archery contest organized by the aristocratic elite, he was the only one to hit a wooden parrot on top of a pole. Despite having won, he wasn't awarded the contest prize because of his low-born status. Instead, his reward was to serve as part of the city guard for the rest of his life. He was immortalized in copper in 1530, and even today, people believe that nothing bad will happen to Tallinn as long as he's up there keeping watch.
 
-I enjoyed listening to Marii's stories about the history of Tallinn and Estonia. It's really such a shame that many original buildings are no longer standing because of bombings and lightning!
+I enjoyed listening to Marii's stories about the history of Tallinn and Estonia. It's really such a shame that many original buildings are no longer standing because of bombings and lightning! If you end up doing the free walking tour, please remember to bring a cash tip for the guide. They are usually college students doing it voluntarily, so you can show your appreciation by giving them €5-10 if you think they did a good job.
 
 [parliament]: http://www.riigikogu.ee/en/
