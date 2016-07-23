@@ -44,4 +44,19 @@ Marii left us in [Raekoja Plats](http://www.guideintallinn.com/town-hall-square/
 
 I enjoyed listening to Marii's stories about the history of Tallinn and Estonia. It's really such a shame that many original buildings are no longer standing because of bombings and lightning! If you end up doing the free walking tour, please remember to bring a cash tip for the guide. They are usually college students doing it voluntarily, so you can show your appreciation by giving them €5-10 if you think they did a good job.
 
+After the tour ended, I checked out [Raeapteek](http://www.raeapteek.ee/welcome-to-the-homepage-of-town-halls-pharmacy?lang=en) (Town Hall Pharmacy), per Marii's recommendation. The pharmacy is in the same building as an antique store, so be sure to turn left into the pharmacy to avoid being barraged with kitsch. It wasn't called out specifically, but I noticed a small bottle labeled "cannabis" with what appeared to be seeds inside. And another bottle was labeled "sun-bleached dog faeces". I have no clue what it was used for, but that's gotta come back and be the next silicon valley in San Francisco.
+
+![Another example of cannabis's medicinal benefits]({{site.baseurl}}/images/2016/07/22/tallinn-free-tour/apteek-cannabis.jpeg)
+![Dog poop for sale]({{site.baseurl}}/images/2016/07/22/tallinn-free-tour/apteek-poop.jpeg)
+
+Finally, a peek at different parts of the [Tallinn city wall](http://www.guideintallinn.com/city-wall/) follows. [Viru Gate](http://www.visitestonia.com/en/viru-gate) is likely where many people enter Old Town today, but on the north side, you can enter on Pikk to see an intact arch.
+
+![Viru Gate]({{site.baseurl}}/images/2016/07/22/tallinn-free-tour/citywall-virugate.jpeg)
+![Tall Gate]({{site.baseurl}}/images/2016/07/22/tallinn-free-tour/citywall-pikkgate.jpeg)
+
+And here's an interesting-looking building for your viewing pleasure.
+
+![On a hot tin roof]({{site.baseurl}}/images/2016/07/22/tallinn-free-tour/metal-roof.jpeg)
+
+
 [parliament]: http://www.riigikogu.ee/en/
