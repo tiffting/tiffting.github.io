@@ -22,7 +22,7 @@ Marii, our guide, started us off in front of Niguliste Kirik (St. Nicolas's Chur
 
 [Riigikogu][parliament] (Parliament Building, a.k.a. Toompea Castle) is yet another pink landmark in Tallinn. On one end, you'll see [Pikk Hermann](http://www.riigikogu.ee/en/visit-us/toompea-castle/tall-hermann-toompea-towers/) (Tall Herman), and whoever's flag is flying on it indicates who is in power. The tower of power, so to speak.
 
-![Pink Parliament]({{site.baseurl}}/images/2016/07/22/tallinn-free-tour/parliament.jpeg)
+![Pink Parliament]({{site.baseurl}}/images/2016/07/22/tallinn-free-tour/pink-parliament.jpeg)
 ![The tower of power]({{site.baseurl}}/images/2016/07/22/tallinn-free-tour/herman.jpeg)
 
 On the way to [Toomkirik](http://toomkirik.ee) (St. Mary's Cathedral), we passed by a couple of buskers, both of whom were women and playing instruments I hadn't seen before. Maybe they're from medieval times! The clock on St. Mary's Cathedral is beautiful, so I stopped to admire it.
@@ -38,7 +38,7 @@ At the [Patkuli viewing platform](https://www.likealocalguide.com/tallinn/patkul
 
 Towards the end of our tour, we stopped by a little park on Nunne Street with a little waterfall and a [bronze deer statue](http://tallinn101.com/deer-statue-and-the-legend-of-how-tallinn-got-its-name/). It's actually a replica since the original has been stolen a few times. The original now resides in the [Tallinn City Museum](http://linnamuuseum.ee/linnamuuseum/en/) to prevent future kidnappings. Above the park on the back of the [Parliament Building][parliament] is a graffiti rendition of the current members of the Estonian government, including Taavi Roivas, the youngest prime minister in the EU (34 years old when he was sworn in in 2014).
 
-![Banksy-style]({{site.baseurl}}/images/2016/07/22/tallinn-free-tour/parliament.jpeg)
+![Banksy-style]({{site.baseurl}}/images/2016/07/22/tallinn-free-tour/parliament-graffiti.jpeg)
 
 Marii left us in [Raekoja Plats](http://www.guideintallinn.com/town-hall-square/) (Town Hall Square), which is known for having the world's first Christmas tree in 1441 and still hosts a Christmas market every winter. She pointed out the tiny figure who serves as the weather vane on top of the Town Hall tower. Vana Toomas (Old Thomas), and he was a peasant boy in the 1400s. In an archery contest organized by the aristocratic elite, he was the only one to hit a wooden parrot on top of a pole. Despite having won, he wasn't awarded the contest prize because of his low-born status. Instead, his reward was to serve as part of the city guard for the rest of his life. He was immortalized in copper in 1530, and even today, people believe that nothing bad will happen to Tallinn as long as he's up there keeping watch.
 
