@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: A Day with Karin
+title: A day with Karin
 categories: walking food
 date: '2016-07-21 21:00:00 +0300'
 ---
