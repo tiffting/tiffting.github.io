@@ -26,7 +26,7 @@ For dessert, I got their famous frozen bleu cheese cheesecake (€4.90) with a s
 
 ![This bleu me away.]({{site.baseurl}}/images/2016/07/22/tallinn-day-2/rataskaevu-cheesecake.jpeg)
 
-Andra drew the city wall on my receipt as a thank you. She's the best!
+In case you're curious, the little orange berries are [sea buckthorn](https://en.m.wikipedia.org/wiki/Hippophae) (astelpaju in Estonian). They are very tart, but I enjoyed them very much, and they pack a large vitamin C punch. Andra drew the city wall on my receipt as a thank you. She's the best!
 
 ![Receipts are so much better when they're drawn on.]({{site.baseurl}}/images/2016/07/22/tallinn-day-2/rataskaevu-receipt.jpeg)
 
