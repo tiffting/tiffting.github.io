@@ -33,3 +33,4 @@ I went straight to the grocery store (Rimi Supermarket) to pick up some local mi
 
 ![Go to the grocery store]({{site.baseurl}}/images/2016/07/21/tallinn-arrival/rimi-supermarket.jpeg)
 ![Beer and beer]({{site.baseurl}}/images/2016/07/21/tallinn-arrival/pohjala-beer.jpeg)
+![Not too bad]({{site.baseurl}}/images/2016/07/21/tallinn-arrival/rimi-receipt.jpeg)
