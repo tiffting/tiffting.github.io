@@ -52,6 +52,7 @@ I asked for a box for my leftovers so that I could have some room for dessert fr
 
 ![Cake in the display case]({{site.baseurl}}/images/2016/07/21/a-day-with-karin/fhoone-displaycase.jpeg)
 ![Happy for halvaa]({{site.baseurl}}/images/2016/07/21/a-day-with-karin/fhoone-halvaa.jpeg)
+![Good value!]({{site.baseurl}}/images/2016/07/21/a-day-with-karin/fhoone-receipt.jpeg)
 
 We would normally have taken the tram back to the center of the city, but the old tracks are currently being redone for the new trams. So we looked for the temporary bus stop and found it across the street from this beautiful house.
 
