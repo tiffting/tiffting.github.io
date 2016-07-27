@@ -1,7 +1,8 @@
 ---
 published: true
 layout: post
-categories: luggage
+tags:
+ - luggage
 title: The anti-packing list
 ---
 Just as it's valuable to know what made it into my [7kg of luggage][permalink-packing-list], I think it's just as valuable (if not more so) to know what was eliminated and why. All of these items are things I actually tried out in person and took full advantage of great return policies to get rid of later.
