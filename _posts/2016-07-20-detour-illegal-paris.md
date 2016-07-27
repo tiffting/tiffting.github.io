@@ -2,7 +2,9 @@
 layout: post
 title: 'Detour: Illegal Paris'
 published: true
-categories: walking
+tags:
+ - architecture
+ - walking
 date: 2016-07-20 21:00:00 +0200
 ---
 If you haven't heard of [Detour][detour] and you live in or are visiting San Francisco, Austin, New York City, London, Paris, Berlin, Barcelona, or Marrakech; do yourself a favor, download the app, and experience one of their self-guided walking tours today. My first [Detour][detour] was [Radiolab Austin](https://www.detour.com/austin/radiolab-austin), which covers the serial killings of servant girls in the late 1800s. The second one I did was [Making Market Street](https://www.detour.com/san-francisco/market-street) in San Francisco.
