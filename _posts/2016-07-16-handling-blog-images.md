@@ -2,7 +2,9 @@
 published: true
 layout: post
 title: Handling blog images
-categories: writing
+tags:
+ - tech
+ - writing
 ---
 Into the wee hours last night, I wasted a bunch of time wrestling with how to handle photos for my blog. My technical goals for the photos on my blog are as follows:
 
