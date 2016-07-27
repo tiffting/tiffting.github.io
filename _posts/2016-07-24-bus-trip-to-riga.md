@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: Bus ride to Riga
-categories: travel
+tags:
+ - transport
 date: '2016-07-24 15:00:00 +0300'
 ---
 On the walk to the Tallinn Bus Station from my [Airbnb](https://www.airbnb.com/c/tting1?s=8&user_id=276940&ref_device_id=0d023e62f7dc763cd184a94c9ef809b981c0624b), I saw a sign that had a double meaning in Japanese. I wonder if the proprietors know about it. I also passed through Keskturg (Tallinn's Central Market) and admired their fresh fruits and chanterelles.
