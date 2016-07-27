@@ -3,7 +3,8 @@ published: true
 layout: post
 title: Tallinn arrival
 date: '2016-07-21 13:00:00 +0300'
-categories: transport
+tags:
+ - transport
 ---
 I can't lie: I was a bit nervous on the way to my first unfamiliar destination. I didn't know a lick of Estonian, and I wasn't sure what to expect. But Tallinn looked beautiful even as we landed in the regional jet from Paris.
 
