@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: Doors of Tallinn
-categories: walking
+tags:
+ - architecture
 date: '2016-07-23 17:00:00 +0300'
 ---
 I noticed a book in a gift shop about the doors of Tallinn, but I opted to take my own photos and share them with you here. I hope you enjoy them! (Yes, I did see a car advertising door maintenance services in case you were wondering how they handle all these custom doors.)
