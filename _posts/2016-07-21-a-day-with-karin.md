@@ -2,7 +2,10 @@
 published: true
 layout: post
 title: A day with Karin
-categories: walking food
+tags:
+ - architecture
+ - food
+ - walking
 date: '2016-07-21 21:00:00 +0300'
 ---
 During my first evening in Tallinn, I had the pleasure of wandering around Tallinn with Karin, a friend of a friend who lives in Lviv. She's lived in Tallinn for several years now, and she grew up in the Estonian countryside. Work has been slow during the summer because many people she works with are on holiday, so she was able to meet me at 4:30pm on a Thursday to show me around.
