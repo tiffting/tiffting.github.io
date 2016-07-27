@@ -2,7 +2,9 @@
 published: true
 layout: post
 title: Musée Marmottan Monet
-categories: museums
+tags:
+ - art
+ - museums
 date: 2016-07-20 12:30:00 +0200
 ---
 [Musée Marmottan Monet][musee-marmottan] was the first of several spots I visited that Sneha recommended. She spent some time in Paris while she was going to grad school, and I get to reap the benefits of her experience.
