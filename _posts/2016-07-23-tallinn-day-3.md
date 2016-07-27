@@ -2,7 +2,10 @@
 published: true
 layout: post
 title: 'Tallinn, day 3'
-categories: walking food
+tags:
+ - architecture
+ - food
+ - walking
 date: '2016-07-23 15:00:00 +0300'
 ---
 I wanted to start my day with a 258-step climb up to the top of [Oleviste Kogudus](http://www.oleviste.ee) (St. Olaf's Church, €2). On the way, I admired the view of some architecture in Old Town.
