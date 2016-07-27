@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Tallinn, day 2'
-categories: food
+tags:
+ - food
 date: '2016-07-22 22:00:00 +0300'
 ---
 After the [walking tour](/tallinn-free-tour), I was ready for some fuel, so of course, I had to visit one of the top-rated restaurants in Tallinn. [Rataskaevu 16][rataskaevu16] was recommended by friends who've visited Tallinn and [Karin](/a-day-with-karin), my lovely local friend. It's in Old Town, but that doesn't mean it's not good or expensive!
