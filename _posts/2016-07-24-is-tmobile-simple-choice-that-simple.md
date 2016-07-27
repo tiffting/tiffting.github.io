@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: Is T-Mobile's Simple Choice plan that simple?
-categories: connectivity
+tags:
+ - tech
 date: '2016-07-24 14:30:00 +0300'
 ---
 If you have an unlocked [GSM][gsm] phone, you can easily avoid buying and carrying around a bunch of SIM cards with you especially if you're traveling to a bunch of different countries by subscribing to any [T-Mobile Simple Choice plan][tmobile-plans]. They include unlimited data and SMS, and phone calls are 20 cents per minute. (I use my [Google Voice][google-voice] number to get around that.) Check out the [full list of supported countries][tmobile-countries], but I'm going to be keeping a running tally of how well the service really performs in each city I visit.
