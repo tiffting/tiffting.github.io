@@ -3,7 +3,11 @@ published: true
 layout: post
 title: Tallinn free tour
 date: '2016-07-22 14:00:00 +0300'
-categories: walking
+tags:
+ - architecture
+ - graffiti
+ - museums
+ - walking
 ---
 I found out about the [Tallinn free tour](http://www.traveller.ee/tour/tallinn-free-tour) ahead of time and penned it into my schedule for my first full day in the city since it begins at noon, and it would've been too much of a rush to try to do it after I landed.
 
