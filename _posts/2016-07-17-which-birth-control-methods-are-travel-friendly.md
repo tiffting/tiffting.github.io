@@ -1,10 +1,11 @@
 ---
 published: true
 layout: post
-categories: health
+tags:
+ - health
 title: Which birth control methods are travel friendly?
 ---
-Many questions arise when you start planning a really long trip. As a woman, I started wondering which birth control methods are friendlier for someone on the go. (Any methods that I don't mention are ones I have no experience with but ruled out because of questionable effectiveness, bulk, or frequency of having to fuss with it.)
+Many questions arise when you start planning a really long trip. As a woman, I started wondering which birth control methods are friendlier for someone on the go. (Any methods that I don't mention are ones I have no experience with but ruled out because of questionable effectiveness, bulk, or frequency of having to fuss with it.) Don't get me wrong: I'm using birth control for its secondary benefit, which is controlling my menstrual cycle. This is a pretty cool superpower when you need to limit the quantity of feminine hygiene products you have on you.
 
 <!--more-->
 
