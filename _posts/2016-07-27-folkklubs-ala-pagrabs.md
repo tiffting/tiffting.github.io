@@ -28,7 +28,7 @@ And of course I was able to finish all 1.25L of beer! The dudes were a impressed
 
 ---
 
-The next night, Nate and Davide met up with me at the main bar for beer and dinner. Viv and Julia joined later, and Kristine, a local Rigan, was able to enjoy a beer with us after coming back from being out of town. Davide and I both ordered six-beer flights. This time, I let our waiter select the beers after telling him which ones I'd already tried the day before. The first was a house-made moonshine with berry juice, the next two were IPAs, the fourth was a light beer from the Latvian countryside, the fifth was a commonly found Latvian dark beer, and the last was yet another IPA. My favorite out of these was the third one, known as the 5-day IPA.
+The next night after I returned from my [Sigulda day trip](/sigulda-day-trip-city-route), Nate and Davide met up with me at the main bar for beer and dinner. Viv and Julia joined later, and Kristine, a local Rigan, was able to enjoy a beer with us after coming back from being out of town. Davide and I both ordered six-beer flights. This time, I let our waiter select the beers after telling him which ones I'd already tried the day before. The first was a house-made moonshine with berry juice, the next two were IPAs, the fourth was a light beer from the Latvian countryside, the fifth was a commonly found Latvian dark beer, and the last was yet another IPA. My favorite out of these was the third one, known as the 5-day IPA.
 
 ![Beer flight card, second day]({{site.baseurl}}/images/2016/07/26/folkklubs-ala-pagrabs/flightcard-01.jpeg)
 ![Dueling flights]({{site.baseurl}}/images/2016/07/26/folkklubs-ala-pagrabs/twoflights.jpeg)
