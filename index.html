@@ -18,26 +18,28 @@ published: true
   {% endfor %}
 </div>
 
-<!-- render pagination links if there is more than one page -->
-{％ if paginator.total_pages > 1 ％}
-<div class="pagination">    
-  {％ if paginator.previous_page ％}
-    <!-- special case: 2nd page should link to index.html -->
-    {％ if paginator.page == 2 ％}
-      <a href="http://www.scottlogic.com/">&laquo; Previous</a>
-    {％ else ％}
-      <a href="http://www.scottlogic.com/page/">&laquo; Previous</a>
-    {％ endif ％}
-  {％ else ％}
-    <!-- if no previous pages, render a span instead of an anchor -->
-    <span>&laquo; Previous</span>
-  {％ endif ％}
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+  {% else %}
+    <span>&laquo; Prev</span>
+  {% endif %}
 
-  {％ if paginator.next_page ％}
-    <a class='next' href="http://www.scottlogic.com/page/">Next &raquo;</a>
-  {％ else ％}
-    <!-- if no next pages, render a span instead of an anchor -->
-    <span class='next'>Next &raquo;</span>
-  {％ endif ％}
+  {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <em>{{ page }}</em>
+    {% elsif page == 1 %}
+      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+    {% else %}
+      <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+    {% endif %}
+  {% endfor %}
+
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+  {% else %}
+    <span>Next &raquo;</span>
+  {% endif %}
 </div>
-{％ endif ％}
+{% endif %}
