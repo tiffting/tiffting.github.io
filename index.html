@@ -17,3 +17,27 @@ published: true
     </article>
   {% endfor %}
 </div>
+
+<!-- render pagination links if there is more than one page -->
+{％ if paginator.total_pages > 1 ％}
+<div class="pagination">    
+  {％ if paginator.previous_page ％}
+    <!-- special case: 2nd page should link to index.html -->
+    {％ if paginator.page == 2 ％}
+      <a href="http://www.scottlogic.com/">&laquo; Previous</a>
+    {％ else ％}
+      <a href="http://www.scottlogic.com/page/">&laquo; Previous</a>
+    {％ endif ％}
+  {％ else ％}
+    <!-- if no previous pages, render a span instead of an anchor -->
+    <span>&laquo; Previous</span>
+  {％ endif ％}
+
+  {％ if paginator.next_page ％}
+    <a class='next' href="http://www.scottlogic.com/page/">Next &raquo;</a>
+  {％ else ％}
+    <!-- if no next pages, render a span instead of an anchor -->
+    <span class='next'>Next &raquo;</span>
+  {％ endif ％}
+</div>
+{％ endif ％}
