@@ -49,6 +49,9 @@ url: http://tiffting.com
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
+# How many posts to show per page?
+paginate: 10
+
 #
 # !! You don't need to change any of the configuration flags below !!
 #
