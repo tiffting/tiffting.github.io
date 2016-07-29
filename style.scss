@@ -327,14 +327,14 @@ footer {
   margin: 0 0.5rem;
   
   span {
-    color: $gray;
+    color: $lightGray;
   }
 }
 
 .page-number {
   margin: 0 0.25rem;
   
-  &.current {
+  .current {
     font-weight: bold;
   }
 }
