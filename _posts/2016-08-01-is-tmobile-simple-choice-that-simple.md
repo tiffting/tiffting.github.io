@@ -26,7 +26,7 @@ Jump directly to a country or city:
 - [Ukraine](#ukraine)
   - [Kiev](#kiev)
   - [Malyn](#malyn)
-  - [V'yunyshche](#vyunyshce)
+  - [V'yunyshche](#vyunyshche)
 
 ## Estonia
 
