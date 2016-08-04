@@ -18,16 +18,16 @@ I had arrived too late for [Mano Guru](http://www.manoguru.lt)'s breakfast menu,
 ![Filling salad]({{site.baseurl}}/images/2016/07/28/vilnius-day-1/manoguru-salad.jpeg)
 ![Lavazza]({{site.baseurl}}/images/2016/07/28/vilnius-day-1/manoguru-coffee.jpeg)
 
-I'll actually cover the walking tour in its own post since there were so many interesting topics, so this post picks back up after the official tour ended and our guide Martina led anyone who was interested to a local pub called [Būsi Trečias](http://www.busitrecias.lt/index.php/en/). About 16 of us sat around a couple of wooden picnic tables outside and ordered beer, pink soup (beetroot, onions, cream, dill, served with a side of boiled potatoes; €1.50), potato pancakes, and fried bread with cheese and mayonnaise sauce (€1.50). Even though the pink soup looks like Pepto-Bismol, I enjoyed it on the hot day we were having.
+I'll actually cover the walking tour [in its own post](/vilnius-walking-tour) since there were so many interesting topics, so this post picks back up after the official tour ended and our guide Martina led anyone who was interested to a local pub called [Būsi Trečias](http://www.busitrecias.lt/index.php/en/). About 16 of us sat around a couple of wooden picnic tables outside and ordered beer, pink soup (beetroot, onions, cream, dill, served with a side of boiled potatoes; €1.50), potato pancakes, and fried bread with cheese and mayonnaise sauce (€1.50). Even though the pink soup looks like Pepto-Bismol, I enjoyed it on the hot day we were having.
 
 ![Looks like Pepto-Bismol]({{site.baseurl}}/images/2016/07/28/vilnius-day-1/busitrecias-pinksoup.jpeg)
 ![Yummy fried carbs]({{site.baseurl}}/images/2016/07/28/vilnius-day-1/busitrecias-friedbread.jpeg)
 
-Cecilia and Taavet had to leave early to get their bus tickets to Poland, but I hope to meet up with them again in Hong Kong for New Year's Eve!
+Cecilia (a nurse) and her boyfriend Taavet (originally from Estonia) had to leave early to get their bus tickets to Poland, but I hope to meet up with them again in Hong Kong for New Year's Eve!
 
 ![New friends from Hong Kong]({{site.baseurl}}/images/2016/07/28/vilnius-day-1/busitrecias-ceciliataavet.jpeg)
 
-Sarah and Chris agreed that we should go exploring some more food, drinks, and art in the city, so we started at [Local T](http://www.localt.lt), where Martina said we should be able to find gilių kava (acorn coffee). They do indeed have it on their menu, but because manufacturers are making less and less of it, they didn't have it in stock. Instead, we tried their jam teas. Chris got one with cherry jam, Sarah got one with sea buckthorn jam with ginger, and I got one with just sea buckthorn jam (€1.80 each, €0.09 off for smiling). They put a little piece of dry ice in each cup so that smoke starts pouring out of the top.
+Sarah and Chris (my new Québécois buddies: a fashion designer and a Cisco network specialist) agreed that we should go exploring some more food, drinks, and art in the city, so we started at [Local T](http://www.localt.lt), where Martina said we should be able to find gilių kava (acorn coffee). They do indeed have it on their menu, but because manufacturers are making less and less of it, they didn't have it in stock. Instead, we tried their jam teas. Chris got one with cherry jam, Sarah got one with sea buckthorn jam with ginger, and I got one with just sea buckthorn jam (€1.80 each, €0.09 off for smiling). They put a little piece of dry ice in each cup so that smoke starts pouring out of the top.
 
 ![Interesting menu]({{site.baseurl}}/images/2016/07/28/vilnius-day-1/localt-menu.jpeg)
 ![Chris and Sarah are happy with their choices.]({{site.baseurl}}/images/2016/07/28/vilnius-day-1/localt-chrissarah.jpeg)
