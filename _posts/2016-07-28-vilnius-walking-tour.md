@@ -4,7 +4,6 @@ title: Vilnius walking tour
 layout: post
 tags:
   - architecture
-  - friends
   - walking
 date: '2016-07-28 16:00:00 +0300'
 ---
