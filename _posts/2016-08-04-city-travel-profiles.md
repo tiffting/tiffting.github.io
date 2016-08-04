@@ -1,7 +1,7 @@
 ---
-published: false
+published: true
 title: City travel profiles
-layout: post
+layout: cities
 tags:
   - vitals
 date: '2016-08-04 20:00:00 +0300'
