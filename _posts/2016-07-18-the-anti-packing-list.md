@@ -1,6 +1,6 @@
 ---
 published: true
-layout: post
+layout: products
 tags:
  - luggage
 title: The anti-packing list
