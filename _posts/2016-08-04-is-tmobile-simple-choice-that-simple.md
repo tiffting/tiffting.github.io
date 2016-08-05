@@ -85,7 +85,7 @@ I was connected to [Vodafone][vodafone-ua]'s 3G network except in the subways wh
 
 ### Lviv
 
-In the center of the city, [Vodafone][vodafone-ua]'s 3G network was pretty good, but I was staying south of city center, where EDGE was more dominant.
+In the center of the city, [Vodafone][vodafone-ua]'s 3G network was pretty good, but I was staying south of city center, where EDGE was more dominant. (2016-08-04)
 
 ![Also warm in Lviv but not as hot as Kiev]({{site.baseurl}}/images/tmobile/ukraine-lviv.png)
 
