@@ -3,8 +3,8 @@ published: true
 title: A day in V'yunyshche
 layout: post
 tags:
+  - food
   - friends
-  - transport
 date: '2016-07-30 23:00:00 +0300'
 ---
 Once Andrey and I arrived at V'yunyshche, his mom Sveta and godmother Tanya were there to meet us, as were an older godmother Romania who lives nearby and Tanya's mom. None of them spoke English, but Andrey acted as translator.
