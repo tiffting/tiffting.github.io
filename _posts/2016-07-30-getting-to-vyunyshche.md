@@ -54,7 +54,7 @@ We reached the center of Malyn after about 1.5 hours, and Andrey was waiting for
 
 ![Stop narcotics, eat poppy seeds]({{site.baseurl}}/images/2016/07/30/getting-to-vyunyshche/malyn-popsicle.jpeg)
 
-Andrey's family's preferred taxi driver picked us up from his house and drove us about 15 minutes to reach V'yunyshche, a 21-person village. Check out my post on the village for more of the story.
+Andrey's family's preferred taxi driver picked us up from his house and drove us about 15 minutes to reach V'yunyshche, a 21-person village. Check out [my post on the village](/a-day-in-vyunyshche) for more of the story.
 
 [cs]: https://www.couchsurfing.com/
 [skybus]: https://kbp.aero/en/transport/sky-bus/
