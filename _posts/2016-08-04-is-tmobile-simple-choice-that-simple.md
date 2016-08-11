@@ -4,7 +4,7 @@ layout: post
 title: Is T-Mobile's Simple Choice plan that simple?
 tags:
   - tech
-date: '2016-08-04 14:30:00 +0300'
+date: '2016-08-11 10:00:00 +0300'
 ---
 If you have an unlocked [GSM][gsm] phone, you can easily avoid buying and carrying around a bunch of SIM cards with you especially if you're traveling to a bunch of different countries by subscribing to any [T-Mobile Simple Choice plan][tmobile-plans]. They include unlimited data and SMS, and phone calls are 20 cents per minute. (I use my [Google Voice][google-voice] number to get around that.) Check out the [full list of supported countries][tmobile-countries], but I'm going to be keeping a running tally of how well the service really performs in each city I visit.
 
@@ -23,6 +23,8 @@ Jump directly to a country or city:
   - [Sigulda](#sigulda)
 - [Lithuania](#lithuania)
   - [Vilnius](#vilnius)
+- [Turkey](#turkey)
+  - [Istanbul](#istanbul)
 - [Ukraine](#ukraine)
   - [Kiev](#kiev)
   - [Lviv](#lviv)
@@ -75,23 +77,31 @@ See a pattern yet? Yes, it's [Tele2][tele2-lt] again, and they provide up to 3G 
 
 ![More hot weather in Vilnius]({{site.baseurl}}/images/tmobile/lithuania-vilnius.png)
 
+## Turkey
+
+### Istanbul
+
+[AVEA][avea] provides [LTE][lte] service, which was unexpected. My phone did slip back to 3G sometimes, and underground, connections are unreliable. (2016-08-11)
+
+![Argh, why did I pick August to come to Turkey?]({{site.baseurl}}/images/tmobile/turkey-istanbul.png)
+
 ## Ukraine
 
 ### Kiev
 
-I was connected to [Vodafone][vodafone-ua]'s 3G network except in the subways where I sometimes had EDGE network access. (2016-08-03)
+I was connected to [Vodafone][vodafone-ua]'s 3G network except in the subways where I sometimes had [EDGE][edge] network access. (2016-08-03)
 
 ![Kiev was pretty hot.]({{site.baseurl}}/images/tmobile/ukraine-kiev.png)
 
 ### Lviv
 
-In the center of the city, [Vodafone][vodafone-ua]'s 3G network was pretty good, but I was staying south of city center, where EDGE was more dominant. (2016-08-04)
+In the center of the city, [Vodafone][vodafone-ua]'s 3G network was pretty good, but I was staying south of city center, where [EDGE][edge] was more dominant. (2016-08-04)
 
 ![Also warm in Lviv but not as hot as Kiev]({{site.baseurl}}/images/tmobile/ukraine-lviv.png)
 
 ### Malyn
 
-A small town outside of Kiev still has EDGE network coverage through [Vodafone][vodafone-ua], so although slow, I could usually connect somehow. (2016-08-01)
+A small town outside of Kiev still has [EDGE][edge] network coverage through [Vodafone][vodafone-ua], so although slow, I could usually connect somehow. (2016-08-01)
 
 ![Malyn is living on the EDGE.]({{site.baseurl}}/images/tmobile/ukraine-malyn.png)
 
@@ -99,8 +109,11 @@ A small town outside of Kiev still has EDGE network coverage through [Vodafone][
 
 This village has only 21 people, so what kind of service do you expect? It was fine for me, though: who needs electricity and running water 100% of the time? (2016-07-30)
 
+[avea]: http://www.avea.com.tr/web/en/
+[edge]: https://en.m.wikipedia.org/wiki/Enhanced_Data_Rates_for_GSM_Evolution
 [google-voice]: https://www.google.com/voice
 [gsm]: https://en.m.wikipedia.org/wiki/GSM
+[lte]: https://en.m.wikipedia.org/wiki/LTE_(telecommunication)
 [nova-is]: https://www.nova.is
 [orange-fr]: http://www.orange.fr
 [paris-metro]: https://en.m.wikipedia.org/wiki/Paris_M%C3%A9tro
