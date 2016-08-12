@@ -52,6 +52,9 @@ baseurl: ""
 # How many posts to show per page?
 paginate: 10
 
+# Wanna show posts with future dates?
+future: true
+
 #
 # !! You don't need to change any of the configuration flags below !!
 #
