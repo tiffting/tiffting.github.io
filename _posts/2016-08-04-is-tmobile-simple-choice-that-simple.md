@@ -81,7 +81,7 @@ See a pattern yet? Yes, it's [Tele2][tele2-lt] again, and they provide up to 3G 
 
 ### Istanbul
 
-[AVEA][avea] provides [LTE][lte] service, which was unexpected. My phone did slip back to 3G sometimes, and underground, connections are unreliable. (2016-08-11)
+[AVEA][avea] provides [LTE][lte] service, which was unexpected. Despite that welcome news, my connection was unreliable even when I was sitting on a bus or walking around old Istanbul. You'll probably notice that the provider keeps changing between [AVEA][avea], [Turk Telekom][turk-telekom], and [Turkcell][turkcell]. (2016-08-11)
 
 ![Argh, why did I pick August to come to Turkey?]({{site.baseurl}}/images/tmobile/turkey-istanbul.png)
 
@@ -122,4 +122,6 @@ This village has only 21 people, so what kind of service do you expect? It was f
 [tele2-lv]: https://www.tele2.lv
 [tmobile-countries]: http://www.t-mobile.com/cell-phone-plans/simple-choice-international-plan-countries.html
 [tmobile-plans]: http://www.t-mobile.com/cell-phone-plans.html
+[turkcell]: http://www.turkcell.com.tr
+[turk-telekom]: http://turktelekomint.com
 [vodafone-ua]: https://www.vodafone.ua
