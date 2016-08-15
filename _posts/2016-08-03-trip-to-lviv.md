@@ -5,6 +5,7 @@ layout: post
 tags:
   - food
   - friends
+  - transport
 date: '2016-08-03 20:00:00 +0300'
 ---
 Early in the morning, I caught the sunrise from Alesia's window. It was a nice farewell from Kiev. Larisa brought a bunch of fresh basil yesterday, but Alesia doesn't like the flavor. I cooked scrambled eggs with it, and she enjoyed that. I hope she gets the opportunity to use the basil cooked instead of fresh!
