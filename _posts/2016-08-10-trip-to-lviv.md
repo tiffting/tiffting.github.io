@@ -8,7 +8,7 @@ tags:
   - transport
 date: '2016-08-10 10:00:00 +0300'
 ---
-To get to the [Lviv Airport](http://www.lwo.aero/en), I had to catch a marshrutka at a stop about 15-20 minutes away on foot from Kate's apartment. I got to walk on a major street that was basically closed off because the city is majorly overhauling it for new tram tracks down the middle. The marshrutka stopped about a 15-minute walk away from the airport. I did see a closer marshrutka stop as I approached, but I guess there aren't any direct routes from Kate's.
+To get to the [Lviv airport](http://www.lwo.aero/en), I had to catch a marshrutka at a stop about 15-20 minutes away on foot from Kate's apartment. I got to walk on a major street that was basically closed off because the city is majorly overhauling it for new tram tracks down the middle. The marshrutka stopped about a 15-minute walk away from the airport. I did see a closer marshrutka stop as I approached, but I guess there aren't any direct routes from Kate's.
 
 <!--more-->
 
@@ -17,7 +17,7 @@ It was about lunch time when I got through check-in, security, and passport cont
 ![Grandma's dessert]({{site.baseurl}}/images/2016/08/10/trip-to-istanbul/veronica-caramel.jpeg)
 ![Carby lunch]({{site.baseurl}}/images/2016/08/10/trip-to-istanbul/veronica-meal.jpeg)
 
-After an uneventful flight, we arrived in Istanbul. When the crew announced that it was safe to use our cell phones again, I got really nervous because my phone wouldn't connect to any providers. But everything was fine after we got into the airport.
+After an uneventful flight (which you can read about in [my review for AtlasGlobal](/at-last-atlasglobal)), we arrived in Istanbul. When the crew announced that it was safe to use our cell phones again, I got really nervous because my phone wouldn't connect to any providers. But everything was fine after we got into the airport.
 
 Passport control was awful: I waited for 1.25 hours before reaching the front of the line. There was a sign at the start of the line that said people with eVisas should use counters 2-5, but only counter 5 was open. The bright spot was that once I reached the counter, everything went smoothly. Make sure to print out your eVisa: the Chinese couple behind me tried to show their eVisa from their phones, and the officer wasn't having it.
 
