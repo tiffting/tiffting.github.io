@@ -37,6 +37,7 @@ After lunch, we walked through the park to [Ahmet Hamdi Tanpınar Literary Libra
 
 Before leaving for an appointment with a friend, İnci walked me to the [Basilica Cistern](http://yerebatan.com). It sounded like a unique place, so I invested in a ₺20 ticket for admission. I really enjoyed it! It was built in 537 at the height of the Eastern Roman empire under Justinian I's rule. Because it's underground, it's very cool inside. I wandered around slowly, but since I was tired, there was more than once when I dozed off while I was on my feet. I would recommend avoiding the initial area where there is an elaborate costumed photo booth if you don't want your experience to be bombarded with "buy, buy, buy!" The Medusa heads are interesting: they're huge and were probably taken from another building, and they weren't set upright. One is upside-down, and the other is sitting on its side. Both are supporting columns above them. The sideways one is grinning with her teeth, and you can see her pupils; whereas the upside-down one has no pupils and is pretty serious about turning people into stone.
 
+![Ticket to the cistern]({{site.baseurl}}/images/2016/08/11/istanbul-day-1/cistern-ticket.jpeg)
 ![Serene place]({{site.baseurl}}/images/2016/08/11/istanbul-day-1/cistern-columns.jpeg)
 ![Weeping Column]({{site.baseurl}}/images/2016/08/11/istanbul-day-1/cistern-weeping.jpeg)
 ![Upside-down Medusa head]({{site.baseurl}}/images/2016/08/11/istanbul-day-1/cistern-medusa1.jpeg)
