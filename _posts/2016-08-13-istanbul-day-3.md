@@ -137,7 +137,7 @@ The bridge next to the ferry station didn't look like much during the day, but a
 
 ![Light it up]({{site.baseurl}}/images/2016/08/13/istanbul-day-3/ferry-bridge.jpeg)
 
-After getting home, we watched "My Neighbor Totoro". I'm glad Mo enjoyed being transported to the Japanese countryside!
+After getting home, we watched "[My Neighbor Totoro](http://movies.disney.com/my-neighbor-totoro)". I'm glad Mo enjoyed being transported to the Japanese countryside!
 
 [arter]: https://www.facebook.com/arteristanbul/
 [4square]: https://www.foursquare.com
