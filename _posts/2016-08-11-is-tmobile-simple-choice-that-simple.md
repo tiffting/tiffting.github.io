@@ -4,7 +4,7 @@ layout: post
 title: Is T-Mobile's Simple Choice plan that simple?
 tags:
   - tech
-date: '2016-08-11 10:00:00 +0300'
+date: '2016-08-19 10:00:00 +0300'
 ---
 If you have an unlocked [GSM][gsm] phone, you can easily avoid buying and carrying around a bunch of SIM cards with you especially if you're traveling to a bunch of different countries by subscribing to any [T-Mobile Simple Choice plan][tmobile-plans]. They include unlimited data and SMS, and phone calls are 20 cents per minute. (I use my [Google Voice][google-voice] number to get around that.) Check out the [full list of supported countries][tmobile-countries], but I'm going to be keeping a running tally of how well the service really performs in each city I visit.
 
@@ -16,6 +16,9 @@ Jump directly to a country or city:
   - [Tallinn](#tallinn)
 - [France](#france)
   - [Paris](#paris)
+- [Greece](#greece)
+  - [Athens](#athens)
+  - [Kythnos](#kythnos)
 - [Iceland](#iceland)
   - [Keflavik](#keflavik)
 - [Latvia](#latvia)
@@ -43,9 +46,23 @@ Jump directly to a country or city:
 
 ### Paris
 
-Unless you're riding the [Metro][paris-metro], [Orange][orange-fr] provides either LTE or 3G coverage. (2016-07-19)
+Unless you're riding the [Metro][paris-metro], [Orange][orange-fr] provides either [LTE][lte] or 3G coverage. (2016-07-19)
 
 ![Paris: the hottest day of the year and no air conditioning...]({{site.baseurl}}/images/tmobile/france-paris.jpeg)
+
+## Greece
+
+### Athens
+
+[Cosmote](https://www.facebook.com/cosmote) had [LTE][lte] and 3G coverage around most of Athens. I ran into very few dead spots while walking around the city, and only when the metro was deep underground was when I was connected to [EDGE][edge] or lost connection completely. (2016-08-18)
+
+![The cellular gods smile kindly on Athens.]({{site.baseurl}}/images/tmobile/greece-athens.png)
+
+### Kythnos
+
+At least in the part of Kythnos where I spent my time, I had no connection whatsoever and was dependent on the wifi network. (2016-08-19)
+
+![This is good for sleeping.]({{site.baseurl}}/images/tmobile/greece-kythnos.png)
 
 ## Iceland
 
