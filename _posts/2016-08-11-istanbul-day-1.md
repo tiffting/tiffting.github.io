@@ -43,7 +43,11 @@ Before leaving for an appointment with a friend, İnci walked me to the [Basilic
 ![Upside-down Medusa head]({{site.baseurl}}/images/2016/08/11/istanbul-day-1/cistern-medusa1.jpeg)
 ![Sideways Medusa head]({{site.baseurl}}/images/2016/08/11/istanbul-day-1/cistern-medusa2.jpeg)
 
-I sat around in the park next to the [Milion Stone](http://www.spottedbylocals.com/istanbul/milion-stone/), the 0 mile marker from old Istanbul. There wasn't really a place to nap, so I just sat there trying to wake myself up. Some coffee would probably help, and [Foursquare](http://foursquare.com) recommended [Fuego](http://www.fuegocaferestaurant.com), a no-hassle place not far from where I was. I found it after deflecting other restaurants from distracting me.
+I sat around in the park next to the [Milion Stone](http://www.spottedbylocals.com/istanbul/milion-stone/), the 0 mile marker from old Istanbul.
+
+![Start counting at zero]({{site.baseurl}}/images/2016/08/11/istanbul-day-1/milion-stone.jpeg)
+
+There wasn't really a place to nap, so I just sat there trying to wake myself up. Some coffee would probably help, and [Foursquare](http://foursquare.com) recommended [Fuego](http://www.fuegocaferestaurant.com), a no-hassle place not far from where I was. I found it after deflecting other restaurants from distracting me.
 
 Ali, the owner, was really professional and friendly at the same time. I asked if he knew where in the neighborhood to find Turkish coffee made using sand, and he didn't think there were any. So I sat down for a ₺7 Turkish coffee outside his restaurant, which came with a piece of Turkish delight and a small glass of ice water. He told me the way to drink it was to eat the Turkish delight first, then slowly sip the coffee, and finally drink the water to rinse out the coffee grit. I was so thirsty that I couldn't wait till the end to drink the water, but I saved a little for the end. I hope I can find a good place to have Turkish coffee made with sand.
 
