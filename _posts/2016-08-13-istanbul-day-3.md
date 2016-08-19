@@ -93,7 +93,7 @@ Even the spiral staircase turned into an on-site piece called "Synonyms' Synonym
 
 ---
 
-We checked on the whirling dervishes performance at [Galata Mevlevihanesi][galata-dervishes], but the employee at the ticket counter didn't know when the next performance will be. I guess there aren't enough tourists to justify the cost of putting on a show right now. :sad:
+We checked on the whirling dervishes performance at [Galata Mevlevihanesi][galata-dervishes], but the employee at the ticket counter didn't know when the next performance will be. I guess there aren't enough tourists to justify the cost of putting on a show right now. :cry:
 
 To find a postcard, we tried going to several different bookstores, including taking the metro up to Cevahir in Şişli, but I didn't see any that I liked. It seems that all stores carry the same set of postcard designs and sell them for ₺3 each. But we stumbled on a souvenir shop in Şişhane area, and they were even ₺1 cheaper than everywhere else.
 
