@@ -73,7 +73,7 @@ I wanted to have Turkish coffee made in sand, which Mo had never heard of. We in
 ![Ready to make many cups]({{site.baseurl}}/images/2016/08/13/istanbul-day-3/kadem-sand.jpeg)
 ![Thick coffee]({{site.baseurl}}/images/2016/08/13/istanbul-day-3/kadem-coffee.jpeg)
 
-Since Mo can't have caffeine, he ordered dogal salep (₺6), and salep is made from the bulb of a kind of orchid. It supposedly has medicinal properties and is served warm. It's a very comforting drink and has cinnamon on top.
+Since Mo can't have caffeine, he ordered dogal salep (₺6), and [salep](http://www.giverecipe.com/salep/) is made from the bulb of a kind of orchid. It supposedly has medicinal properties and is served warm. It's a very comforting drink and has cinnamon on top.
 
 ![Orchid drink]({{site.baseurl}}/images/2016/08/13/istanbul-day-3/kadem-salep.jpeg)
 
