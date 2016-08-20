@@ -25,6 +25,8 @@ Yeah, for a flight under five hours.
 
 The check-in counter line went quickly, and they didn't actually weigh my carry-on luggage despite their [8kg limit](https://www.adria.si/en/information/baggage/baggage-allowances-and-fees/). For the boarding process, we had to get on an airport bus to get to the small, regional plane we'd be taking for our flight.
 
+![Ready to go]({{site.baseurl}}/images/2016/07/21/adria-is-a-okay/adria-bagtag.jpeg)
+
 I could still fit my 25L backpack in the overhead bin of the small plane. But neither entertainment nor power adapters were available. But for a less-than-three-hour flight, it was fine with me!
 
 [adria-airways]: https://www.adria.si/en/
