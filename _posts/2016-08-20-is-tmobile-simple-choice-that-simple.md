@@ -62,7 +62,7 @@ Unless you're riding the [Metro][paris-metro], [Orange][orange-fr] provides eith
 
 Kythnos is technically an island, not a city. I spent most of my time in Trivlaka Bay, where I had no connection whatsoever and was dependent on my hosts' wifi network. But in Merihas and Dryopida, I got [3G][3g] coverage from [Cosmote][cosmote] (2016-08-20)
 
-![In the cities]({{site.baseurl}}/images/tmobile/greece-kythnos.png)
+![In the towns]({{site.baseurl}}/images/tmobile/greece-kythnos.png)
 
 ## Iceland
 
