@@ -23,6 +23,8 @@ Jump directly to a country or city:
   - [Sigulda](#sigulda)
 - [Lithuania](#lithuania)
   - [Vilnius](#vilnius)
+- [Turkey](#turkey)
+  - [Istanbul](#istanbul)
 - [Ukraine](#ukraine)
   - [Kiev](#kiev)
   - [Lviv](#lviv)
@@ -36,7 +38,7 @@ Jump directly to a country or city:
 | Vital | Pulse |
 | ---- | ------ |
 | Potable tap water? | Yes |
-| Credit cards accepted? | Widely |
+| Credit cards accepted? | Widely except transit |
 | Currency used? | Euro (€) |
 | Google Maps transit directions? | Yes |
 | English spoken? | Widely |
@@ -64,7 +66,7 @@ Jump directly to a country or city:
 | Vital | Pulse |
 | ---- | ------ |
 | Potable tap water? | Yes |
-| Credit cards accepted? | Widely |
+| Credit cards accepted? | Widely except transit |
 | Currency used? | Euro (€) |
 | Google Maps transit directions? | Out-of-date |
 | English spoken? | Widely |
@@ -78,9 +80,9 @@ Jump directly to a country or city:
 | Vital | Pulse |
 | ---- | ------ |
 | Potable tap water? | Yes |
-| Credit cards accepted? | Widely except transit |
+| Credit cards accepted? | Widely |
 | Currency used? | Euro (€) |
-| Google Maps transit directions? | Out-of-date |
+| Google Maps transit directions? | Yes |
 | English spoken? | Widely |
 
 (as of 2016-07-27)
@@ -104,12 +106,26 @@ Jump directly to a country or city:
 | Vital | Pulse |
 | ---- | ------ |
 | Potable tap water? | Yes |
-| Credit cards accepted? | Widely |
+| Credit cards accepted? | Widely except transit |
 | Currency used? | Euro (€) |
 | Google Maps transit directions? | Yes |
 | English spoken? | Widely |
 
 (as of 2016-07-30)
+
+## Turkey
+
+### Istanbul
+
+| Vital | Pulse |
+| ---- | ------ |
+| Potable tap water? | No |
+| Credit cards accepted? | Widely except transit |
+| Currency used? | Lira (₺) |
+| Google Maps transit directions? | No |
+| English spoken? | Sometimes |
+
+(as of 2016-08-16)
 
 ## Ukraine
 
@@ -118,7 +134,7 @@ Jump directly to a country or city:
 | Vital | Pulse |
 | ---- | ------ |
 | Potable tap water? | No |
-| Credit cards accepted? | Sometimes |
+| Credit cards accepted? | Widely except transit |
 | Currency used? | Hryvnia (₴) |
 | Google Maps transit directions? | Yes |
 | English spoken? | Rarely |
@@ -130,7 +146,7 @@ Jump directly to a country or city:
 | Vital | Pulse |
 | ---- | ------ |
 | Potable tap water? | No |
-| Credit cards accepted? | Sometimes |
+| Credit cards accepted? | Widely except transit |
 | Currency used? | Hryvnia (₴) |
 | Google Maps transit directions? | Yes |
 | English spoken? | Sometimes |
