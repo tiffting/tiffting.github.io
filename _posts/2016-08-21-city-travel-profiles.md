@@ -66,7 +66,7 @@ Jump directly to a country or city:
 | Potable tap water? | Yes |
 | Credit cards accepted? | Widely |
 | Currency used? | Euro (€) |
-| Google Maps transit directions? | Yes |
+| Google Maps transit directions? | Out-of-date |
 | English spoken? | Widely |
 
 (as of 2016-08-21)
