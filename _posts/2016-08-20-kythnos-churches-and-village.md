@@ -4,7 +4,7 @@ title: Kythnos churches and village
 layout: post
 tags:
   - architecture
-date: '2016-08-20 20:00:00 +0300'
+date: '2016-08-20 12:00:00 +0300'
 ---
 Before leaving Kythnos, Kathy and Chris took me to see a couple of churches and one of the villages on the west side of the island. The churches tended to be small and modest, which I prefer over the gaudy (Gaudí?) churches usually seen in Western Europe.
 
