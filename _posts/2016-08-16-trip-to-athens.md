@@ -51,7 +51,7 @@ I invited Thanos to enjoy some Greek beers with me before I went to bed, but he 
 
 ![Wow, a private room!]({{site.baseurl}}/images/2016/08/16/trip-to-athens/thanos-room.jpeg)
 
-[acropolis]: https://en.m.wikipedia.org/wiki/Acropolis_of_Athens
+[acropolis]: /athens-day-1
 [acropolis-museum]: http://www.theacropolismuseum.gr/en/
 [cs]: https://www.couchsurfing.com
 [itunes]: https://www.apple.com/itunes/
