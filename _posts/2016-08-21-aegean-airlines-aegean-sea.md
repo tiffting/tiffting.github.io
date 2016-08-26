@@ -19,7 +19,7 @@ The airline service is decent, but constant delays are a bit silly.
 
 ## Review
 
-<img src="images/2016/08/21/aegean-airlines-aegean-sea/aegean-logo.jpeg" width="620" height="330" alt="Aegean Airlines logo" title="Aegean Airlines logo"/>
+<img src="/images/2016/08/21/aegean-airlines-aegean-sea/aegean-logo.jpeg" width="620" height="330" alt="Aegean Airlines logo" title="Aegean Airlines logo"/>
 
 Aegean Airlines is a member of the Star Alliance, so I accumulated some United Airlines points on the two flights I took with them. I paid less than US$30 for my one-way flight from Istanbul to Athens, but my one-way ticket from Athens to Split was almost US$180.
 
