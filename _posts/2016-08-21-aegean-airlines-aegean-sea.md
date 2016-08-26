@@ -25,15 +25,15 @@ Aegean Airlines is a member of the Star Alliance, so I accumulated some United A
 
 Both flights had swift check-in processes: they weighed my carry-on before tagging it with their approval, and neither agent asked me for my seat preference, but I ended up with all the seats on my row's side to myself both times.
 
-![Larger plane seat]({{site.baseurl}}/images/2016/08/21/aegean-airlines-aegean-sea/istath-seat.jpeg)
-![Slightly different back-of-seat design]({{site.baseurl}}/images/2016/08/21/aegean-airlines-aegean-sea/athspu-seatvariant.jpeg)
+<img src="/images/2016/08/21/aegean-airlines-aegean-sea/istath-seat.jpeg" width="600" height="450" alt="Larger plane seat" title="Larger plane seat"/>
+<img src="/images/2016/08/21/aegean-airlines-aegean-sea/athspu-seatvariant.jpeg" width="600" height="800" alt="Slightly different back-of-seat design" title="Slightly different back-of-seat design"/>
 
 No entertainment or power outlets were available for either flight. The overhead bin size for my backpack was good for the Istanbul to Athens flight, but the plane they used for the Athens to Split flight was pretty tiny, so I had to shove my backpack in. Both flights offered candy before takeoff, a small meal (spinach pie and turkey with edam sandwich). 
 
-![Pre-takeoff caramels]({{site.baseurl}}/images/2016/08/21/aegean-airlines-aegean-sea/istath-caramels.jpeg)
-![Microwavable spinach pie and biscotti]({{site.baseurl}}/images/2016/08/21/aegean-airlines-aegean-sea/istath-spinachpie.jpeg)
-![Gummies for takeoff]({{site.baseurl}}/images/2016/08/21/aegean-airlines-aegean-sea/athspu-gummies.jpeg)
-![Turkey and edam baguette sandwich]({{site.baseurl}}/images/2016/08/21/aegean-airlines-aegean-sea/athspu-sandwich.jpeg)
+<img src="/images/2016/08/21/aegean-airlines-aegean-sea/istath-caramels.jpeg" width="600" height="800" alt="Pre-takeoff caramels" title="Pre-takeoff caramels"/>
+<img src="/images/2016/08/21/aegean-airlines-aegean-sea/istath-spinachpie.jpeg" width="600" height="800" alt="Microwavable spinach pie and biscotti" title="Microwavable spinach pie and biscotti"/>
+<img src="/images/2016/08/21/aegean-airlines-aegean-sea/athspu-gummies.jpeg" width="600" height="800" alt="Gummies for takeoff" title="Gummies for takeoff"/>
+<img src="/images/2016/08/21/aegean-airlines-aegean-sea/athspu-sandwich.jpeg" width="600" height="800" alt="Turkey and edam baguette sandwich" title="Turkey and edam baguette sandwich"/>
 
 And both flights were delayed by 40 minutes. For the Istanbul to Athens flight, Aegean changed the departure gate twice without explanation, and the staff kicked everyone out of the gate area so that they could verify everyone's passports before boarding.
 
