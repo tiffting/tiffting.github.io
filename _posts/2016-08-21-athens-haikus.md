@@ -5,7 +5,7 @@ layout: post
 tags:
   - architecture
   - poetry
-date: '2016-08-21 23:00:00 +0300'
+date: '2016-08-21 11:00:00 +0300'
 ---
 I wrote some haikus about the seven ruins included in the [Acropolis](/athens-day-1) multi-site ticket. Hope you enjoy them!
 
