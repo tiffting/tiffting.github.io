@@ -15,7 +15,7 @@ Before I took the metro to the Athens airport, I picked up a beef gyro from [Bai
 
 The Athens airport takes the cake for most ridiculously thorough security check: not only did they ask for liquids in a separate bag, but they had to check each individual bottle to see what was in it, and they opened all of my bags. They were also confused by my [SteriPEN](http://amzn.to/2bLSCpZ). I should have just told them it was a sex toy.
 
-Check out my review about Aegean Airlines to learn more about the entire flight experience.
+Check out [my review about Aegean Airlines](/aegean-airlines-aegean-sea) to learn more about the entire flight experience.
 
 About an hour after departure, we landed at the Split airport. Passport control was pretty quick even though there were only six counters, perhaps because not that many people come through this relatively small airport. I didn't see a newsstand from which I could buy bus tickets, and the information desk confirmed the same when I asked: the one option from the airport is to buy one from the driver. The ATM only gave me a 200 kn bill, so I asked a bank at the end of the arrivals hall for change for the bus. They dismissed me and while telling me that the bus drivers should have plenty of change. So I crossed the airport parking lot and the main street to find an unmarked bus stop. I mulled over what the bank said, and decided to hurry back and ask for change after all since I wasn't sure if they thought I meant the airport shuttle bus or the local bus. They were amused by my persistence and obliged anyway.
 
