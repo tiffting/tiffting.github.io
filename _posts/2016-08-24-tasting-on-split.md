@@ -13,7 +13,7 @@ Defining Croatian food is a bit challenging because different parts of the count
 The currency in Croatia is the kuna, and at the time of writing, the exchange rate was about 6.50 kunas to US$1. All businesses are listed from most budget-friendly to least within each category.
 
 - [Coffee & drinks](#coffee--drinks)
-  - [4coffee soul food](#4coffee-soul-food)
+  - [4coffee soul food](#coffee-soul-food)
 - [Desserts & ice cream](#desserts--ice-cream)
   - [Luka Ice Cream & Cakes](#luka-ice-cream--cakes)
   - [Stella Croatica](#stella-croatica)
