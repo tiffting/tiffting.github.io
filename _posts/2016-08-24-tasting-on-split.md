@@ -90,7 +90,7 @@ I did visit the [Green Market](https://www.tripadvisor.com/Attraction_Review-g29
 
 [Ul. Stari pazar 2, 21000, Split, Croatia](https://goo.gl/maps/h7AJ62SBKUJ2)
 
-My first grocery store in Split was [Konzum][konzum], and I went there twice in one day: once for breakfast and once for dinner. In the morning, they had a pretty nice selection of hot foods, but by 19:00, they had run out of everything except fries. I grabbed some Dalmatian smoked ham, semi-hard cheese, and a [domestic dunkel (http://www.ratebeer.com/beer/ozujsko-rezano/314956/) to wash it all down. There was some bread involved, too.
+My first grocery store in Split was [Konzum][konzum], and I went there twice in one day: once for breakfast and once for dinner. In the morning, they had a pretty nice selection of hot foods, but by 19:00, they had run out of everything except fries. I grabbed some Dalmatian smoked ham, semi-hard cheese, and a [domestic dunkel](http://www.ratebeer.com/beer/ozujsko-rezano/314956/) to wash it all down. There was some bread involved, too.
 
 <img src="/images/2016/08/24/tasting-on-split/konzum-dinner.jpeg" width="600" height="800" alt="Meat and cheese and beer" title="Meat and cheese and beer"/>
 
