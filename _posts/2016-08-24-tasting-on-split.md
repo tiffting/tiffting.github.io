@@ -24,7 +24,7 @@ The currency in Croatia is the kuna, and at the time of writing, the exchange ra
   - [Billa](#billa)
 - [Restaurants](#restaurants)
   - [Krčma Uskok](#krcma-uskok)
-  - [Corto Maltese](#corto-maltese)
+  - [Corto Maltese](#corto-maltese-freestyle-food)
 
 ## Coffee & drinks
 
