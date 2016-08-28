@@ -12,22 +12,23 @@ Defining Croatian food is a bit challenging because different parts of the count
 
 The currency in Croatia is the kuna, and at the time of writing, the exchange rate was about 6.50 kunas to US$1. All businesses are listed from most budget-friendly to least within each category.
 
-- [Coffee & drinks](#coffee-drinks)
+- [Coffee & drinks](#coffee--drinks)
   - [4coffee soul food](#4coffee-soul-food)
-- [Desserts & ice cream](#desserts-ice-cream)
-  - [Luka Ice Cream & Cakes](#luka-ice-cream-cakes)
+- [Desserts & ice cream](#desserts--ice-cream)
+  - [Luka Ice Cream & Cakes](#luka-ice-cream--cakes)
   - [Stella Croatica](#stella-croatica)
-- [Grocery stores & farmer's markets](#grocery-stores-farmers-markets)
+- [Grocery stores & farmer's markets](#grocery-stores--farmers-markets)
   - [Konzum](#konzum)
+  - [Purex](#purex)
   - [Tommy](#tommy)
   - [Billa](#billa)
 - [Restaurants](#restaurants)
   - [Krčma Uskok](#krcma-uskok)
-  - [Corto Maltese)(#corto-maltese)
+  - [Corto Maltese](#corto-maltese)
 
 ## Coffee & drinks
 
-### [4coffee soul food][4coffee]
+### 4coffee soul food
 
 [Ul. Hrvoja Vukčića Hrvatinića 9, 21000, Split, Croatia](https://goo.gl/maps/n9qseMcMZAw)
 
@@ -45,17 +46,17 @@ Even the little details like how the cups are textured make me smile. (If you're
 
 ## Desserts & ice cream
 
-### [Luka Ice Cream & Cakes][luka]
+### Luka Ice Cream & Cakes
 
 [Kroatien, Ul. Petra Svačića 2, 21000, Split, Croatia](https://goo.gl/maps/Z3gkw3DgrRq)
 
-Near the [Croatian National Theater](http://www.hnk-split.hr/cnt-en/), you'll find [Luka][luka] with two ice cream counters and a formal entryway where you can buy their delicious-looking cakes. (I didn't get to try their cakes, so I can only say that they looked mouthwatering.) I had ice cream for breakfast, so only one of the two counters was open. (Don't panic if you don't see ice cream in the counter you visit first: check the other side.)
+Near the [Croatian National Theater](http://www.hnk-split.hr/cnt-en/), you'll find [Luka Ice Creams & Cakes][luka] with two ice cream counters and a formal entryway where you can buy their delicious-looking cakes. (I didn't get to try their cakes, so I can only say that they looked mouthwatering.) I had ice cream for breakfast, so only one of the two counters was open. (Don't panic if you don't see ice cream in the counter you visit first: check the other side.)
 
 Their ice creams contain all-natural ingredients and pack a huge flavor punch! You can get one scoop for 9 kunas, two for 17, or three for 24. It includes a homemade cone, but if you want the chocolate one, you need to pay an extra 2 kunas (worth it). I liked the combination of their pistachio ice cream and yogurt with forest berries.
 
 <img src="/images/2016/08/24/tasting-on-split/luka-icecream.jpeg" width="600" height="800" alt="Winning combination" title="Winning combination"/>
 
-### [Stella Croatica][stella-croatica]
+### Stella Croatica
 
 [Mihovilovići 21A, 21231, Klis, Croatia](https://goo.gl/maps/H3XrJtxrKRK2)
 
@@ -85,7 +86,7 @@ There is also a more thorough option if you have at least two hours: [Stella Cro
 
 I did visit the [Green Market](https://www.tripadvisor.com/Attraction_Review-g295370-d3420254-Reviews-Green_Market-Split_Split_Dalmatia_County_Dalmatia.html) on the east side of the [palace][diocletian], but after reading that you have to haggle to get a good deal and not knowing a lick of Croatian, I skipped interacting with any of the vendors and went to various grocery stores instead.
 
-### [Konzum][konzum]
+### Konzum
 
 [Ul. Stari pazar 2, 21000, Split, Croatia](https://goo.gl/maps/h7AJ62SBKUJ2)
 
@@ -93,13 +94,13 @@ My first grocery store in Split was [Konzum][konzum], and I went there twice in 
 
 <img src="/images/2016/08/24/tasting-on-split/konzum-dinner.jpeg" width="600" height="800" alt="Meat and cheese and beer" title="Meat and cheese and beer"/>
 
-### [Purex][purex]
+### Purex
 
 [Obrov ul. 6, 21000, Split, Croatia](https://goo.gl/maps/jP8m7Vwg3NL2)
 
 Technically, [Purex][purex] is primarily a poultry store, but I had asked the owner of [Kruščić Bakery](https://www.facebook.com/Kruscic.Split) where to find peka-baked bread that I'd heard about from visiting [Stella Croatica](#stella-croatica), and she pointed me to [Purex][purex]. And yes, they sure did have the round loaves sitting behind the counter. You can buy either white or wheat, and they'll sell it in a whole, half, or quarter loaf at 15 kuna per kg. I saved my quarter-loaf of wheat (3.75 kunas) for dinner that day, and it was quite nice: the edges are harder than the rest, likely because it is the thinnest part and more susceptible to the heat of the stove. But the center is fluffy and airy. (See the section about [Tommy](#tommy) for a picture of this special bread.)
 
-### [Tommy][tommy]
+### Tommy
 
 [Zagrebačka ul. 37, 21000, Split, Croatia](https://goo.gl/maps/NmuJbdNTFu62)
 
@@ -109,7 +110,7 @@ The cucumbers were starting to lose their water, but the cherry tomatoes were sw
 
 <img src="/images/2016/08/24/tasting-on-split/tommy-dinner.jpeg" width="600" height="800" alt="Deli-sourced dinner" title="Deli-sourced dinner"/>
 
-### [Billa][billa]
+### Billa
 
 [Ul. Pavla Šubića 3, 21000, Split, Croatia](https://goo.gl/maps/xFaMaJm1xmM2)
 
@@ -123,7 +124,7 @@ A light dinner was all I needed, so I got some fried fish and cabbage salad befo
 
 ## Restaurants
 
-### [Krčma Uskok][uskok]
+### Krčma Uskok
 
 [Trg Grlo, Klis, Croatia](https://goo.gl/maps/qk6SnhbrtrD2)
 
@@ -140,7 +141,7 @@ I'd wanted to order some domestic draft beer, but he didn't have any at the mome
 <img src="/images/2016/08/24/tasting-on-split/uskok-starters.jpeg" width="800" height="600" alt="Made with care" title="Made with care"/>
 <img src="/images/2016/08/24/tasting-on-split/uskok-main.jpeg" width="800" height="600" alt="The star of the show" title="The star of the show"/>
 
-### [Corto Maltese Freestyle food][corto-maltese]
+### Corto Maltese Freestyle Food
 
 [Obrov ul. 7, 21000, Split, Croatia](https://maps.google.com/?q=Corto%20Maltese%20Freestyle%20food%2C%20Obrov%20ul.%207%2C%2021000%2C%20Split%2C%20Croatia&ftid=0x13355dfef52e0c4d:0x35f907cc364d3419&hl=en-US&gl=us)
 
