@@ -153,7 +153,7 @@ Jump directly to a country or city:
 | Potable tap water? | Yes |
 | Credit cards accepted? | Widely except transit |
 | Currency used? | Dinar |
-| Google Maps transit directions? | No |
+| Google Maps transit directions? | No, use [PlanPlus](https://www.planplus.rs) |
 | English spoken? | Sometimes |
 
 (as of 2016-08-29)
