@@ -13,6 +13,7 @@ If you have an unlocked [GSM][gsm] phone, you can easily avoid buying and carryi
 Jump directly to a country or city:
 
 - [Croatia](#croatia)
+  - [Klis](#klis)
   - [Split](#split)
 - [Estonia](#estonia)
   - [Tallinn](#tallinn)
