@@ -12,6 +12,9 @@ An overview of travel vitals in the cities I've visited. [Let me know](/about/#c
 
 Jump directly to a country or city:
 
+- [Croatia](#croatia)
+  - [Klis](#klis)
+  - [Split](#split)
 - [Estonia](#estonia)
   - [Tallinn](#tallinn)
 - [France](#france)
@@ -23,6 +26,8 @@ Jump directly to a country or city:
   - [Sigulda](#sigulda)
 - [Lithuania](#lithuania)
   - [Vilnius](#vilnius)
+- [Serbia](#serbia)
+  - [Belgrade](#belgrade)
 - [Turkey](#turkey)
   - [Istanbul](#istanbul)
 - [Ukraine](#ukraine)
@@ -30,6 +35,32 @@ Jump directly to a country or city:
   - [Lviv](#lviv)
   - [Malyn](#malyn)
   - [V'yunyshche](#vyunyshche)
+
+## Croatia
+
+### Klis
+
+| Vital | Pulse |
+| ---- | ------ |
+| Potable tap water? | Yes |
+| Credit cards accepted? | Widely except transit |
+| Currency used? | Kuna (kn) |
+| Google Maps transit directions? | No |
+| English spoken? | Widely |
+
+(as of 2016-08-23)
+
+### Split
+
+| Vital | Pulse |
+| ---- | ------ |
+| Potable tap water? | Yes |
+| Credit cards accepted? | Widely except transit |
+| Currency used? | Kuna (kn) |
+| Google Maps transit directions? | No |
+| English spoken? | Widely |
+
+(as of 2016-08-25)
 
 ## Estonia
 
@@ -112,6 +143,20 @@ Jump directly to a country or city:
 | English spoken? | Widely |
 
 (as of 2016-07-30)
+
+## Serbia
+
+### Belgrade
+
+| Vital | Pulse |
+| ---- | ------ |
+| Potable tap water? | Yes |
+| Credit cards accepted? | Widely except transit |
+| Currency used? | Dinar |
+| Google Maps transit directions? | No |
+| English spoken? | Sometimes |
+
+(as of 2016-08-29)
 
 ## Turkey
 
