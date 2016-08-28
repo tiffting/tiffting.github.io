@@ -12,6 +12,8 @@ If you have an unlocked [GSM][gsm] phone, you can easily avoid buying and carryi
 
 Jump directly to a country or city:
 
+- [Croatia](#croatia)
+  - [Split](#split)
 - [Estonia](#estonia)
   - [Tallinn](#tallinn)
 - [France](#france)
@@ -26,6 +28,8 @@ Jump directly to a country or city:
   - [Sigulda](#sigulda)
 - [Lithuania](#lithuania)
   - [Vilnius](#vilnius)
+- [Serbia](#serbia)
+  - [Belgrade](#belgrade)
 - [Turkey](#turkey)
   - [Istanbul](#istanbul)
 - [Ukraine](#ukraine)
@@ -33,6 +37,18 @@ Jump directly to a country or city:
   - [Lviv](#lviv)
   - [Malyn](#malyn)
   - [V'yunyshche](#vyunyshche)
+
+## Croatia
+
+### Klis
+
+The connection was spotty, but I could occasionally get [3G][3g] service from [T-Mobile HR][tmobile-hr].
+
+### Split
+
+You can get relatively good [LTE][lte] coverage from [T-Mobile HR][tmobile-hr] in most parts of Split. Sometimes, it'll drop to [3G][3g], but rarely will it be completely disconnected. Even in most parts of [Marjan Park](https://en.wikipedia.org/wiki/Marjan) are okay.
+
+![Good job, T-Mobile!]({{site.baseurl}}/images/tmobile/croatia-split.png)
 
 ## Estonia
 
@@ -94,6 +110,14 @@ See a pattern yet? Yes, it's [Tele2][tele2-lt] again, and they provide up to [3G
 
 ![More hot weather in Vilnius]({{site.baseurl}}/images/tmobile/lithuania-vilnius.png)
 
+## Serbia
+
+### Belgrade
+
+[mt:s][mts] keeps you connected via [3G][3g] pretty consistently in city center. I was happy with the reliable service!
+
+![Consistent 3G service]({{site.baseurl}}/images/tmobile/serbia-belgrade.png)
+
 ## Turkey
 
 ### Istanbul
@@ -133,6 +157,7 @@ This village has only 21 people, so what kind of service do you expect? It was f
 [google-voice]: https://www.google.com/voice
 [gsm]: https://en.m.wikipedia.org/wiki/GSM
 [lte]: https://en.m.wikipedia.org/wiki/LTE_(telecommunication)
+[mts]: https://www.mts.rs
 [nova-is]: https://www.nova.is
 [orange-fr]: http://www.orange.fr
 [paris-metro]: https://en.m.wikipedia.org/wiki/Paris_M%C3%A9tro
@@ -140,6 +165,7 @@ This village has only 21 people, so what kind of service do you expect? It was f
 [tele2-lt]: http://tele2.lt
 [tele2-lv]: https://www.tele2.lv
 [tmobile-countries]: http://www.t-mobile.com/cell-phone-plans/simple-choice-international-plan-countries.html
+[tmobile-hr]: https://www.hrvatskitelekom.hr
 [tmobile-plans]: http://www.t-mobile.com/cell-phone-plans.html
 [turkcell]: http://www.turkcell.com.tr
 [turk-telekom]: http://turktelekomint.com
