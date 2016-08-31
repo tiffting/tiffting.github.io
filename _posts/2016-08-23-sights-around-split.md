@@ -72,6 +72,8 @@ From [the stop](https://goo.gl/maps/mWk7nCtzwf82) across from the [Croatian Nati
 
 The times you see in the columns on the [timetable](http://www.promet-split.hr/index.php?option=com_content&task=view&id=187&Itemid=954) are departure times from the stop by the fortress, but at the bottom in small type, it indicates that there are two departure times from the [theater][theater]: 08:15 and 09:25. I took the 09:25 bus and arrived in 35 minutes. Bus 22 goes around in a loop between [Klis Megdan][klis-megdan] and Split. Bus [16](http://www.promet-split.hr/index.php?option=com_content&task=view&id=61&Itemid=92) is a cousin to bus 22 and seems to supplement it during off times. Bus 34 ([to](http://www.promet-split.hr/index.php?option=com_content&task=view&id=87&Itemid=118) and [from](http://www.promet-split.hr/index.php?option=com_content&task=view&id=87&Itemid=118) Split) runs infrequently, but it's also an option to get from the [theater][theater] to [Klis Megdan][klis-megdan].
 
+<img src="/images/2016/08/23/sights-around-split/bus22-timetables.jpeg" width="800" height="600" alt="Timetables posted at Klis Megdan" title="Timetables posted at Klis Megdan"/>
+
 Alternatively, you can also take bus 35 or 36, which leave from the [Sukoišan Bus Terminal](https://goo.gl/maps/1WSeq5hLej92) and stop about a 10-15 minute walk from the [fortress][fortress]. They are good options if you want to have [roasted lamb][uskok] and [dried fig cakes](/tasting-on-split#stella-croatica) up the road. Ask the driver to stop near the fortress if you want to go there first; otherwise, get off at the stop in front of [Uskok][uskok] to eat first.
 
 - Bus 35 timetables
