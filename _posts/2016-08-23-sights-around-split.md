@@ -54,7 +54,7 @@ You also get amazing views of Split and the surrounding terrain. Take your time,
 
 <img src="/images/2016/08/23/sights-around-split/fortress-view.jpeg" width="800" height="600" alt="Amazing view" title="Amazing view"/>
 
-### Admission
+### Admission and hours
 
 Entry for adults is 40 kn and 15kn for children (although I'm not sure what the age limit is). It's open from 09:00 till 19:00 daily.
 
