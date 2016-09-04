@@ -88,7 +88,7 @@ If you learn just one word in Serbian, make it "pekara", which means bakery. Onc
 
 The word for bread is hleb (хлеб), so you'll see that around, too. I got an entire loaf of bread for 80 dinars at this place.
 
-<img src="/images/2016/08/29/tasting-on-belgrade/pekara-floor.jpeg" width="800" height="800" alt="Bread from the Floor" title="Bread from the Floor"/>
+<img src="/images/2016/08/29/tasting-on-belgrade/pekara-floor.jpeg" width="800" height="600" alt="Bread from the Floor" title="Bread from the Floor"/>
 
 I also tried proja (pronounced "pro-ya"), which is a cornbread with white cheese. There wasn't much cheese in the muffin-looking version I got, so I decided to try some after I went to [Zavicaj](#zavicaj).
 
