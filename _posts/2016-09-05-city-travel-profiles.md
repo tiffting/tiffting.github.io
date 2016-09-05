@@ -23,6 +23,8 @@ Jump directly to a country or city:
   - [Paris](#paris)
 - [Greece](#greece)
   - [Athens](#athens)
+- [Hungary](#hungary)
+  - [Budapest](#budapest)
 - [Latvia](#latvia)
   - [Riga](#riga)
   - [Sigulda](#sigulda)
@@ -119,6 +121,20 @@ Jump directly to a country or city:
 | English spoken? | Widely |
 
 (as of 2016-08-21)
+
+## Hungary
+
+### Budapest
+
+| Vital | Pulse |
+| ---- | ------ |
+| Potable tap water? | Yes |
+| Credit cards accepted? | Sometimes |
+| Currency used? | Forint (Ft) |
+| Google Maps transit directions? | Out-of-date schedules; use [BKK app](https://appsto.re/us/RiaN2.i) instead |
+| English spoken? | Sometimes |
+
+(as of 2016-09-02)
 
 ## Latvia
 
