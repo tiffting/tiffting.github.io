@@ -12,6 +12,8 @@ An overview of travel vitals in the cities I've visited. [Let me know](/about/#c
 
 Jump directly to a country or city:
 
+- [Austria](#austria)
+  - [Vienna](#vienna)
 - [Croatia](#croatia)
   - [Klis](#klis)
   - [Split](#split)
@@ -35,6 +37,20 @@ Jump directly to a country or city:
   - [Lviv](#lviv)
   - [Malyn](#malyn)
   - [V'yunyshche](#vyunyshche)
+
+## Austria
+
+### Vienna
+
+| Vital | Pulse |
+| ---- | ------ |
+| Potable tap water? | Yes |
+| Credit cards accepted? | Sometimes |
+| Currency used? | Euro (€) |
+| Google Maps transit directions? | Yes, but missing metro info; use [Qando](https://www.wien.info/en/travel-info/transport/qando) instead |
+| English spoken? | Sometimes |
+
+(as of 2016-09-05)
 
 ## Croatia
 
