@@ -12,6 +12,8 @@ If you have an unlocked [GSM][gsm] phone, you can easily avoid buying and carryi
 
 Jump directly to a country or city:
 
+- [Austria](#austria)
+  - [Vienna](#vienna)
 - [Croatia](#croatia)
   - [Klis](#klis)
   - [Split](#split)
@@ -22,6 +24,8 @@ Jump directly to a country or city:
 - [Greece](#greece)
   - [Athens](#athens)
   - [Kythnos](#kythnos)
+- [Hungary](#hungary)
+  - [Budapest](#budapest)
 - [Iceland](#iceland)
   - [Keflavik](#keflavik)
 - [Latvia](#latvia)
@@ -39,17 +43,25 @@ Jump directly to a country or city:
   - [Malyn](#malyn)
   - [V'yunyshche](#vyunyshche)
 
+## Austria
+
+### Vienna
+
+[T-Mobile A][tmobile-a] connects at [LTE][lte], but since 2016-09-01, my speeds have been throttled at [EDGE][edge] since faster international roaming speeds were offered as part of a temporary promotion for the summer Olympics. (2016-09-05)
+
+<img src="/images/tmobile/austria-vienna.png" width="640" height="1136" alt="Viennese summer weather" title="Viennese summer weather"/>
+
 ## Croatia
 
 ### Klis
 
-The connection was spotty, but I could occasionally get [3G][3g] service from [T-Mobile HR][tmobile-hr].
+The connection was spotty, but I could occasionally get [3G][3g] service from [T-Mobile HR][tmobile-hr]. (2016-08-23)
 
 ### Split
 
-You can get relatively good [LTE][lte] coverage from [T-Mobile HR][tmobile-hr] in most parts of Split. Sometimes, it'll drop to [3G][3g], but rarely will it be completely disconnected. Even in most parts of [Marjan Park](https://en.wikipedia.org/wiki/Marjan) are okay.
+You can get relatively good [LTE][lte] coverage from [T-Mobile HR][tmobile-hr] in most parts of Split. Sometimes, it'll drop to [3G][3g], but rarely will it be completely disconnected. Even in most parts of [Marjan Park](https://en.wikipedia.org/wiki/Marjan) are okay. (2016-08-25)
 
-![Good job, T-Mobile!]({{site.baseurl}}/images/tmobile/croatia-split.png)
+<img src="/images/tmobile/croatia-split.png" width="640" height="1136" alt="Good job, T-Mobile!" title="Good job, T-Mobile!"/>
 
 ## Estonia
 
@@ -57,7 +69,7 @@ You can get relatively good [LTE][lte] coverage from [T-Mobile HR][tmobile-hr] i
 
 [Tele2][tele2-ee] goes up to [3G][3g], but I didn't find the connection wholly reliable even in Old Town. I also wasn't successful in using the city-provided wifi around the city. (2016-07-21)
 
-![Tallinn's lower temperatures were a welcome break from the heat wave in Paris.]({{site.baseurl}}/images/tmobile/estonia-tallinn.png)
+<img src="/images/tmobile/estonia-tallinn.png" width="640" height="1136" alt="Tallinn's lower temperatures were a welcome break from the heat wave in Paris." title="Tallinn's lower temperatures were a welcome break from the heat wave in Paris."/>
 
 ## France
 
@@ -65,7 +77,7 @@ You can get relatively good [LTE][lte] coverage from [T-Mobile HR][tmobile-hr] i
 
 Unless you're riding the [Metro][paris-metro], [Orange][orange-fr] provides either [LTE][lte] or [3G][3g] coverage. (2016-07-19)
 
-![Paris: the hottest day of the year and no air conditioning...]({{site.baseurl}}/images/tmobile/france-paris.jpeg)
+<img src="/images/tmobile/france-paris.jpeg" width="640" height="1136" alt="Paris: the hottest day of the year and no air conditioning..." title="Paris: the hottest day of the year and no air conditioning..."/>
 
 ## Greece
 
@@ -73,13 +85,21 @@ Unless you're riding the [Metro][paris-metro], [Orange][orange-fr] provides eith
 
 [Cosmote][cosmote] had [LTE][lte] and [3G][3g] coverage around most of Athens. I ran into very few dead spots while walking around the city, and only when the metro was deep underground was when I was connected to [EDGE][edge] or lost connection completely. (2016-08-18)
 
-![The cellular gods smile kindly on Athens.]({{site.baseurl}}/images/tmobile/greece-athens.png)
+<img src="/images/tmobile/greece-athens.png" width="640" height="1136" alt="The cellular gods smile kindly on Athens." title="The cellular gods smile kindly on Athens."/>
 
 ### Kythnos
 
 Kythnos is technically an island, not a city. I spent most of my time in Trivlaka Bay, where I had no connection whatsoever and was dependent on my hosts' wifi network. But in Merihas and Dryopida, I got [3G][3g] coverage from [Cosmote][cosmote] (2016-08-20)
 
-![In the towns]({{site.baseurl}}/images/tmobile/greece-kythnos.png)
+<img src="/images/tmobile/greece-kythnos.png" width="640" height="1136" alt="In the towns" title="In the towns"/>
+
+## Hungary
+
+### Budapest
+
+[T-Mobile HU][tmobile-hu] was almost always connected via [3G][3g], including in the deep metro system. I found out on 1 September that my up to [LTE][lte] speeds were temporary for the summer Olympics, so in the middle of my stay in Budapest, the data connection suddenly dropped to [EDGE][edge] speeds even though the provider information on my phone shows [3G][3g] or higher. That's lame, T-Mobile! (2016-09-02)
+
+<img src="/images/tmobile/hungary-budapest.png" width="640" height="1136" alt="Hungary does 3G" title="Hungary does 3G"/>
 
 ## Iceland
 
@@ -87,7 +107,7 @@ Kythnos is technically an island, not a city. I spent most of my time in Trivlak
 
 I didn't actually leave the airport since I had what amounted to less than an hour of layover time, but I had [LTE][lte] coverage while I was there. [NOVA][nova-is] was the local provider. (2016-07-19)
 
-![Keflavik weather]({{site.baseurl}}/images/tmobile/iceland-keflavik.jpeg)
+<img src="/images/tmobile/iceland-keflavik.jpeg" width="640" height="1136" alt="Keflavik weather" title="Keflavik weather"/>
 
 ## Latvia
 
@@ -95,13 +115,13 @@ I didn't actually leave the airport since I had what amounted to less than an ho
 
 [Tele2][tele2-lv] goes up to [3G][3g], and although there were some rare dead spots in Old Town, for the most part the speeds and connectivity seemed way better than in [Tallinn](#tallinn). I even relied on my personal hotspot on my phone to connect my tablet to the outside world since my hostel's wifi networks were not the best. (2016-07-24)
 
-![Riga was markedly warmer than Tallinn.]({{site.baseurl}}/images/tmobile/latvia-riga.jpeg)
+<img src="/images/tmobile/latvia-riga.jpeg" width="640" height="1136" alt="Riga was markedly warmer than Tallinn." title="Riga was markedly warmer than Tallinn."/>
 
 ### Sigulda
 
 [Tele2][tele2-lv] goes up to [3G][3g], and I was surprised at how few dead spots there were even while I was hiking around the outskirts of town. (2016-07-23)
 
-![Sigulda is slightly cooler than Riga, possibly because of all the green space.]({{site.baseurl}}/images/tmobile/latvia-sigulda.jpeg)
+<img src="/images/tmobile/latvia-sigulda.jpeg" width="640" height="1136" alt="Sigulda is slightly cooler than Riga, possibly because of all the green space." title="Sigulda is slightly cooler than Riga, possibly because of all the green space."/>
 
 ## Lithuania
 
@@ -109,15 +129,15 @@ I didn't actually leave the airport since I had what amounted to less than an ho
 
 See a pattern yet? Yes, it's [Tele2][tele2-lt] again, and they provide up to [3G][3g] speeds. I did encounter the rare dead spot while wandering around, but for the most part, it worked great. (2016-07-27)
 
-![More hot weather in Vilnius]({{site.baseurl}}/images/tmobile/lithuania-vilnius.png)
+<img src="/images/tmobile/lithuania-vilnius.png" width="640" height="1136" alt="More hot weather in Vilnius" title="More hot weather in Vilnius"/>
 
 ## Serbia
 
 ### Belgrade
 
-[mt:s][mts] keeps you connected via [3G][3g] pretty consistently in city center. I was happy with the reliable service!
+[mt:s][mts] keeps you connected via [3G][3g] pretty consistently in city center. I was happy with the reliable service! (2016-08-29)
 
-![Consistent 3G service]({{site.baseurl}}/images/tmobile/serbia-belgrade.png)
+<img src="/images/tmobile/serbia-belgrade.png" width="640" height="1136" alt="Consistent 3G service in Belgrade" title="Consistent 3G service in Belgrade"/>
 
 ## Turkey
 
@@ -125,7 +145,7 @@ See a pattern yet? Yes, it's [Tele2][tele2-lt] again, and they provide up to [3G
 
 [AVEA][avea] provides [LTE][lte] service, which was unexpected. Despite that welcome news, my connection was unreliable even when I was sitting on a bus or walking around old Istanbul. You'll probably notice that the provider keeps changing between [AVEA][avea], [Turk Telekom][turk-telekom], and [Turkcell][turkcell]. (2016-08-11)
 
-![Argh, why did I pick August to come to Turkey?]({{site.baseurl}}/images/tmobile/turkey-istanbul.png)
+<img src="/images/tmobile/turkey-istanbul.png" width="640" height="1136" alt="Argh, why did I pick August to come to Turkey?" title="Argh, why did I pick August to come to Turkey?"/>
 
 ## Ukraine
 
@@ -133,19 +153,20 @@ See a pattern yet? Yes, it's [Tele2][tele2-lt] again, and they provide up to [3G
 
 I was connected to [Vodafone][vodafone-ua]'s [3G][3g] network except in the subways where I sometimes had [EDGE][edge] network access. (2016-08-03)
 
-![Kiev was pretty hot.]({{site.baseurl}}/images/tmobile/ukraine-kiev.png)
+<img src="/images/tmobile/ukraine-kiev.png" width="640" height="1136" alt="Kiev was pretty hot." title="Kiev was pretty hot."/>
+![]({{site.baseurl}}/images/tmobile/)
 
 ### Lviv
 
 In the center of the city, [Vodafone][vodafone-ua]'s [3G][3g] network was pretty good, but I was staying south of city center, where [EDGE][edge] was more dominant. (2016-08-04)
 
-![Also warm in Lviv but not as hot as Kiev]({{site.baseurl}}/images/tmobile/ukraine-lviv.png)
+<img src="/images/tmobile/ukraine-lviv.png" width="640" height="1136" alt="Also warm in Lviv but not as hot as Kiev" title="Also warm in Lviv but not as hot as Kiev"/>
 
 ### Malyn
 
 A small town outside of Kiev still has [EDGE][edge] network coverage through [Vodafone][vodafone-ua], so although slow, I could usually connect somehow. (2016-08-01)
 
-![Malyn is living on the EDGE.]({{site.baseurl}}/images/tmobile/ukraine-malyn.png)
+<img src="/images/tmobile/ukraine-malyn.png" width="640" height="1136" alt="Malyn is living on the EDGE." title="Malyn is living on the EDGE."/>
 
 ### V'yunyshche
 
@@ -165,8 +186,10 @@ This village has only 21 people, so what kind of service do you expect? It was f
 [tele2-ee]: https://tele2.ee
 [tele2-lt]: http://tele2.lt
 [tele2-lv]: https://www.tele2.lv
+[tmobile-a]: http://www.t-mobile.at
 [tmobile-countries]: http://www.t-mobile.com/cell-phone-plans/simple-choice-international-plan-countries.html
 [tmobile-hr]: https://www.hrvatskitelekom.hr
+[tmobile-hu]: https://www.telekom.hu/lakossagi/english
 [tmobile-plans]: http://www.t-mobile.com/cell-phone-plans.html
 [turkcell]: http://www.turkcell.com.tr
 [turk-telekom]: http://turktelekomint.com
