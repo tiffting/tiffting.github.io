@@ -8,9 +8,9 @@ date: '2016-08-29 20:00:00 +0200'
 ---
 Having been a strategic location throughout history, Belgrade has seen over 115 wars and been destroyed more than 40 times. But because of its confluence of cultures, Serbian food is a mix of Middle Eastern, Mediterranean, and Central European cuisines. And what a mix it is!
 
-The currency in Serbia is the dinar, and at the time of writing, the exchange rate was about 110 dinars to US$1. All businesses are listed from most budget-friendly to least within each category.
-
 <!--more-->
+
+The currency in Serbia is the dinar, and at the time of writing, the exchange rate was about 110 dinars to US$1. All businesses are listed from most budget-friendly to least within each category.
 
 * [Coffee & drinks](#coffee--drinks)
   * [Uzitak Coffee Selection and Delights](#uzitak-coffee-selection-and-delights)
