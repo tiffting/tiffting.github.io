@@ -49,7 +49,7 @@ Jump directly to a country or city:
 | Potable tap water? | Yes |
 | Credit cards accepted? | Sometimes |
 | Currency used? | Euro (€) |
-| Google Maps transit directions? | Yes, but missing metro info; use [Qando](https://www.wien.info/en/travel-info/transport/qando) instead |
+| Google Maps transit directions? | Yes, but missing metro info; use [AnachB](http://anachb.vor.at/bin/query.exe/enb?L=vs_voranachb) instead |
 | English spoken? | Sometimes |
 
 (as of 2016-09-05)
