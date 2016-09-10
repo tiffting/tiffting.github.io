@@ -14,6 +14,8 @@ Jump directly to a country or city:
 
 - [Austria](#austria)
   - [Vienna](#vienna)
+- [Czech Republic](#czech-republic)
+  - [Brno](#brno)
 - [Croatia](#croatia)
   - [Klis](#klis)
   - [Split](#split)
@@ -53,6 +55,20 @@ Jump directly to a country or city:
 | English spoken? | Sometimes |
 
 (as of 2016-09-05)
+
+## Czech Republic
+
+### Brno
+
+| Vital | Pulse |
+| ---- | ------ |
+| Potable tap water? | Yes |
+| Credit cards accepted? | Sometimes |
+| Currency used? | Koruna (Kč) |
+| Google Maps transit directions? | Yes |
+| English spoken? | Sometimes |
+
+(as of 2016-09-09)
 
 ## Croatia
 
