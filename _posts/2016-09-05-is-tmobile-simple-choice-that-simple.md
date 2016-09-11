@@ -14,6 +14,9 @@ Jump directly to a country or city:
 
 - [Austria](#austria)
   - [Vienna](#vienna)
+- [Czech Republic](#czech-republic)
+  - [Brno](#brno)
+  - [Olomouc](#olomouc)
 - [Croatia](#croatia)
   - [Klis](#klis)
   - [Split](#split)
@@ -50,6 +53,20 @@ Jump directly to a country or city:
 [T-Mobile A][tmobile-a] connects at [LTE][lte], but since 2016-09-01, my speeds have been throttled at [EDGE][edge] since faster international roaming speeds were offered as part of a temporary promotion for the summer Olympics. (2016-09-05)
 
 <img src="/images/tmobile/austria-vienna.png" width="640" height="1136" alt="Viennese summer weather" title="Viennese summer weather"/>
+
+## Czech Republic
+
+### Brno
+
+[T-Mobile CZ][tmobile-cz] usually connected at [LTE][lte] with an occasional drop to [3G][3g] or [EDGE][edge], but there were never any dead spots. Again, my speeds were throttled at the [EDGE][edge] rate anyway. (2016-09-09)
+
+<img src="/images/tmobile/czechrepublic-brno.jpeg" width="640" height="1136" alt="Starting to get into chillier climes" title="Starting to get into chillier climes"/>
+
+### Olomouc
+
+Although I've been relegated to [EDGE][edge] speeds, the service that [T-Mobile CZ][tmobile-cz] provided here felt slightly faster for some reason. Maybe I'm delusional now from having to use it for over a week. I never noticed my [LTE][lte] connection ever downgrading in this little university town. (2016-09-11)
+
+<img src="/images/tmobile/czechrepublic-olomouc.jpeg" width="640" height="1136" alt="Still warm during the day" title="Still warm during the day"/>
 
 ## Croatia
 
@@ -188,6 +205,7 @@ This village has only 21 people, so what kind of service do you expect? It was f
 [tele2-lv]: https://www.tele2.lv
 [tmobile-a]: http://www.t-mobile.at
 [tmobile-countries]: http://www.t-mobile.com/cell-phone-plans/simple-choice-international-plan-countries.html
+[tmobile-cz]: https://www.t-mobile.cz/web/en
 [tmobile-hr]: https://www.hrvatskitelekom.hr
 [tmobile-hu]: https://www.telekom.hu/lakossagi/english
 [tmobile-plans]: http://www.t-mobile.com/cell-phone-plans.html
