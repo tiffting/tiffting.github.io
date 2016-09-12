@@ -21,26 +21,32 @@ published: true
 
 {% if paginator.total_pages > 1 %}
 <div class="pagination">
+  <span class="page-link prev">
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
   {% else %}
     <span>&laquo; Prev</span>
   {% endif %}
+  </span>
 
   {% for page in (1..paginator.total_pages) %}
+    <span class="page-number">
     {% if page == paginator.page %}
-      <em>{{ page }}</em>
+      <span class="current">{{ page }}</span>
     {% elsif page == 1 %}
       <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
     {% else %}
       <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', '' }}">{{ page }}</a>
     {% endif %}
+    </span>
   {% endfor %}
 
+  <span class="page-link next">
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
   {% else %}
     <span>Next &raquo;</span>
   {% endif %}
+  </span>
 </div>
 {% endif %}
