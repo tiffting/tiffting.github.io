@@ -16,6 +16,7 @@ Jump directly to a country or city:
   - [Vienna](#vienna)
 - [Czech Republic](#czech-republic)
   - [Brno](#brno)
+  - [Olomouc](#olomouc)
 - [Croatia](#croatia)
   - [Klis](#klis)
   - [Split](#split)
@@ -69,6 +70,18 @@ Jump directly to a country or city:
 | English spoken? | Sometimes |
 
 (as of 2016-09-09)
+
+### Olomouc
+
+| Vital | Pulse |
+| ---- | ------ |
+| Potable tap water? | Yes |
+| Credit cards accepted? | Sometimes |
+| Currency used? | Koruna (Kč) |
+| Google Maps transit directions? | No, use [iDNES](http://jizdnirady.idnes.cz/olomouc/spojeni/) instead |
+| English spoken? | Sometimes |
+
+(as of 2016-09-12)
 
 ## Croatia
 
