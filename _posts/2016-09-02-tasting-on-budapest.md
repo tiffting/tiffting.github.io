@@ -19,7 +19,7 @@ The currency in Hungary is the forint (Ft), and at the time of writing, the exch
   * [Molnár's Kürtőskalács](#molnrs-krtskalcs)
 * [Grocery stores & farmer's markets](#grocery-stores--farmers-markets)
   * [Tesco Expressz](#tesco-expressz)
-  * [Great Market Hall](#great-market-hall
+  * [Great Market Hall](#great-market-hall)
 * [Restaurants](#restaurants)
   * [Lángi-Plusz](#lngi-plusz)
   * [Kadarka Wine Bar](#kadarka-wine-bar)
