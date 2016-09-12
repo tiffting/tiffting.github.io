@@ -12,6 +12,9 @@ published: true
       <div class="entry">
         {{ post.excerpt }}
       </div>
+      <div class="date">
+         Experienced on {{ post.date | date: "%B %e, %Y" }}
+      </div>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
