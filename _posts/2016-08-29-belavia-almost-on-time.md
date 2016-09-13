@@ -1,5 +1,11 @@
 ---
-published: false
+published: true
+title: 'Belavia: almost on time'
+layout: post
+tags:
+  - airlines
+  - reviews
+date: '2016-08-29 17:00:00 +0200'
 ---
 ## Grade
 
