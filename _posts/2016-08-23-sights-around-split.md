@@ -42,7 +42,7 @@ It's smack dab in the middle of old town, so you can walk to it easily if you're
 
 [Kliška tvrđava](https://goo.gl/maps/LBYcCnJHZXk)
 
-The [Fortress of Klis][fortress] was the Dalmatian people's stronghold for more than 2,000 years. It is about 15km north of Split old town and served as a strategic defensive location against invaders like the Ottoman Empire. [Petar_Kružić](https://en.m.wikipedia.org/wiki/Petar_Kružić), who was a Croatian captain during the time of the Turkish invasion, was able to hold them off for two and a half decades before they finally broke through. What a persistent bunch!
+The [Fortress of Klis][fortress] was the Dalmatian people's stronghold for more than 2,000 years. It is about 15km north of Split old town and served as a strategic defensive location against invaders like the Ottoman Empire. [Petar Kružić](https://en.m.wikipedia.org/wiki/Petar_Kružić), who was a Croatian captain during the time of the Turkish invasion, was able to hold them off for two and a half decades before they finally broke through. What a persistent bunch!
 
 <img src="/images/2016/08/23/sights-around-split/fortress-entry.jpeg" width="800" height="600" alt="The Croatian flag flies high." title="The Croatian flag flies high."/>
 
