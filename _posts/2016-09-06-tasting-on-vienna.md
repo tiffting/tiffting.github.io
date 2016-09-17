@@ -120,7 +120,7 @@ The star of the show (€19.60) was huge: my waiter was surprised when I finishe
 
 A bonus was that they brought out a bottle of [kernöl](https://en.wikipedia.org/wiki/Pumpkin_seed_oil) (pumpkin seed oil) that I could freely dump on my potato salad. I didn't think I'd have a chance to try this Austrian specialty before I left, but I'm so happy I did. I loved its nutty flavor.
 
-<img src="/images/2016/09/06/tasting-on-vienna/plachuttas-salad.jpg" width="800" height="600" alt="Salad and dressing" title="Salad and dressing"/>
+<img src="/images/2016/09/06/tasting-on-vienna/plachuttas-salad.jpg" width="600" height="800" alt="Salad and dressing" title="Salad and dressing"/>
 
 [knodel]: https://en.m.wikipedia.org/wiki/Knödel
 [topfenstrudel]: http://www.stroeck.at/produkte/detail/topfenstrudel-st%C3%BCck
