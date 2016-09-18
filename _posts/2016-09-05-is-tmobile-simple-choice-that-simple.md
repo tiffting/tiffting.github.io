@@ -16,6 +16,8 @@ Jump directly to a country or city:
   - [Vienna](#vienna)
 - [Czech Republic](#czech-republic)
   - [Brno](#brno)
+  - [Ceske Budejovice](#ceske-budejovice)
+  - [Cesky Krumlov](#cesky-krumlov)
   - [Olomouc](#olomouc)
 - [Croatia](#croatia)
   - [Klis](#klis)
@@ -61,6 +63,18 @@ Jump directly to a country or city:
 [T-Mobile CZ][tmobile-cz] usually connected at [LTE][lte] with an occasional drop to [3G][3g] or [EDGE][edge], but there were never any dead spots. Again, my speeds were throttled at the [EDGE][edge] rate anyway. (2016-09-09)
 
 <img src="/images/tmobile/czechrepublic-brno.jpeg" width="640" height="1136" alt="Starting to get into chillier climes" title="Starting to get into chillier climes"/>
+
+### Ceske Budejovice
+
+I never noticed my connection with [T-Mobile CZ][tmobile-cz] dropping completely: it was mostly on [LTE][lte] with an occasional switch to [3G][3g]. Towards the end of my stay in [Olomouc](#olomouc), I switched to the [T-Mobile One+][tmobile-one] plan, which doubles international data roaming speeds for $25/mo. (2016-09-18)
+
+<img src="/images/tmobile/czechrepublic-ceskebudejovice" width="640" height="1136" alt="Nice weather in the CR" title="Nice weather in the CR"/>
+
+### Cesky Krumlov
+
+In this touristy UNESCO town, [T-Mobile CZ][tmobile-cz] stayed steady at [LTE][lte]. Towards the end of my stay in [Olomouc](#olomouc), I switched to the [T-Mobile One+][tmobile-one] plan, which doubles international data roaming speeds for $25/mo. (2016-09-16)
+
+<img src="/images/tmobile/czechrepublic-ceskykrumlov.jpeg" width="640" height="1136" alt="Steady as she goes" title="Steady as she goes"/>
 
 ### Olomouc
 
@@ -208,6 +222,7 @@ This village has only 21 people, so what kind of service do you expect? It was f
 [tmobile-cz]: https://www.t-mobile.cz/web/en
 [tmobile-hr]: https://www.hrvatskitelekom.hr
 [tmobile-hu]: https://www.telekom.hu/lakossagi/english
+[tmobile-one]: https://explore.t-mobile.com/t-mobile-one
 [tmobile-plans]: http://www.t-mobile.com/cell-phone-plans.html
 [turkcell]: http://www.turkcell.com.tr
 [turk-telekom]: http://turktelekomint.com
