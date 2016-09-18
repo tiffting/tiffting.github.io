@@ -97,7 +97,7 @@ Both of these are an easy walk within city center.
 
 [Moravské nám. 1a, 662 26 Brno-střed, Czech Republic](https://goo.gl/maps/suxKAXK4pkN2)
 
-The entire [Moravian Gallery][moravian-gallery] is actually made up of five different buildings. I just went to the one in the [Governor's Palace][movarian-governor]. The permanent exhibit features works from the medieval era to the 19th century. As you might expect, many early pieces are religious, but later ones explore landscapes and other secular themes.
+The entire [Moravian Gallery][moravian-gallery] is actually made up of five different buildings. I just went to the one in the [Governor's Palace](http://www.moravska-galerie.cz/moravska-galerie/navsteva-mg/budovy-mg/mistodrzitelsky-palac.aspx). The permanent exhibit features works from the medieval era to the 19th century. As you might expect, many early pieces are religious, but later ones explore landscapes and other secular themes.
 
 <img src="/images/2016/09/09/sights-of-brno/moravian-gallery.jpg" width="800" height="800" alt="Contrasting times" title="Contrasting times"/>
 
@@ -198,7 +198,6 @@ From city center, it took less than 30 minutes to walk there, but you can take t
 [makassar]: https://en.wikipedia.org/wiki/Diospyros_celebica
 [mies]: https://en.wikipedia.org/wiki/Ludwig_Mies_van_der_Rohe
 [moravian-gallery]: http://www.moravska-galerie.cz/?lang=en
-[moravian-governor]: http://www.moravska-galerie.cz/moravska-galerie/navsteva-mg/budovy-mg/mistodrzitelsky-palac.aspx
 [st-james]: https://en.wikipedia.org/wiki/Church_of_St._James_(Brno)
 [st-peter-paul]: https://en.wikipedia.org/wiki/Cathedral_of_St._Peter_and_Paul,_Brno
 [villa-tugendhat]: http://www.tugendhat.eu/en/
