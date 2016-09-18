@@ -16,6 +16,8 @@ Jump directly to a country or city:
   - [Vienna](#vienna)
 - [Czech Republic](#czech-republic)
   - [Brno](#brno)
+  - [Ceske Budejovice](#ceske-budejovice)
+  - [Cesky Krumlov](#cesky-krumlov)
   - [Olomouc](#olomouc)
 - [Croatia](#croatia)
   - [Klis](#klis)
@@ -71,6 +73,30 @@ Jump directly to a country or city:
 
 (as of 2016-09-09)
 
+### Ceske Budejovice
+
+| Vital | Pulse |
+| ---- | ------ |
+| Potable tap water? | Yes |
+| Credit cards accepted? | Sometimes |
+| Currency used? | Koruna (Kč) |
+| Google Maps transit directions? | No, use [iDOS](http://jizdnirady.idnes.cz/ceskebudejovice/spojeni/) instead |
+| English spoken? | Sometimes |
+
+(as of 2016-09-18)
+
+### Cesky Krumlov
+
+| Vital | Pulse |
+| ---- | ------ |
+| Potable tap water? | Yes |
+| Credit cards accepted? | Sometimes |
+| Currency used? | Koruna (Kč) |
+| Google Maps transit directions? | No, use [iDOS](http://jizdnirady.idnes.cz/ceskykrumlov/spojeni/) instead |
+| English spoken? | Widely |
+
+(as of 2016-09-16)
+
 ### Olomouc
 
 | Vital | Pulse |
@@ -78,7 +104,7 @@ Jump directly to a country or city:
 | Potable tap water? | Yes |
 | Credit cards accepted? | Sometimes |
 | Currency used? | Koruna (Kč) |
-| Google Maps transit directions? | No, use [iDNES](http://jizdnirady.idnes.cz/olomouc/spojeni/) instead |
+| Google Maps transit directions? | No, use [iDOS](http://jizdnirady.idnes.cz/olomouc/spojeni/) instead |
 | English spoken? | Sometimes |
 
 (as of 2016-09-12)
