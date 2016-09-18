@@ -68,13 +68,13 @@ Jump directly to a country or city:
 
 I never noticed my connection with [T-Mobile CZ][tmobile-cz] dropping completely: it was mostly on [LTE][lte] with an occasional switch to [3G][3g]. Towards the end of my stay in [Olomouc](#olomouc), I switched to the [T-Mobile One+][tmobile-one] plan, which doubles international data roaming speeds for $25/mo. (2016-09-18)
 
-<img src="/images/tmobile/czechrepublic-ceskebudejovice" width="640" height="1136" alt="Nice weather in the CR" title="Nice weather in the CR"/>
+<img src="/images/tmobile/czechrepublic-ceskebudejovice.png" width="640" height="1136" alt="Nice weather in the CR" title="Nice weather in the CR"/>
 
 ### Cesky Krumlov
 
 In this touristy UNESCO town, [T-Mobile CZ][tmobile-cz] stayed steady at [LTE][lte]. Towards the end of my stay in [Olomouc](#olomouc), I switched to the [T-Mobile One+][tmobile-one] plan, which doubles international data roaming speeds for $25/mo. (2016-09-16)
 
-<img src="/images/tmobile/czechrepublic-ceskykrumlov.jpeg" width="640" height="1136" alt="Steady as she goes" title="Steady as she goes"/>
+<img src="/images/tmobile/czechrepublic-ceskykrumlov.png" width="640" height="1136" alt="Steady as she goes" title="Steady as she goes"/>
 
 ### Olomouc
 
