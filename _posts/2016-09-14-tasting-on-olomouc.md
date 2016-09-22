@@ -32,8 +32,7 @@ The currency in Czech Republic is the koruna (Kč), and at the time of writing, 
 
 ### Šnyt Mikulda
 
-[28. října 463/3, 772 00 Olomouc, Czech Republic]
-(https://maps.google.com/?q=%C5%A0NYT%20MIKULDA%2C%2028.%20%C5%99%C3%ADjna%20463%2F3%2C%20772%2000%20Olomouc%2C%20Czech%20Republic&ftid=0x47124ef5180990a3:0x3d195b91732adb15&hl=en-US&gl=us)
+[28. října 463/3, 772 00 Olomouc, Czech Republic](https://maps.google.com/?q=%C5%A0NYT%20MIKULDA%2C%2028.%20%C5%99%C3%ADjna%20463%2F3%2C%20772%2000%20Olomouc%2C%20Czech%20Republic&ftid=0x47124ef5180990a3:0x3d195b91732adb15&hl=en-US&gl=us)
 
 On the night of my arrival, my [Couchsurfing][cs] host Jan, another guest Lewis, and I went to celebrate Jan's birthday at the pub across the street from his flat. He even put on a parrot onesie to celebrate the occasion. I enjoyed a 0.3L mug of unpasteurized lager for 19 Kč. It was a little bit sour, which made the taste more interesting than your typical European light-colored beer.
 
@@ -82,7 +81,7 @@ I hope her father's business does well, and I'm so grateful that she had us come
 
 [Olomouc Wine Company](http://olomoucka-vinna.cz/) seems to sell its products at a stand in the Upper Square on special occasions. The weekend while I was there was during the European heritage festival, so they were selling both red and white [burčák][burcak], either in 0.2L plastic cups (18 Kč) or liter bottles (70 Kč). Initially, I tried a little cup of the red one, and since it tasted nice, I ended up getting a liter to enjoy at Jan's. They served it at room temperature, which wasn't ideal, but I was able to try it chilled in the bottle after putting it in the fridge.
 
-<img src="/images/2016/09/14/tasting-on-olomouc/red-burcak.jpg" width="800" height="800" alt="Burčák madness" title="Burčák madness"/>
+<img src="/images/2016/09/14/tasting-on-olomouc/olomouckavinna.jpg" width="800" height="800" alt="Burčák madness" title="Burčák madness"/>
 
 Make sure you leave the bottle cap slightly open: I didn't realize that was the right thing to do, so after the bottle sat around for several hours, I noticed the bottom was bulging out. I slowly released the air to prevent an explosion.
 
