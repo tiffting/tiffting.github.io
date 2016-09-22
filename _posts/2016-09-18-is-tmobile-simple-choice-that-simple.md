@@ -26,6 +26,8 @@ Jump directly to a country or city:
   - [Tallinn](#tallinn)
 - [France](#france)
   - [Paris](#paris)
+- [Germany](#germany)
+  - [Meissen](#meissen)
 - [Greece](#greece)
   - [Athens](#athens)
   - [Kythnos](#kythnos)
@@ -109,6 +111,14 @@ You can get relatively good [LTE][lte] coverage from [T-Mobile HR][tmobile-hr] i
 Unless you're riding the [Metro][paris-metro], [Orange][orange-fr] provides either [LTE][lte] or [3G][3g] coverage. (2016-07-19)
 
 <img src="/images/tmobile/france-paris.jpeg" width="640" height="1136" alt="Paris: the hottest day of the year and no air conditioning..." title="Paris: the hottest day of the year and no air conditioning..."/>
+
+## Germany
+
+### Meissen
+
+[T-Mobile][tmobile-de] provides a solid [LTE][lte] connection even in this little Saxon town in East Germany. Sometimes, I felt like stuff wasn't loading even though my phone said it was connected, but for the most part, it worked well. (2016-09-22)
+
+<img src="/images/tmobile/germany-meissen.png" width="640" height="1136" alt="Fall has come!" title="Fall has come!"/>
 
 ## Greece
 
@@ -220,6 +230,7 @@ This village has only 21 people, so what kind of service do you expect? It was f
 [tmobile-a]: http://www.t-mobile.at
 [tmobile-countries]: http://www.t-mobile.com/cell-phone-plans/simple-choice-international-plan-countries.html
 [tmobile-cz]: https://www.t-mobile.cz/web/en
+[tmobile-de]: https://www.t-mobile.de
 [tmobile-hr]: https://www.hrvatskitelekom.hr
 [tmobile-hu]: https://www.telekom.hu/lakossagi/english
 [tmobile-one]: https://explore.t-mobile.com/t-mobile-one
