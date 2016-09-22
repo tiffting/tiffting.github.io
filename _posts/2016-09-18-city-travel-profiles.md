@@ -26,6 +26,8 @@ Jump directly to a country or city:
   - [Tallinn](#tallinn)
 - [France](#france)
   - [Paris](#paris)
+- [Germany](#germany)
+  - [Meissen](#meissen)
 - [Greece](#greece)
   - [Athens](#athens)
 - [Hungary](#hungary)
@@ -162,6 +164,20 @@ Jump directly to a country or city:
 | English spoken? | Widely |
 
 (as of 2016-07-21)
+
+## Germany
+
+### Meissen
+
+| Vital | Pulse |
+| ---- | ------ |
+| Potable tap water? | Yes |
+| Credit cards accepted? | Widely |
+| Currency used? | Euro (€) |
+| Google Maps transit directions? | Yes |
+| English spoken? | Rarely |
+
+(as of 2016-09-22)
 
 ## Greece
 
