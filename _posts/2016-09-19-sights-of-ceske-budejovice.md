@@ -47,7 +47,7 @@ You pay 30 Kč at the top of the stairs, and you can climb the tower from 10:00-
 
 ### Getting there and back
 
-It's just outside the [main square][namesti-premysla-otakara-ii] if you walk northeast.
+It's just outside the [main square][main-square] if you walk northeast.
 
 ## Lannova Třída
 
@@ -55,7 +55,7 @@ It's just outside the [main square][namesti-premysla-otakara-ii] if you walk nor
 
 Known to locals as Lannovka, this street is an interesting place to wander for the interesting architecture and outdoor sculptures. One building you should take a look at is the [ČSOB](https://www.csob.cz/portal/contacts/branches-and-atms/branch/-/branch/ceske-budejovice-lannova) branch, situated in a long-eared house.
 
-<img src="/images/2016/09/19/sights-of-ceske-budejovice/lannova-bank.jpg" width="800" height="600" alt="An architect's crazy dream" title="An architect's crazy dream"/>
+<img src="/images/2016/09/19/sights-of-ceske-budejovice/lannova-bank.jpg" width="600" height="800" alt="An architect's crazy dream" title="An architect's crazy dream"/>
 
 Take some time to look for the sculptures along the street. These are just two of them.
 
