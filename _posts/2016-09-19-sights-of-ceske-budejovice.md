@@ -11,7 +11,7 @@ date: '2016-09-19 17:00:00 +0200'
 <!--more-->
 
 * [Černá Věž][black-tower]
-* [Lannova Třída](#lannova-třída)
+* [Lannova Třída](#lannova-tda)
 * [Náměstí Přemysla Otakara II][main-square]
 * [Piaristické Náměstí][piaristicke-namesti]
 
