@@ -27,7 +27,11 @@ Jump directly to a country or city:
 - [France](#france)
   - [Paris](#paris)
 - [Germany](#germany)
+  - [Dresden](#dresden)
+  - [Erfurt](#erfurt)
+  - [Karlsfeld](#karlsfeld)
   - [Meissen](#meissen)
+  - [Munich](#munich)
 - [Greece](#greece)
   - [Athens](#athens)
   - [Kythnos](#kythnos)
@@ -114,11 +118,35 @@ Unless you're riding the [Metro][paris-metro], [Orange][orange-fr] provides eith
 
 ## Germany
 
+### Dresden
+
+[T-Mobile][tmobile-de] was connected via [3G][3g] for most of my afternoon there. (2016-09-21)
+
+<img src="/images/tmobile/germany-dresden.png" width="640" height="1136" alt="Beautiful weather in Saxony" title="Beautiful weather in Saxony"/>
+
+### Erfurt
+
+[LTE][lte] was spot on by [T-Mobile][tmobile-de] in this charming Thuringian city. (2016-09-25)
+
+<img src="/images/tmobile/germany-erfurt.png" width="640" height="1136" alt="Indian summer in Erfurt" title="Indian summer in Erfurt"/>
+
+### Karlsfeld
+
+In this suburb of Dachau, [T-Mobile][tmobile-de] (also known as Telekom.de) was connected via [LTE][LTE]. (2016-09-29)
+
+<img src="/images/tmobile/germany-karlsfeld.png" width="640" height="1136" alt="Continuation of summer in September" title="Continuation of summer in September"/>
+
 ### Meissen
 
 [T-Mobile][tmobile-de] provides a solid [LTE][lte] connection even in this little Saxon town in East Germany. Sometimes, I felt like stuff wasn't loading even though my phone said it was connected, but for the most part, it worked well. (2016-09-22)
 
 <img src="/images/tmobile/germany-meissen.png" width="640" height="1136" alt="Fall has come!" title="Fall has come!"/>
+
+### Munich
+
+I guess the area around Munich is where [T-Mobile][tmobile-de] likes to be called Telekom.de. Either way, [LTE][lte] was the name of the game at this bastion of Oktoberfest. (2016-09-29)
+
+<img src="/images/tmobile/germany-munich.png" width="640" height="1136" alt="Good start to Oktoberfest" title="Good start to Oktoberfest"/>
 
 ## Greece
 
