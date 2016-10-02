@@ -101,7 +101,7 @@ Smack dab in the center of the city, you can get there on foot.
 
 [Hroznová 156/21, 370 01 České Budějovice, Czech Republic](https://goo.gl/maps/SCwypEToXuJ2)
 
-Northwest of the [main square][main-square], the [Piarist Square](http://www.visitceskebudejovice.cz/en/ceske-budejovice-piarist-square/51/) was my favorite place to visit. Not only does it have a farmer's market on Thursday and Saturday mornings, but it also has some intriguing architecture. One of these is the old frog that is climbing the north wall of the Church of the Sacrifice of Our Lady. It's believed that once it reaches the roof, the end of the world will arrive.
+Northwest of the [main square][main-square], the [Piarist Square](http://www.visitceskebudejovice.cz/en/ceske-budejovice-piarist-square/51/) was my favorite place to visit. Not only does it have a [farmer's market](/tasting-on-ceske-budejovice#piaristick-nmst-farmers-market) on Thursday and Saturday mornings, but it also has some intriguing architecture. One of these is the old frog that is climbing the north wall of the Church of the Sacrifice of Our Lady. It's believed that once it reaches the roof, the end of the world will arrive.
 
 <img src="/images/2016/09/19/sights-of-ceske-budejovice/piarist-frog.jpg" width="600" height="800" alt="Apocalypse frog" title="Apocalypse frog"/>
 
