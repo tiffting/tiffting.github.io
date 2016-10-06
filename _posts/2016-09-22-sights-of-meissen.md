@@ -35,7 +35,7 @@ Tickets to see the inside of the castle is €8 or €4 for those who qualify fo
 It's open to visitors during these times:
 
 * March to October: daily from 10:00-18:00
-* November to February: daily from 10:00-17:00 (except December 24-25 when it closes and on Jananuary 1 from 11:00-16:00)
+* November to February: daily from 10:00-17:00 (except December 24-25 when it closes and on January 1 from 11:00-16:00)
 
 ### Getting there and back
 
@@ -77,8 +77,8 @@ If you feel like it, check out the museum exhibition to get an explanation for t
 
 The museum is open seven days a week during these hours:
 
-- May 1 to October 31: 09:00 to 18:00
-- November 1 to April 1: 09:00 to 17:00, except   - December 31 to January 1: 10:00 to 16:00 and   - Closed on December 24, 25, and 26
+- May 1 to October 31: 09:00-18:00
+- November 1 to April 1: 09:00-17:00 (except December 24-26 when it closes and on December 31 and January 1 10:00-16:00)
 
 ### Getting there and back
 
