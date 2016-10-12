@@ -6,7 +6,7 @@ tags:
   - see
 date: '2016-09-25 17:00:00 +0200'
 ---
-Being the capital of [Thuringia](https://en.wikipedia.org/wiki/Thuringia), [Erfurt][erfurt] has unique features about it, such as its surprisingly intact medieval old town and its status as an important trading town at the junction between France and Russia and between Northern Germany and Italy.
+Being the capital of [Thuringia](https://en.wikipedia.org/wiki/Thuringia), [Erfurt][erfurt] has unique features, such as its surprisingly intact medieval old town and its status as an important trading town at the junction between France and Russia and between Northern Germany and Italy.
 
 <!--more-->
 
@@ -15,8 +15,8 @@ Unless otherwise indicated, admission is free, opening hours are 24/7, and the s
 * [Anger][anger]
 * [Angerbrunnen](#angerbrunnen)
 * [Erfurt Cathedral][erfurt-cathedral]
-* [Erinnerungsort Topf & Söhne](erinnerungsort-topf--shne)
-* [Krämerbrücke](krmerbrcke)
+* [Erinnerungsort Topf & Söhne](#erinnerungsort-topf--shne)
+* [Krämerbrücke](#krmerbrcke)
 * [Zitadelle Petersberg](#zitadelle-petersberg)
 
 ## Anger
