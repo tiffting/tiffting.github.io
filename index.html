@@ -32,6 +32,7 @@ published: true
   {% endif %}
   </span>
 
+  <!-- too many page numbers
   {% for page in (1..paginator.total_pages) %}
     <span class="page-number">
     {% if page == paginator.page %}
@@ -43,6 +44,7 @@ published: true
     {% endif %}
     </span>
   {% endfor %}
+  -->
 
   <span class="page-link next">
   {% if paginator.next_page %}
