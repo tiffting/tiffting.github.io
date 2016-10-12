@@ -2,7 +2,7 @@
 layout: post
 title: The 7kg-limited packing list
 tags:
- - luggage
+  - luggage
 published: true
 ---
 Because the [most restrictive][qantas-allowance] of airlines I’m flying has a carry-on allowance of 7kg (about 15lb), I had to consciously choose what to bring with me. My top priority for any item was for it to be as lightweight as possible, and I balanced that with other features (e.g., anti-theft, quick-drying).
@@ -181,7 +181,7 @@ My backpack weighs 6.6kg, and my travel jacket and neck stash weigh 2.1kg.
 [masterlock-combo]: http://amzn.to/29Ov2rk
 [miracleshop-soapsaver]: http://amzn.to/29ReyP8
 [mountainhardware-fedora]: https://www.rei.com/product/101484/mountain-hardwear-raffia-fedora-hat-womens
-[muji-pen]: http://www.muji.us/store/stationery/pen-pencils-1/select-color-pen.html
+[muji-pen]: http://www.muji.us/store/select-3-color-ball-point-pen-body.html
 [oralb-floss]: http://amzn.to/29JkYMF
 [pacsafe-venturesafe]: http://amzn.to/2afL1N1
 [pacsafe-citysafe]: http://amzn.to/29AoXQr
