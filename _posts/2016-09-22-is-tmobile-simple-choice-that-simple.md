@@ -32,6 +32,7 @@ Jump directly to a country or city:
   - [Karlsfeld](#karlsfeld)
   - [Meissen](#meissen)
   - [Munich](#munich)
+  - [Urfersheim](#urfersheim)
 - [Greece](#greece)
   - [Athens](#athens)
   - [Kythnos](#kythnos)
@@ -148,6 +149,12 @@ I guess the area around Munich is where [T-Mobile][tmobile-de] likes to be calle
 
 <img src="/images/tmobile/germany-munich.png" width="640" height="1136" alt="Good start to Oktoberfest" title="Good start to Oktoberfest"/>
 
+### Urfersheim
+
+In this 170-person village, [O2][o2-de] provided [EDGE][edge] service, but luckily, my hosts had lightning fast wifi because they're located 2km outside of Illesheim, where there's a US army base.
+
+<img src="/images/tmobile/germany-urfersheim.jpg" width="640" height="1136" alt="Small village" title="Small village"/>
+
 ## Greece
 
 ### Athens
@@ -250,6 +257,7 @@ This village has only 21 people, so what kind of service do you expect? It was f
 [lte]: https://en.m.wikipedia.org/wiki/LTE_(telecommunication)
 [mts]: https://www.mts.rs
 [nova-is]: https://www.nova.is
+[o2-de]: https://www.o2online.de
 [orange-fr]: http://www.orange.fr
 [paris-metro]: https://en.m.wikipedia.org/wiki/Paris_M%C3%A9tro
 [tele2-ee]: https://tele2.ee
