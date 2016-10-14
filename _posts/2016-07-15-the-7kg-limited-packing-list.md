@@ -175,7 +175,7 @@ My backpack weighs 6.6kg, and my travel jacket and neck stash weigh 2.1kg.
 [kensington-traveladapter]: http://amzn.to/29OloF8
 [lewisnclark-neckstash]: http://amzn.to/29AqtSg
 [loft]: http://www.loft.co.jp/
-[lush]: http://www.lushusa.com/
+[lush]: http://www.lushusa.com/hair/shampoo-bars/
 [luvvitt-case]: http://amzn.to/29HEPvk
 [marmot-julia]: http://amzn.to/29JHpo6
 [masterlock-combo]: http://amzn.to/29Ov2rk
