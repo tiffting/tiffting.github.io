@@ -1,7 +1,7 @@
 ---
 published: true
 title: 'Packing list, revisited after three months'
-layout: post
+layout: products
 tags:
   - luggage
 date: '2016-10-18 11:30:00 +0100'
