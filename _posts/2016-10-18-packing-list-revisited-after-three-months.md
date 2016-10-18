@@ -11,7 +11,7 @@ Now that I've been on the go for three months, which items that I brought with m
 <!--more-->
 
 * [Bring it!](#bring-it)
-* [Leave-it-home](#leave-it-home)
+* [Leave it home](#leave-it-home)
 
 ## Bring it!
 
