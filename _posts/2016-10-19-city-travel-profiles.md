@@ -60,7 +60,11 @@ Jump directly to a country or city:
 
 ## Austria
 
+<img src="/images/flags/austria.png" width="320" height="213" alt="Flag of Austria" title="Flag of Austria"/>
+
 ### Vienna
+
+<img src="/images/flags/austria-vienna.png" width="320" height="213" alt="Flag of Vienna" title="Flag of Vienna"/>
 
 | Vital | Pulse |
 | ---- | ------ |
@@ -72,59 +76,13 @@ Jump directly to a country or city:
 
 (as of 2016-09-05)
 
-## Czech Republic
-
-### Brno
-
-| Vital | Pulse |
-| ---- | ------ |
-| Potable tap water? | Yes |
-| Credit cards accepted? | Sometimes |
-| Currency used? | Koruna (Kč) |
-| Google Maps transit directions? | Yes |
-| English spoken? | Sometimes |
-
-(as of 2016-09-09)
-
-### Ceske Budejovice
-
-| Vital | Pulse |
-| ---- | ------ |
-| Potable tap water? | Yes |
-| Credit cards accepted? | Sometimes |
-| Currency used? | Koruna (Kč) |
-| Google Maps transit directions? | No, use [iDOS](http://jizdnirady.idnes.cz/ceskebudejovice/spojeni/) instead |
-| English spoken? | Sometimes |
-
-(as of 2016-09-18)
-
-### Cesky Krumlov
-
-| Vital | Pulse |
-| ---- | ------ |
-| Potable tap water? | Yes |
-| Credit cards accepted? | Sometimes |
-| Currency used? | Koruna (Kč) |
-| Google Maps transit directions? | No, use [iDOS](http://jizdnirady.idnes.cz/ceskykrumlov/spojeni/) instead |
-| English spoken? | Widely |
-
-(as of 2016-09-16)
-
-### Olomouc
-
-| Vital | Pulse |
-| ---- | ------ |
-| Potable tap water? | Yes |
-| Credit cards accepted? | Sometimes |
-| Currency used? | Koruna (Kč) |
-| Google Maps transit directions? | No, use [iDOS](http://jizdnirady.idnes.cz/olomouc/spojeni/) instead |
-| English spoken? | Sometimes |
-
-(as of 2016-09-12)
-
 ## Croatia
 
+<img src="/images/flags/croatia.png" width="320" height="160" alt="Flag of Croatia" title="Flag of Croatia"/>
+
 ### Klis
+
+<img src="/images/flags/croatia-klis.gif" width="320" height="160" alt="Flag of Klis" title="Flag of Klis"/>
 
 | Vital | Pulse |
 | ---- | ------ |
@@ -138,6 +96,8 @@ Jump directly to a country or city:
 
 ### Split
 
+<img src="/images/flags/croatia-split.png" width="300" height="600" alt="Flag of Split" title="Flag of Split"/>
+
 | Vital | Pulse |
 | ---- | ------ |
 | Potable tap water? | Yes |
@@ -148,9 +108,73 @@ Jump directly to a country or city:
 
 (as of 2016-08-25)
 
+## Czech Republic
+
+<img src="/images/flags/czechrepublic.png" width="320" height="213" alt="Flag of Czech Republic" title="Flag of Czech Republic"/>
+
+### Brno
+
+<img src="/images/flags/czechrepublic-brno.png" width="320" height="213" alt="Flag of Brno" title="Flag of Brno"/>
+
+| Vital | Pulse |
+| ---- | ------ |
+| Potable tap water? | Yes |
+| Credit cards accepted? | Sometimes |
+| Currency used? | Koruna (Kč) |
+| Google Maps transit directions? | Yes |
+| English spoken? | Sometimes |
+
+(as of 2016-09-09)
+
+### Ceske Budejovice
+
+<img src="/images/flags/czechrepublic-ceskebudejovice.png" width="320" height="213" alt="Flag of Ceske Budejovice" title="Flag of Ceske Budejovice"/>
+
+| Vital | Pulse |
+| ---- | ------ |
+| Potable tap water? | Yes |
+| Credit cards accepted? | Sometimes |
+| Currency used? | Koruna (Kč) |
+| Google Maps transit directions? | No, use [iDOS](http://jizdnirady.idnes.cz/ceskebudejovice/spojeni/) instead |
+| English spoken? | Sometimes |
+
+(as of 2016-09-18)
+
+### Cesky Krumlov
+
+<img src="/images/flags/czechrepublic-ceskykrumlov.png" width="320" height="213" alt="Flag of Cesky Krumlov" title="Flag of Cesky Krumlov"/>
+
+| Vital | Pulse |
+| ---- | ------ |
+| Potable tap water? | Yes |
+| Credit cards accepted? | Sometimes |
+| Currency used? | Koruna (Kč) |
+| Google Maps transit directions? | No, use [iDOS](http://jizdnirady.idnes.cz/ceskykrumlov/spojeni/) instead |
+| English spoken? | Widely |
+
+(as of 2016-09-16)
+
+### Olomouc
+
+<img src="/images/flags/czechrepublic-olomouc.png" width="320" height="214" alt="Flag of Olomouc" title="Flag of Olomouc"/>
+
+| Vital | Pulse |
+| ---- | ------ |
+| Potable tap water? | Yes |
+| Credit cards accepted? | Sometimes |
+| Currency used? | Koruna (Kč) |
+| Google Maps transit directions? | No, use [iDOS](http://jizdnirady.idnes.cz/olomouc/spojeni/) instead |
+| English spoken? | Sometimes |
+
+(as of 2016-09-12)
+
 ## Estonia
 
+<img src="/images/flags/estonia.png" width="320" height="204" alt="Flag of Estonia" title="Flag of Estonia"/>
+
 ### Tallinn
+
+<img src="/images/flags/estonia-tallinn.png" width="320" height="160" alt="Flag of Tallinn" title="Flag of Tallinn"/>
 
 | Vital | Pulse |
 | ---- | ------ |
@@ -164,7 +188,11 @@ Jump directly to a country or city:
 
 ## France
 
+<img src="/images/flags/france.png" width="320" height="213" alt="Flag of France" title="Flag of France"/>
+
 ### Paris
+
+<img src="/images/flags/france-paris.png" width="240" height="240" alt="Flag of Paris" title="Flag of Paris"/>
 
 | Vital | Pulse |
 | ---- | ------ |
@@ -178,7 +206,11 @@ Jump directly to a country or city:
 
 ## Germany
 
+<img src="/images/flags/germany.png" width="320" height="192" alt="Flag of Germany" title="Flag of Germany"/>
+
 ### Dresden
+
+<img src="/images/flags/germany-dresden.png" width="320" height="192" alt="Flag of Dresden" title="Flag of Dresden"/>
 
 | Vital | Pulse |
 | ---- | ------ |
@@ -192,6 +224,8 @@ Jump directly to a country or city:
 
 ### Erfurt
 
+<img src="/images/flags/germany-erfurt.gif" width="320" height="160" alt="Flag of Erfurt" title="Flag of Erfurt"/>
+
 | Vital | Pulse |
 | ---- | ------ |
 | Potable tap water? | Yes |
@@ -203,6 +237,8 @@ Jump directly to a country or city:
 (as of 2016-09-25)
 
 ### Karlsfeld
+
+<img src="/images/flags/germany-karlsfeld.png" width="308" height="316" alt="Flag of Karlsfeld" title="Flag of Karlsfeld"/>
 
 | Vital | Pulse |
 | ---- | ------ |
@@ -216,6 +252,8 @@ Jump directly to a country or city:
 
 ### Meissen
 
+<img src="/images/flags/germany-meissen.gif" width="320" height="213" alt="Flag of Meissen" title="Flag of Meissen"/>
+
 | Vital | Pulse |
 | ---- | ------ |
 | Potable tap water? | Yes |
@@ -227,6 +265,8 @@ Jump directly to a country or city:
 (as of 2016-09-22)
 
 ### Munich
+
+<img src="/images/flags/germany-munich.png" width="320" height="192" alt="Flag of Munich" title="Flag of Munich"/>
 
 | Vital | Pulse |
 | ---- | ------ |
@@ -252,7 +292,11 @@ Jump directly to a country or city:
 
 ## Greece
 
+<img src="/images/flags/greece.png" width="320" height="213" alt="Flag of Greece" title="Flag of Greece"/>
+
 ### Athens
+
+<img src="/images/flags/greece-athens.gif" width="320" height="213" alt="Flag of Athens" title="Flag of Athens"/>
 
 | Vital | Pulse |
 | ---- | ------ |
@@ -266,7 +310,13 @@ Jump directly to a country or city:
 
 ## Hungary
 
+<img src="/images/flags/hungary.png" width="320" height="160" alt="Flag of Hungary" title="Flag of Hungary"/>
+
 ### Budapest
+
+<img src="/images/flags/hungary-budapest.gif" width="320" height="213" alt="Flag of Budapest" title="Flag of Budapest"/>
+
+<img src="/images/flags/.png" width="320" height="213" alt="Flag of " title="Flag of "/>
 
 | Vital | Pulse |
 | ---- | ------ |
@@ -280,7 +330,11 @@ Jump directly to a country or city:
 
 ## Latvia
 
+<img src="/images/flags/latvia.png" width="320" height="160" alt="Flag of Latvia" title="Flag of Latvia"/>
+
 ### Riga
+
+<img src="/images/flags/latvia-riga.png" width="320" height="160" alt="Flag of Riga" title="Flag of Riga"/>
 
 | Vital | Pulse |
 | ---- | ------ |
@@ -294,6 +348,8 @@ Jump directly to a country or city:
 
 ### Sigulda
 
+<img src="/images/flags/latvia-sigulda.png" width="320" height="160" alt="Flag of Sigulda" title="Flag of Sigulda"/>
+
 | Vital | Pulse |
 | ---- | ------ |
 | Potable tap water? | Yes |
@@ -306,7 +362,11 @@ Jump directly to a country or city:
 
 ## Lithuania
 
+<img src="/images/flags/lithuania.png" width="320" height="192" alt="Flag of Lithuania" title="Flag of Lithuania"/>
+
 ### Vilnius
+
+<img src="/images/flags/lithuania-vilnius.png" width="320" height="160" alt="Flag of Vilnius" title="Flag of Vilnius"/>
 
 | Vital | Pulse |
 | ---- | ------ |
@@ -320,7 +380,11 @@ Jump directly to a country or city:
 
 ## Morocco
 
+<img src="/images/flags/morocco.png" width="320" height="213" alt="Flag of Morocco" title="Flag of Morocco"/>
+
 ### Essaouira
+
+<img src="/images/flags/morocco-essaouira.png" width="320" height="213" alt="Flag of Essaouira" title="Flag of Essaouira"/>
 
 | Vital | Pulse |
 | ---- | ------ |
@@ -334,6 +398,8 @@ Jump directly to a country or city:
 
 ### Marrakesh
 
+<img src="/images/flags/morocco-marrakesh.png" width="320" height="213" alt="Flag of Marrakesh" title="Flag of Marrakesh"/>
+
 | Vital | Pulse |
 | ---- | ------ |
 | Potable tap water? | No |
@@ -346,7 +412,11 @@ Jump directly to a country or city:
 
 ## Portugal
 
+<img src="/images/flags/portugal.png" width="320" height="213" alt="Flag of Portugal" title="Flag of Portugal"/>
+
 ### Lisbon
+
+<img src="/images/flags/portugal-lisbon.png" width="320" height="213" alt="Flag of Lisbon" title="Flag of Lisbon"/>
 
 | Vital | Pulse |
 | ---- | ------ |
@@ -360,6 +430,8 @@ Jump directly to a country or city:
 
 ### Porto
 
+<img src="/images/flags/portugal-porto.gif" width="320" height="213" alt="Flag of Porto" title="Flag of Porto"/>
+
 | Vital | Pulse |
 | ---- | ------ |
 | Potable tap water? | Yes |
@@ -372,7 +444,11 @@ Jump directly to a country or city:
 
 ## Serbia
 
+<img src="/images/flags/serbia.png" width="320" height="213" alt="Flag of Serbia" title="Flag of Serbia"/>
+
 ### Belgrade
+
+<img src="/images/flags/serbia-belgrade.png" width="240" height="240" alt="Flag of Belgrade" title="Flag of Belgrade"/>
 
 | Vital | Pulse |
 | ---- | ------ |
@@ -386,7 +462,11 @@ Jump directly to a country or city:
 
 ## Turkey
 
+<img src="/images/flags/turkey.png" width="320" height="213" alt="Flag of Turkey" title="Flag of Turkey"/>
+
 ### Istanbul
+
+<img src="/images/flags/turkey-istanbul.png" width="320" height="213" alt="Flag of Istanbul" title="Flag of Istanbul"/>
 
 | Vital | Pulse |
 | ---- | ------ |
@@ -400,7 +480,11 @@ Jump directly to a country or city:
 
 ## Ukraine
 
+<img src="/images/flags/ukraine.png" width="320" height="213" alt="Flag of Ukraine" title="Flag of Ukraine"/>
+
 ### Kiev
+
+<img src="/images/flags/ukraine-kiev.png" width="320" height="213" alt="Flag of Kiev" title="Flag of Kiev"/>
 
 | Vital | Pulse |
 | ---- | ------ |
@@ -414,6 +498,8 @@ Jump directly to a country or city:
 
 ### Lviv
 
+<img src="/images/flags/ukraine-lviv.png" width="320" height="213" alt="Flag of Lviv" title="Flag of Lviv"/>
+
 | Vital | Pulse |
 | ---- | ------ |
 | Potable tap water? | No |
@@ -425,6 +511,8 @@ Jump directly to a country or city:
 (as of 2016-08-10)
 
 ### Malyn
+
+<img src="/images/flags/ukraine-malyn.png" width="233" height="150" alt="Flag of Malyn" title="Flag of Malyn"/>
 
 | Vital | Pulse |
 | ---- | ------ |
