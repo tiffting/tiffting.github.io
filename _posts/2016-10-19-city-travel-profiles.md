@@ -4,7 +4,7 @@ title: City travel profiles
 layout: cities
 tags:
   - vitals
-date: '2016-10-19 10:00:00 +0100'
+date: '2016-10-19 10:00:00 -0500'
 ---
 An overview of travel vitals in the cities I've visited. [Let me know](/about/#contact-me) if there are other vitals that can be answered in a one- or two-word pulse that you'd like to see!
 
