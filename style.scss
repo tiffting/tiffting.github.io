@@ -394,6 +394,9 @@ footer {
     td:nth-of-type(2):before {
       content: "Pulse";
     }
+    img {
+      border: 1px solid $lighterGray
+    }
   }
 
   /*
