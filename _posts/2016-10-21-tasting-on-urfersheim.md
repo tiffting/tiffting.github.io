@@ -4,7 +4,7 @@ title: Tasting on Urfersheim
 layout: post
 tags:
   - eat
-date: '2016-10-21 20:00:00 -0500'
+date: '2016-10-21 10:00:00 -0500'
 ---
 I got to make some comforting dishes like pumpkin soup with my [Couchsurfing][cs] hosts Johanna and Costi in their industrial kitchen. (Their house used to be a cafe, so they definitely benefit from its facilities.) I also tried a few spots in the area around [Urfersheim][urfersheim]. 
 
