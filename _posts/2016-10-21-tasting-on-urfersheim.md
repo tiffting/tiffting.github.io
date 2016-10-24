@@ -37,7 +37,7 @@ I tried their chai (€2.20), which was okay, but I prefer my chai to be spicy.
 
 I also got a couple of slices of [zwiebelkuchen][zwiebelkuchen] with ham (€2.50 each) to go with the [federweißer][federweisser] from [Genusswerk][genusswerk]. Mmm, so good. I want to make this so badly.
 
-<img src="/images/2016/10/21-tasting-on-urfersheim/nebenan-zwiebelkuchen.jpg" width="800" height="600" alt="Savory pie" title="Savory pie"/>
+<img src="/images/2016/10/21-tasting-on-urfersheim/nebenan-zwiebelkuchen.jpg" width="800" height="800" alt="Savory pie" title="Savory pie"/>
 
 ### Genusswerk
 
@@ -89,7 +89,7 @@ Costi also shared some locally brewed pilsner with me. It tasted refreshing!
 
 Not only did I explore the architecture at the [Freilandmuseum](/sights-of-urfersheim/#frnkisches-freilandmuseum), but I also brought different varieties of apples home from the many trees on the property.
 
-<img src="/images/2016/10/21-tasting-on-urfersheim/freilandmuseum-apples.jpg" width="800" height="600" alt="Some good, some not" title="Some good, some not"/>
+<img src="/images/2016/10/21-tasting-on-urfersheim/freilandmuseum-apples.jpg" width="800" height="450" alt="Some good, some not" title="Some good, some not"/>
 
 Johanna's mom Petra also bought two kinds of cured sausages and some delicious bread so that we could enjoy brotzeit ("bread time") that evening. I love brotzeit!
 
