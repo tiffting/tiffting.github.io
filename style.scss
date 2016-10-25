@@ -297,6 +297,15 @@ nav {
     font-size: 22px;
     font-style: italic;
   }
+  
+  caption {
+    color: $gray;
+    font-size: 0.9rem;
+  }
+  
+  img {
+    text-align: center;
+  }
 
   .comments {
     margin-top: 10px;
