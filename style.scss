@@ -298,13 +298,15 @@ nav {
     font-style: italic;
   }
   
-  caption {
-    color: $gray;
-    font-size: 0.9rem;
-  }
-  
   img {
     text-align: center;
+  }
+  
+  img + strong {
+    color: $gray;
+    display: block;
+    font-size: 0.9rem;
+    font-weight: normal;
   }
 
   .comments {
