@@ -26,7 +26,6 @@ __Welcome to Morocco__
 __Different designs on metal doors__
 
 ![Blue door, stray cat]({{site.baseurl}}/images/2016/10/23-patterns-of-morocco/door-cat.jpg)
-
 __Blue door, stray cat__
 
 ![Wooden door]({{site.baseurl}}/images/2016/10/23-patterns-of-morocco/door-wooden.jpg)
