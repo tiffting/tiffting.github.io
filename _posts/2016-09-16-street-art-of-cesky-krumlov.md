@@ -11,17 +11,17 @@ Thanks to [Hotel Bohemia](http://bohemia.restaurant), I had a helpful map from [
 
 <!--more-->
 
-<img src="/images/2016/09/16/street-art-of-cesky-krumlov/01.jpg" width="800" height="600" alt="Dad with horse sketches" title="Dad with horse sketches"/>
-<img src="/images/2016/09/16/street-art-of-cesky-krumlov/02.jpg" width="600" height="800" alt="Alex with airplanes" title="Alex with airplanes"/>
-<img src="/images/2016/09/16/street-art-of-cesky-krumlov/03.jpg" width="800" height="600" alt="Newspaper boats" title="Newspaper boats"/>
-<img src="/images/2016/09/16/street-art-of-cesky-krumlov/04.jpg" width="600" height="800" alt="Capitalist Hitler" title="Capitalist Hitler"/>
-<img src="/images/2016/09/16/street-art-of-cesky-krumlov/05.jpg" width="800" height="600" alt="Honest selfie" title="Honest selfie"/>
-<img src="/images/2016/09/16/street-art-of-cesky-krumlov/06.jpg" width="800" height="600" alt="Figures in blue" title="Figures in blue"/>
-<img src="/images/2016/09/16/street-art-of-cesky-krumlov/07.jpg" width="800" height="600" alt="Long-nosed dragon" title="Long-nosed dragon"/>
-<img src="/images/2016/09/16/street-art-of-cesky-krumlov/08.jpg" width="600" height="800" alt="Painted brick" title="Painted brick"/>
-<img src="/images/2016/09/16/street-art-of-cesky-krumlov/09.jpg" width="800" height="600" alt="Using what is there" title="Using what is there"/>
-<img src="/images/2016/09/16/street-art-of-cesky-krumlov/10.jpg" width="600" height="800" alt="Do you like sushi?" title="Do you like sushi?"/>
-<img src="/images/2016/09/16/street-art-of-cesky-krumlov/11.jpg" width="600" height="800" alt="Many eyes" title="Many eyes"/>
-<img src="/images/2016/09/16/street-art-of-cesky-krumlov/12.jpg" width="600" height="800" alt="Toothy chair" title="Toothy chair"/>
+![Dad with horse sketches]({{site.baseurl}}/images/2016/09/16/street-art-of-cesky-krumlov/01.jpg)
+![Alex with airplanes]({{site.baseurl}}/images/2016/09/16/street-art-of-cesky-krumlov/02.jpg)
+![Newspaper boats]({{site.baseurl}}/images/2016/09/16/street-art-of-cesky-krumlov/03.jpg)
+![Capitalist Hitler]({{site.baseurl}}/images/2016/09/16/street-art-of-cesky-krumlov/04.jpg)
+![Honest selfie]({{site.baseurl}}/images/2016/09/16/street-art-of-cesky-krumlov/05.jpg)
+![Figures in blue]({{site.baseurl}}/images/2016/09/16/street-art-of-cesky-krumlov/06.jpg)
+![Long-nosed dragon]({{site.baseurl}}/images/2016/09/16/street-art-of-cesky-krumlov/07.jpg)
+![Painted brick]({{site.baseurl}}/images/2016/09/16/street-art-of-cesky-krumlov/08.jpg)
+![Using what is there]({{site.baseurl}}/images/2016/09/16/street-art-of-cesky-krumlov/09.jpg)
+![Do you like sushi?]({{site.baseurl}}/images/2016/09/16/street-art-of-cesky-krumlov/10.jpg)
+![Many eyes]({{site.baseurl}}/images/2016/09/16/street-art-of-cesky-krumlov/11.jpg)
+![Toothy chair]({{site.baseurl}}/images/2016/09/16/street-art-of-cesky-krumlov/12.jpg)
 
 [cesky-krumlov]: https://en.wikipedia.org/wiki/Český_Krumlov
