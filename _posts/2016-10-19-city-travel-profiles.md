@@ -60,11 +60,11 @@ Jump directly to a country or city:
 
 ## Austria
 
-<img src="/images/flags/austria.png" width="320" height="213" alt="Flag of Austria" title="Flag of Austria"/>
+![Flag of Austria]({{site.baseurl}}/images/flags/austria.png)
 
 ### Vienna
 
-<img src="/images/flags/austria-vienna.png" width="320" height="213" alt="Flag of Vienna" title="Flag of Vienna"/>
+![Flag of Vienna]({{site.baseurl}}/images/flags/austria-vienna.png)
 
 | Vital | Pulse |
 | ---- | ------ |
@@ -78,11 +78,11 @@ Jump directly to a country or city:
 
 ## Croatia
 
-<img src="/images/flags/croatia.png" width="320" height="160" alt="Flag of Croatia" title="Flag of Croatia"/>
+![Flag of Croatia]({{site.baseurl}}/images/flags/croatia.png)
 
 ### Klis
 
-<img src="/images/flags/croatia-klis.gif" width="320" height="160" alt="Flag of Klis" title="Flag of Klis"/>
+![Flag of Klis]({{site.baseurl}}/images/flags/croatia-klis.gif)
 
 | Vital | Pulse |
 | ---- | ------ |
@@ -96,7 +96,7 @@ Jump directly to a country or city:
 
 ### Split
 
-<img src="/images/flags/croatia-split.png" width="300" height="600" alt="Flag of Split" title="Flag of Split"/>
+![Flag of Split]({{site.baseurl}}/images/flags/croatia-split.png)
 
 | Vital | Pulse |
 | ---- | ------ |
@@ -110,11 +110,11 @@ Jump directly to a country or city:
 
 ## Czech Republic
 
-<img src="/images/flags/czechrepublic.png" width="320" height="213" alt="Flag of Czech Republic" title="Flag of Czech Republic"/>
+![Flag of Czech Republic]({{site.baseurl}}/images/flags/czechrepublic.png)
 
 ### Brno
 
-<img src="/images/flags/czechrepublic-brno.png" width="320" height="213" alt="Flag of Brno" title="Flag of Brno"/>
+![Flag of Brno]({{site.baseurl}}/images/flags/czechrepublic-brno.png)
 
 | Vital | Pulse |
 | ---- | ------ |
@@ -128,7 +128,7 @@ Jump directly to a country or city:
 
 ### Ceske Budejovice
 
-<img src="/images/flags/czechrepublic-ceskebudejovice.png" width="320" height="213" alt="Flag of Ceske Budejovice" title="Flag of Ceske Budejovice"/>
+![Flag of Ceske Budejovice]({{site.baseurl}}/images/flags/czechrepublic-ceskebudejovice.png)
 
 | Vital | Pulse |
 | ---- | ------ |
@@ -142,7 +142,7 @@ Jump directly to a country or city:
 
 ### Cesky Krumlov
 
-<img src="/images/flags/czechrepublic-ceskykrumlov.png" width="320" height="213" alt="Flag of Cesky Krumlov" title="Flag of Cesky Krumlov"/>
+![Flag of Cesky Krumlov]({{site.baseurl}}/images/flags/czechrepublic-ceskykrumlov.png)
 
 | Vital | Pulse |
 | ---- | ------ |
@@ -156,7 +156,7 @@ Jump directly to a country or city:
 
 ### Olomouc
 
-<img src="/images/flags/czechrepublic-olomouc.png" width="320" height="214" alt="Flag of Olomouc" title="Flag of Olomouc"/>
+![Flag of Olomouc]({{site.baseurl}}/images/flags/czechrepublic-olomouc.png)
 
 | Vital | Pulse |
 | ---- | ------ |
@@ -170,11 +170,11 @@ Jump directly to a country or city:
 
 ## Estonia
 
-<img src="/images/flags/estonia.png" width="320" height="204" alt="Flag of Estonia" title="Flag of Estonia"/>
+![Flag of Estonia]({{site.baseurl}}/images/flags/estonia.png)
 
 ### Tallinn
 
-<img src="/images/flags/estonia-tallinn.png" width="320" height="160" alt="Flag of Tallinn" title="Flag of Tallinn"/>
+![Flag of Tallinn]({{site.baseurl}}/images/flags/estonia-tallinn.png)
 
 | Vital | Pulse |
 | ---- | ------ |
@@ -188,11 +188,11 @@ Jump directly to a country or city:
 
 ## France
 
-<img src="/images/flags/france.png" width="320" height="213" alt="Flag of France" title="Flag of France"/>
+![Flag of France]({{site.baseurl}}/images/flags/france.png)
 
 ### Paris
 
-<img src="/images/flags/france-paris.png" width="240" height="240" alt="Flag of Paris" title="Flag of Paris"/>
+![Flag of Paris]({{site.baseurl}}/images/flags/france-paris.png)
 
 | Vital | Pulse |
 | ---- | ------ |
@@ -206,11 +206,11 @@ Jump directly to a country or city:
 
 ## Germany
 
-<img src="/images/flags/germany.png" width="320" height="192" alt="Flag of Germany" title="Flag of Germany"/>
+![Flag of Germany]({{site.baseurl}}/images/flags/germany.png)
 
 ### Dresden
 
-<img src="/images/flags/germany-dresden.png" width="320" height="192" alt="Flag of Dresden" title="Flag of Dresden"/>
+![Flag of Dresden]({{site.baseurl}}/images/flags/germany-dresden.png)
 
 | Vital | Pulse |
 | ---- | ------ |
@@ -224,7 +224,7 @@ Jump directly to a country or city:
 
 ### Erfurt
 
-<img src="/images/flags/germany-erfurt.gif" width="320" height="160" alt="Flag of Erfurt" title="Flag of Erfurt"/>
+![Flag of Erfurt]({{site.baseurl}}/images/flags/germany-erfurt.gif)
 
 | Vital | Pulse |
 | ---- | ------ |
@@ -238,7 +238,7 @@ Jump directly to a country or city:
 
 ### Karlsfeld
 
-<img src="/images/flags/germany-karlsfeld.png" width="308" height="316" alt="Flag of Karlsfeld" title="Flag of Karlsfeld"/>
+![Flag of Karlsfeld]({{site.baseurl}}/images/flags/germany-karlsfeld.png)
 
 | Vital | Pulse |
 | ---- | ------ |
@@ -252,7 +252,7 @@ Jump directly to a country or city:
 
 ### Meissen
 
-<img src="/images/flags/germany-meissen.gif" width="320" height="213" alt="Flag of Meissen" title="Flag of Meissen"/>
+![Flag of Meissen]({{site.baseurl}}/images/flags/germany-meissen.gif)
 
 | Vital | Pulse |
 | ---- | ------ |
@@ -266,7 +266,7 @@ Jump directly to a country or city:
 
 ### Munich
 
-<img src="/images/flags/germany-munich.png" width="320" height="192" alt="Flag of Munich" title="Flag of Munich"/>
+![Flag of Munich]({{site.baseurl}}/images/flags/germany-munich.png)
 
 | Vital | Pulse |
 | ---- | ------ |
@@ -292,11 +292,11 @@ Jump directly to a country or city:
 
 ## Greece
 
-<img src="/images/flags/greece.png" width="320" height="213" alt="Flag of Greece" title="Flag of Greece"/>
+![Flag of Greece]({{site.baseurl}}/images/flags/greece.png)
 
 ### Athens
 
-<img src="/images/flags/greece-athens.gif" width="320" height="213" alt="Flag of Athens" title="Flag of Athens"/>
+![Flag of Athens]({{site.baseurl}}/images/flags/greece-athens.gif)
 
 | Vital | Pulse |
 | ---- | ------ |
@@ -310,13 +310,11 @@ Jump directly to a country or city:
 
 ## Hungary
 
-<img src="/images/flags/hungary.png" width="320" height="160" alt="Flag of Hungary" title="Flag of Hungary"/>
+![Flag of Hungary]({{site.baseurl}}/images/flags/hungary.png)
 
 ### Budapest
 
-<img src="/images/flags/hungary-budapest.gif" width="320" height="213" alt="Flag of Budapest" title="Flag of Budapest"/>
-
-<img src="/images/flags/.png" width="320" height="213" alt="Flag of " title="Flag of "/>
+![Flag of Budapest]({{site.baseurl}}/images/flags/hungary-budapest.gif)
 
 | Vital | Pulse |
 | ---- | ------ |
@@ -330,11 +328,11 @@ Jump directly to a country or city:
 
 ## Latvia
 
-<img src="/images/flags/latvia.png" width="320" height="160" alt="Flag of Latvia" title="Flag of Latvia"/>
+![Flag of Latvia]({{site.baseurl}}/images/flags/latvia.png)
 
 ### Riga
 
-<img src="/images/flags/latvia-riga.png" width="320" height="160" alt="Flag of Riga" title="Flag of Riga"/>
+![Flag of Riga]({{site.baseurl}}/images/flags/latvia-riga.png)
 
 | Vital | Pulse |
 | ---- | ------ |
@@ -348,7 +346,7 @@ Jump directly to a country or city:
 
 ### Sigulda
 
-<img src="/images/flags/latvia-sigulda.png" width="320" height="160" alt="Flag of Sigulda" title="Flag of Sigulda"/>
+![Flag of Sigulda]({{site.baseurl}}/images/flags/latvia-sigulda.png)
 
 | Vital | Pulse |
 | ---- | ------ |
@@ -362,11 +360,11 @@ Jump directly to a country or city:
 
 ## Lithuania
 
-<img src="/images/flags/lithuania.png" width="320" height="192" alt="Flag of Lithuania" title="Flag of Lithuania"/>
+![Flag of Lithuania]({{site.baseurl}}/images/flags/lithuania.png)
 
 ### Vilnius
 
-<img src="/images/flags/lithuania-vilnius.png" width="320" height="160" alt="Flag of Vilnius" title="Flag of Vilnius"/>
+![Flag of Vilnius]({{site.baseurl}}/images/flags/lithuania-vilnius.png)
 
 | Vital | Pulse |
 | ---- | ------ |
@@ -380,11 +378,11 @@ Jump directly to a country or city:
 
 ## Morocco
 
-<img src="/images/flags/morocco.png" width="320" height="213" alt="Flag of Morocco" title="Flag of Morocco"/>
+![Flag of Morocco]({{site.baseurl}}/images/flags/morocco.png)
 
 ### Essaouira
 
-<img src="/images/flags/morocco-essaouira.png" width="320" height="213" alt="Flag of Essaouira" title="Flag of Essaouira"/>
+![Flag of Essaouira]({{site.baseurl}}/images/flags/morocco-essaouira.png)
 
 | Vital | Pulse |
 | ---- | ------ |
@@ -398,7 +396,7 @@ Jump directly to a country or city:
 
 ### Marrakesh
 
-<img src="/images/flags/morocco-marrakesh.png" width="320" height="213" alt="Flag of Marrakesh" title="Flag of Marrakesh"/>
+![Flag of Marrakesh]({{site.baseurl}}/images/flags/morocco-marrakesh.png)
 
 | Vital | Pulse |
 | ---- | ------ |
@@ -412,11 +410,11 @@ Jump directly to a country or city:
 
 ## Portugal
 
-<img src="/images/flags/portugal.png" width="320" height="213" alt="Flag of Portugal" title="Flag of Portugal"/>
+![Flag of Portugal]({{site.baseurl}}/images/flags/portugal.png)
 
 ### Lisbon
 
-<img src="/images/flags/portugal-lisbon.png" width="320" height="213" alt="Flag of Lisbon" title="Flag of Lisbon"/>
+![Flag of Lisbon]({{site.baseurl}}/images/flags/portugal-lisbon.png)
 
 | Vital | Pulse |
 | ---- | ------ |
@@ -430,7 +428,7 @@ Jump directly to a country or city:
 
 ### Porto
 
-<img src="/images/flags/portugal-porto.gif" width="320" height="213" alt="Flag of Porto" title="Flag of Porto"/>
+![Flag of Porto]({{site.baseurl}}/images/flags/portugal-porto.gif)
 
 | Vital | Pulse |
 | ---- | ------ |
@@ -444,11 +442,11 @@ Jump directly to a country or city:
 
 ## Serbia
 
-<img src="/images/flags/serbia.png" width="320" height="213" alt="Flag of Serbia" title="Flag of Serbia"/>
+![Flag of Serbia]({{site.baseurl}}/images/flags/serbia.png)
 
 ### Belgrade
 
-<img src="/images/flags/serbia-belgrade.png" width="240" height="240" alt="Flag of Belgrade" title="Flag of Belgrade"/>
+![Flag of Belgrade]({{site.baseurl}}/images/flags/serbia-belgrade.png)
 
 | Vital | Pulse |
 | ---- | ------ |
@@ -462,11 +460,11 @@ Jump directly to a country or city:
 
 ## Turkey
 
-<img src="/images/flags/turkey.png" width="320" height="213" alt="Flag of Turkey" title="Flag of Turkey"/>
+![Flag of Turkey]({{site.baseurl}}/images/flags/turkey.png)
 
 ### Istanbul
 
-<img src="/images/flags/turkey-istanbul.png" width="320" height="213" alt="Flag of Istanbul" title="Flag of Istanbul"/>
+![Flag of Istanbul]({{site.baseurl}}/images/flags/turkey-istanbul.png)
 
 | Vital | Pulse |
 | ---- | ------ |
@@ -480,11 +478,11 @@ Jump directly to a country or city:
 
 ## Ukraine
 
-<img src="/images/flags/ukraine.png" width="320" height="213" alt="Flag of Ukraine" title="Flag of Ukraine"/>
+![Flag of Ukraine]({{site.baseurl}}/images/flags/ukraine.png)
 
 ### Kiev
 
-<img src="/images/flags/ukraine-kiev.png" width="320" height="213" alt="Flag of Kiev" title="Flag of Kiev"/>
+![Flag of Kiev]({{site.baseurl}}/images/flags/ukraine-kiev.png)
 
 | Vital | Pulse |
 | ---- | ------ |
@@ -498,7 +496,7 @@ Jump directly to a country or city:
 
 ### Lviv
 
-<img src="/images/flags/ukraine-lviv.png" width="320" height="213" alt="Flag of Lviv" title="Flag of Lviv"/>
+![Flag of Lviv]({{site.baseurl}}/images/flags/ukraine-lviv.png)
 
 | Vital | Pulse |
 | ---- | ------ |
@@ -512,7 +510,7 @@ Jump directly to a country or city:
 
 ### Malyn
 
-<img src="/images/flags/ukraine-malyn.png" width="233" height="150" alt="Flag of Malyn" title="Flag of Malyn"/>
+![Flag of Malyn]({{site.baseurl}}/images/flags/ukraine-malyn.png)
 
 | Vital | Pulse |
 | ---- | ------ |
