@@ -23,11 +23,11 @@ Unless otherwise indicated, admission is free, opening hours are 24/7, and the s
 
 Known as a spa town, [Bad Windsheim][bad-windsheim] is an historic little town in Bavaria. I enjoyed strolling around the center and admiring the local architecture with my darling [Couchsurfing][cs] host Johanna.
 
-<img src="/images/2016/10/20-sights-of-urfersheim/badwindsheim-architecture.jpg" width="800" height="601" alt="Cute buildings" title="Cute buildings"/>
+![Cute buildings]({{site.baseurl}}/images/2016/10/20-sights-of-urfersheim/badwindsheim-architecture.jpg)
 
 A number of fountains and memorials are scattered around, so I won't spoil it by listing all of them. A couple of key landmarks are the city hall and the World War I memorial.
 
-<img src="/images/2016/10/20-sights-of-urfersheim/badwindsheim-landmarks.jpg" width="800" height="601" alt="City hall and Roland" title="City hall and Roland"/>
+![City hall and Roland]({{site.baseurl}}/images/2016/10/20-sights-of-urfersheim/badwindsheim-landmarks.jpg)
 
 ### Getting there and back
 
@@ -39,19 +39,19 @@ Johanna drove us about ten minutes north of Urfersheim to reach Bad Windsheim. I
 
 The [Freilandmuseum](http://freilandmuseum.de/startseite/information-en.html) is an awesome outdoor architecture museum that is a collection of multiple styles of old German farmhouses. One of them is even two styles in one!
 
-<img src="/images/2016/10/20-sights-of-urfersheim/freilandmuseum-siamesetwins.jpg" width="800" height="600" alt="Split personality" title="Split personality"/>
+![Split personality]({{site.baseurl}}/images/2016/10/20-sights-of-urfersheim/freilandmuseum-siamesetwins.jpg)
 
 You'll also see evidence of traditional farming methods throughout the property.
 
-<img src="/images/2016/10/20-sights-of-urfersheim/freilandmuseum-farming.jpg" width="800" height="601" alt="Hard work" title="Hard work"/>
+![Hard work]({{site.baseurl}}/images/2016/10/20-sights-of-urfersheim/freilandmuseum-farming.jpg)
 
 How many different plants and animals are raised here? I lost count at some point, but I am happy to announce that sea buckthorns and woolly pigs live here.
 
-<img src="/images/2016/10/20-sights-of-urfersheim/freilandmuseum-residents.jpg" width="800" height="601" alt="Plant and animal life" title="Plant and animal life"/>
+![Plant and animal life]({{site.baseurl}}/images/2016/10/20-sights-of-urfersheim/freilandmuseum-residents.jpg)
 
 We happened to be there during the medieval festival, so many people were dressed up in period costume.
 
-<img src="/images/2016/10/20-sights-of-urfersheim/freilandmuseum-medieval.jpg" width="800" height="601" alt="Medieval times" title="Medieval times"/>
+![Medieval times]({{site.baseurl}}/images/2016/10/20-sights-of-urfersheim/freilandmuseum-medieval.jpg)
 
 ### Admission and hours
 
@@ -72,15 +72,15 @@ Driving to the museum from Urfersheim takes just over ten minutes.
 
 A great spot to see the entire district, [Petersberg](https://en.wikipedia.org/wiki/Petersberg_(Siebengebirge)) is also a nice place to take a hike. Among the plants growing on the mountain, I saw wild rose and wild hops.
 
-<img src="/images/2016/10/20-sights-of-urfersheim/petersberg-plants.jpg" width="800" height="601" alt="Wild" title="Wild"/>
+![Wild]({{site.baseurl}}/images/2016/10/20-sights-of-urfersheim/petersberg-plants.jpg)
 
 You can see all the little towns around the mountain from the top: [Westheim](https://en.wikipedia.org/wiki/Westheim), [Urfersheim][urfersheim], [Illesheim][illesheim], [Bad Windsheim][bad-windsheim], and other villages. I also saw a live snake (outside of captivity) for the first time in a long while.
 
-<img src="/images/2016/10/20-sights-of-urfersheim/petersberg-view.jpg" width="800" height="601" alt="From above and down below" title="From above and down below"/>
+![From above and down below]({{site.baseurl}}/images/2016/10/20-sights-of-urfersheim/petersberg-view.jpg)
 
 Johanna demonstrated how the humming stone works. I couldn't hum at the right frequency to feel the vibrations, but I suppose it takes practice.
 
-<img src="/images/2016/10/20-sights-of-urfersheim/petersberg-stone.jpg" width="800" height="601" alt="The humming stone" title="The humming stone"/>
+![The humming stone]({{site.baseurl}}/images/2016/10/20-sights-of-urfersheim/petersberg-stone.jpg)
 
 ### Getting there and back
 
@@ -92,19 +92,19 @@ It's a 15-minute drive south of [Urfersheim][urfersheim] or a 25-minute bike rid
 
 I had the pleasure of staying with Johanna and Costi in their little hamlet of [Urfersheim][urfersheim]. You can see various forms of transportation, including horses.
 
-<img src="/images/2016/10/20-sights-of-urfersheim/urfersheim-horse.jpg" width="600" height="450" alt="Trotting" title="Trotting"/>
+![Trotting]({{site.baseurl}}/images/2016/10/20-sights-of-urfersheim/urfersheim-horse.jpg)
 
 They live right next to the town church, so you can always hear what time it is.
 
-<img src="/images/2016/10/20-sights-of-urfersheim/urfersheim-church.jpg" width="600" height="800" alt="Small church" title="Small church"/>
+![Small church]({{site.baseurl}}/images/2016/10/20-sights-of-urfersheim/urfersheim-church.jpg)
 
 Some residents still raise animals, like chickens and geese. These gray geese walked away from me as I approached them, but when I started leaving, they stalked me. They couldn't decide!
 
-<img src="/images/2016/10/20-sights-of-urfersheim/urfersheim-geese.jpg" width="800" height="600" alt="Gray geese" title="Gray geese"/>
+![Gray geese]({{site.baseurl}}/images/2016/10/20-sights-of-urfersheim/urfersheim-geese.jpg)
 
 Some of the houses look like they might belong in the [Freilandmuseum][freilandmuseum]. I spotted a resident in his overalls in front of his home and wished him a good morning.
 
-<img src="/images/2016/10/20-sights-of-urfersheim/urfersheim-house.jpg" width="800" height="600" alt="Home sweet home" title="Home sweet home"/>
+![Home sweet home]({{site.baseurl}}/images/2016/10/20-sights-of-urfersheim/urfersheim-house.jpg)
 
 What an adorable place to spend a few days!
 
