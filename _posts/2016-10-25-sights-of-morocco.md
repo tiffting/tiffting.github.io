@@ -16,7 +16,7 @@ This post is a little bit different because I visited many of these places as pa
 __This reminds me of the [Painted Desert](https://en.wikipedia.org/wiki/Painted_Desert_(Arizona)).__
 
 ![Rockin' the kasbah]({{site.baseurl}}/images/2016/10/25-sights-of-morocco/aitbenhaddou.jpg)
-__The kasbah of [Aït Benhaddou](https://en.wikipedia.org/wiki/Aït_Benhaddou) has been used in many films starting in the early 1960s, including _Gladiator_ and _Indiana Jones and the Last Crusade.__
+__The kasbah of [Aït Benhaddou](https://en.wikipedia.org/wiki/Aït_Benhaddou) has been used in many films starting in the early 1960s, including _Gladiator_ and _Indiana Jones and the Last Crusade_.__
 
 ![City in the desert]({{site.baseurl}}/images/2016/10/25-sights-of-morocco/desert-city.jpg)
 __The houses just blend into the desert mountains.__
