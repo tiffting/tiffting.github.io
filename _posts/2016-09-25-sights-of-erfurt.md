@@ -25,7 +25,7 @@ Unless otherwise indicated, admission is free, opening hours are 24/7, and the s
 
 You can feel the city's energy in the [Anger](http://www.erfurt-tourismus.de/en/all-about-erfurt/shopping/anger/). Many people cross the square every day, and you can see historic architecture while doing some shopping.
 
-<img src="/images/2016/09/25/sights-of-erfurt/anger.jpg" width="800" height="600" alt="Main post office" title="Main post office"/>
+![Main post office]({{site.baseurl}}/images/2016/09/25/sights-of-erfurt/anger.jpg)
 
 ## Angerbrunnen
 
@@ -33,7 +33,7 @@ You can feel the city's energy in the [Anger](http://www.erfurt-tourismus.de/en/
 
 This fountain on the west end of the [Anger][anger] caught my attention because someone had placed a fresh rose in the hand of one of the statues.
 
-<img src="/images/2016/09/25/sights-of-erfurt/angerbrunnen.jpg" width="600" height="800" alt="A rose by any other name" title="A rose by any other name"/>
+![A rose by any other name]({{site.baseurl}}/images/2016/09/25/sights-of-erfurt/angerbrunnen.jpg)
 
 ## Erfurt Cathedral
 
@@ -41,15 +41,15 @@ This fountain on the west end of the [Anger][anger] caught my attention because 
 
 Home of the largest medieval bell in the world, [Erfurt Cathedral](https://en.wikipedia.org/wiki/Erfurt_Cathedral) sits on a hillside.
 
-<img src="/images/2016/09/25/sights-of-erfurt/cathedral-outside.jpg" width="800" height="600" alt="International Gothic style" title="International Gothic style"/>
+![International Gothic style]({{site.baseurl}}/images/2016/09/25/sights-of-erfurt/cathedral-outside.jpg)
 
 The front door's knocker seems a bit Asian to me.
 
-<img src="/images/2016/09/25/sights-of-erfurt/cathedral-door.jpg" width="600" height="800" alt="Lion's head" title="Lion's head"/>
+![Lion's head]({{site.baseurl}}/images/2016/09/25/sights-of-erfurt/cathedral-door.jpg)
 
 My favorite part about the church is the stained glass windows. Each one tells a different story.
 
-<img src="/images/2016/09/25/sights-of-erfurt/cathedral-window.jpg" width="600" height="800" alt="Sunlight" title="Sunlight"/>
+![Sunlight]({{site.baseurl}}/images/2016/09/25/sights-of-erfurt/cathedral-window.jpg)
 
 ### Admission and hours
 
@@ -58,7 +58,7 @@ Unless you want to take part in a guided tour, you can walk in and look around f
 - November-April: Mondays-Saturdays 09:30-17:00 and Sundays 13:00-17:00
 - May-October: Mondays-Saturdays 09:30-18:00 and Sundays 13:00-18:00
 
-<img src="/images/2016/09/25/sights-of-erfurt/cathedral-nave.jpg" width="600" height="800" alt="Grandiose" title="Grandiose"/>
+![Grandiose]({{site.baseurl}}/images/2016/09/25/sights-of-erfurt/cathedral-nave.jpg)
 
 ## Erinnerungsort Topf & Söhne
 
@@ -66,11 +66,12 @@ Unless you want to take part in a guided tour, you can walk in and look around f
 
 A grim history awaits you at [Topf & Söhne](http://www.topfundsoehne.de/cms-www/index.php?id=75&l=1): it's where the furnaces used at Auschwitz were manufactured.
 
-<img src="/images/2016/09/25/sights-of-erfurt/topf-building.jpg" width="800" height="600" alt="Remember the past" title="Remember the past"/>
+![Remember the past]({{site.baseurl}}/images/2016/09/25/sights-of-erfurt/topf-building.jpg)
+<img src="/images/2016/09/25/sights-of-erfurt/.jpg" width="800" height="600" alt="Remember the past" title=""/>
 
 Out front, you can see a model of what the area used to look like when furnace-production was in full swing.
 
-<img src="/images/2016/09/25/sights-of-erfurt/topf-model.jpg" width="800" height="600" alt="Former productivity" title="Former productivity"/>
+![Former productivity]({{site.baseurl}}/images/2016/09/25/sights-of-erfurt/topf-model.jpg)
 
 ### Admission and hours
 
@@ -86,7 +87,7 @@ The site is located about 20 minutes southeast of city center if you go on foot.
 
 The medieval [Merchant's Bridge](https://en.wikipedia.org/wiki/Krämerbrücke) is still inhabited today, which is remarkable. It's lined with half-timbered houses on both sides and doesn't even feel like a bridge while you're walking across it. Only when you look at it from the outside can you tell that it sits on a river.
 
-<img src="/images/2016/09/25/sights-of-erfurt/kramerbrucke.jpg" width="800" height="600" alt="Old school bridge" title="Old school bridge"/>
+![Old school bridge]({{site.baseurl}}/images/2016/09/25/sights-of-erfurt/kramerbrucke.jpg)
 
 ## Zitadelle Petersberg
 
@@ -94,11 +95,11 @@ The medieval [Merchant's Bridge](https://en.wikipedia.org/wiki/Krämerbrücke) i
 
 This fort gives you a good view of the city and is just northwest of [Erfurt Cathedral][erfurt-cathedral].
 
-<img src="/images/2016/09/25/sights-of-erfurt/petersberg-entrance.jpg" width="800" height="600" alt="Enter" title="Enter"/>
+![Enter]({{site.baseurl}}/images/2016/09/25/sights-of-erfurt/petersberg-entrance.jpg)
 
 While I was visiting [Erfurt][erfurt], their Oktoberfest was going on, and the fort was a great place to watch the ferris wheel spinning around in the Domplatz.
 
-<img src="/images/2016/09/25/sights-of-erfurt/petersberg-oktoberfest.jpg" width="800" height="600" alt="Happy Oktoberfest!" title="Happy Oktoberfest!"/>
+![Happy Oktoberfest!]({{site.baseurl}}/images/2016/09/25/sights-of-erfurt/petersberg-oktoberfest.jpg)
 
 ### Admission and hours
 
