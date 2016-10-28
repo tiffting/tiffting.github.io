@@ -20,17 +20,17 @@ The castle of [Meißen][meissen] is the oldest in Saxony and makes it look like 
 
 [Albechtsburg](https://www.albrechtsburg-meissen.de/en/) is where the Dukes of Saxony lived before they moved to Dresden.
 
-<img src="/images/2016/09/22/sights-of-meissen/alberchtsburg-map.jpg" width="800" height="800" alt="Flatland" title="Flatland"/>
+![Flatland]({{site.baseurl}}/images/2016/09/22/sights-of-meissen/alberchtsburg-map.jpg)
 
 It's absolutely beautiful from the outside. When I visited, there was also a ferris wheel set up for the upcoming wine festival.
 
-<img src="/images/2016/09/22/sights-of-meissen/alberchtsburg-castle.jpg" width="800" height="600" alt="Gorgeous view of the castle" title="Gorgeous view of the castle"/>
+![Gorgeous view of the castle]({{site.baseurl}}/images/2016/09/22/sights-of-meissen/alberchtsburg-castle.jpg)
 
 ### Admission and hours
 
 Tickets to see the inside of the castle is €8 or €4 for those who qualify for the reduced rate (e.g., seniors, students). Also available are combo tickets either with the [Porcelain Museum][porcelain-museum] (€14, €7 reduced) or the cathedral (€10, €5.50 reduced). You also have to pay €2 to take photos inside.
 
-<img src="/images/2016/09/22/sights-of-meissen/alberchtsburg-features.jpg" width="600" height="800" alt="On the castle" title="On the castle"/>
+![On the castle]({{site.baseurl}}/images/2016/09/22/sights-of-meissen/alberchtsburg-features.jpg)
 
 It's open to visitors during these times:
 
@@ -41,7 +41,7 @@ It's open to visitors during these times:
 
 It's takes less than ten minutes to walk there from the center of town. You can even opt to walk the historic circuit, which has a great view of the surrounding area.
 
-<img src="/images/2016/09/22/sights-of-meissen/alberchtsburg-area.jpg" width="600" height="800" alt="Around the castle" title="Around the castle"/>
+![Around the castle]({{site.baseurl}}/images/2016/09/22/sights-of-meissen/alberchtsburg-area.jpg)
 
 ## Markt
 
@@ -49,11 +49,11 @@ It's takes less than ten minutes to walk there from the center of town. You can 
 
 I hadn't seen a maypole in a long time, but the Markt had one! The architecture there is quite charming, so it's worth hanging out there.
 
-<img src="/images/2016/09/22/sights-of-meissen/markt-maypole.jpg" width="800" height="600" alt="Whimsical" title="Whimsical"/>
+![Whimsical]({{site.baseurl}}/images/2016/09/22/sights-of-meissen/markt-maypole.jpg)
 
 The [Frauenkirsche](https://www.frauenkirche-meissen.de/) is also located there. Check out its little white bells in the tower.
 
-<img src="/images/2016/09/22/sights-of-meissen/markt-frauenkirsche.jpg" width="600" height="800" alt="One of the churches" title="One of the churches"/>
+![One of the churches]({{site.baseurl}}/images/2016/09/22/sights-of-meissen/markt-frauenkirsche.jpg)
 
 ### Admission and hours
 
@@ -69,7 +69,7 @@ It's in center of the city and in a flat area. Walk there!
 
 I was on the fence about going to [this museum](http://www.meissen.com/en) because I'd left my jacket behind, but the sun came out mid-afternoon. To show you the way, the street is marked with the museum's logo: crossed swords. I didn't actually visit the exhibit, but I browsed the shop, which is quite expensive. There's also a cafe inside where you can eat and drink off of dishware manufactured there.
 
-<img src="/images/2016/09/22/sights-of-meissen/porzellanmuseum.jpg" width="800" height="800" alt="Fancy museum" title="Fancy museum"/>
+![Fancy museum]({{site.baseurl}}/images/2016/09/22/sights-of-meissen/porzellanmuseum.jpg)
 
 ### Admission and hours
 
