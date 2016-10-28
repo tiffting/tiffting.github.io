@@ -31,15 +31,15 @@ The currency in Germany is the euro (€), and at the time of writing, the excha
 
 My hosts let me borrow a bike to visit the old town, and I noticed a wine shop selling Saxony [federweißer][federweisser] for €8.50 for 1L. I couldn't read any German, but I found out later that they were supposed to charge €10 if I wanted to drink it at the shop vs. €8.50 for takeaway. I guess the shopkeep didn't speak enough English to tell me the difference and ask me for the extra €1.50 when I requested a wine glass to drink it at a table just outside.
 
-<img src="/images/2016/09/22/tasting-on-meissen-and-dresden/weinladen-prices.jpg" width="600" height="800" alt="Prices for federweißer" title="Prices for federweißer"/>
+![Prices for federweißer]({{site.baseurl}}/images/2016/09/22/tasting-on-meissen-and-dresden/weinladen-prices.jpg)
 
-To be honest when I initially began the transaction, I thought I would take the bottle home to share with my hosts. But after the shopkeep swiped my credit card, I remembered that there wasn't a great place to secure the bottle or prevent any bumps in the road from causing an explosion. So I had to drink the entire bottle to prevent disaster.
+To be honest when I began the transaction, I thought I would take the bottle home to share with my hosts. But after the shopkeep swiped my credit card, I remembered that there wasn't a great place to secure the bottle or prevent any bumps in the road from causing an explosion. So I had to drink the entire bottle to prevent disaster.
 
-<img src="/images/2016/09/22/tasting-on-meissen-and-dresden/weinladen-drink.jpg" width="600" height="800" alt="Finish what you start" title="Finish what you start"/>
+![Finish what you start]({{site.baseurl}}/images/2016/09/22/tasting-on-meissen-and-dresden/weinladen-drink.jpg)
 
 There was a little stand in the square nearby selling rostbratwurst for €2, so I got one to accompany my drink. Although the traditional food to have with [federweißer][federweisser] is onion cake ([zweibelkuchen][zeiwbelkuchen]), the rostbratwurst hit the spot.
 
-<img src="/images/2016/09/22/tasting-on-meissen-and-dresden/weinladen-brat.jpg" width="600" height="800" alt="Long!" title="Long!"/>
+![Long!]({{site.baseurl}}/images/2016/09/22/tasting-on-meissen-and-dresden/weinladen-brat.jpg)
 
 ## Desserts & ice cream
 
@@ -55,11 +55,11 @@ This ice cream shop is Nathalia's favorite one in Meißen. It's right in the lit
 
 Nathalia's favorite cafe in Dresden is [V-cake](https://m.facebook.com/cafe.vcake). Surprise: everything is vegan! And the interior is adorable.
 
-<img src="/images/2016/09/22/tasting-on-meissen-and-dresden/vcake-interior.jpg" width="600" height="800" alt="Cute decor" title="Cute decor"/>
+![Cute decor]({{site.baseurl}}/images/2016/09/22/tasting-on-meissen-and-dresden/vcake-interior.jpg)
 
 Good thing Nathalia arrived early: she reserved the last two slices of raspberry cream cake (€3.70). Marcel ordered a slice of donauwelle (€3.30) and a pot of coffee (€3.10). Nathalia got a latte macchiato (€2.50) with a spoonful of nutella (€0.30). I loved the raspberry cream cake! I wonder if I can figure out how they made it.
 
-<img src="/images/2016/09/22/tasting-on-meissen-and-dresden/vcake-cake.jpg" width="800" height="600" alt="Amazing vegan cake" title="Amazing vegan cake"/>
+![Amazing vegan cake]({{site.baseurl}}/images/2016/09/22/tasting-on-meissen-and-dresden/vcake-cake.jpg)
 
 ## Grocery stores & homemade food
 
@@ -69,15 +69,15 @@ Good thing Nathalia arrived early: she reserved the last two slices of raspberry
 
 I love grocery stores because they give a glimpse into what locals actually eat. [REWE](https://www.rewe.de/) is no exception. Thanks to them, I got to try [reibekuchen](https://en.wikipedia.org/wiki/Reibekuchen) (€1.29), which I could microwave quickly for breakfast.
 
-<img src="/images/2016/09/22/tasting-on-meissen-and-dresden/rewe-reibekuchen.jpg" width="800" height="600" alt="Potato fritters" title="Potato fritters"/>
+![Potato fritters]({{site.baseurl}}/images/2016/09/22/tasting-on-meissen-and-dresden/rewe-reibekuchen.jpg)
 
 Nathalia is a fan of [marzipan kartoffeln](http://www.food.com/recipe/marzipankartoffeln-german-marzipan-potatoes-469663) (€0.99), but I thought the ones from the store were too sweet to finish in one go. When I make my own, I'll be toning down the sugar content.
 
-<img src="/images/2016/09/22/tasting-on-meissen-and-dresden/rewe-marzipan.jpg" width="600" height="800" alt="Too sweet" title="Too sweet"/>
+![Too sweet]({{site.baseurl}}/images/2016/09/22/tasting-on-meissen-and-dresden/rewe-marzipan.jpg)
 
 I was afraid I wouldn't get to try any beer from Meissen Schwerter before leaving the area, but I found a 0.5L bottle of their pilsner for €0.77 at a location in Dresden.
 
-<img src="/images/2016/09/22/tasting-on-meissen-and-dresden/rewe-beer.jpg" width="600" height="800" alt="Local beer" title="Local beer"/>
+![Local beer]({{site.baseurl}}/images/2016/09/22/tasting-on-meissen-and-dresden/rewe-beer.jpg)
 
 ### Nathalia & Marcel's kitchen
 
@@ -85,7 +85,7 @@ I was afraid I wouldn't get to try any beer from Meissen Schwerter before leavin
 
 Not only did Marcel make tasty vegan pizza and his famous cauliflower soup, but he also whipped up a delicious version of German meatballs (made of tofu), mashed potatoes, and sauerkraut. Their kitchen is so inspiring, and I hope I can incorporate more vegan meals into my diet after I get home.
 
-<img src="/images/2016/09/22/tasting-on-meissen-and-dresden/marcel-dinner.jpg" width="800" height="600" alt="Vegan German food" title="Vegan German food"/>
+![Vegan German food]({{site.baseurl}}/images/2016/09/22/tasting-on-meissen-and-dresden/marcel-dinner.jpg)
 
 ## Restaurants
 
@@ -95,7 +95,7 @@ Not only did Marcel make tasty vegan pizza and his famous cauliflower soup, but 
 
 I didn't find [zweibelkuchen][zweibelkuchen] until hours after I'd finished my bottle of [federweißer][federweisser] at [Scheiber](http://www.konditorei-cafe-schreiber.de/Cafs.439/). The shopkeep wanted to make sure I knew it was onion cake when I asked for a slice (€1.50/slice for takeaway), and the Saxon apple tort (€1.45/slice for takeaway) was also yummy. I recommend throwing them in the microwave for 15 seconds to make it taste more like freshly made pie.
 
-<img src="/images/2016/09/22/tasting-on-meissen-and-dresden/schreiber.jpg" width="800" height="600" alt="More pies than cakes" title="More pies than cakes"/>
+![More pies than cakes]({{site.baseurl}}/images/2016/09/22/tasting-on-meissen-and-dresden/schreiber.jpg)
 
 [cs]: https://www.couchsurfing.com
 [federweisser]: https://en.wikipedia.org/wiki/Federweisser
