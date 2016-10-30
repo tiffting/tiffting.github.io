@@ -13,6 +13,7 @@ Only after a quarter of a year away from my home country, I realize that there a
 ![God bless the USA]({{site.baseurl}}/images/flags/usa.png)
 
 1. It's safe to assume that everyone I encounter speaks English.
+1. Prices do not include sales tax.
 1. Tipping at restaurants is a requirement.
 1. Restaurants automatically bring out tap water without having to ask for it.
 1. I don't have to carry my passport around.
