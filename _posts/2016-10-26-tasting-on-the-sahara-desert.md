@@ -4,7 +4,7 @@ title: Tasting on the Sahara Desert
 layout: post
 tags:
   - eat
-date: '2016-10-26 20:00:00 -0600'
+date: '2016-10-26 10:00:00 -0600'
 ---
 In early October, I took a four-day, three-night Sahara Desert tour. Unfortunately, lunch was always at restaurants designed for tourists. No locals would eat at these places, and they served dishes of mediocre quality at best. But the prices were at least twice that of what you'd pay in Marrakesh. I'll just leave this post here for future reference.
 
