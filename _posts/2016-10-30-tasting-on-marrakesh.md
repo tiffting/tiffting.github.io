@@ -133,3 +133,5 @@ Finally, we ended at a juice shop with sweets. The menu on the wall was a list o
 
 ![Refreshing end with Shoni]({{site.baseurl}}/images/2016/10/30-tasting-on-marrakesh/tour-juice.jpg)
 ![A pile of cookies]({{site.baseurl}}/images/2016/10/30-tasting-on-marrakesh/tour-cookies.jpg)
+
+[cs]: https://www.couchsurfing.com
