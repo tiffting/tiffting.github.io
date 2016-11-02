@@ -214,13 +214,13 @@ See a pattern yet? Yes, it's [Tele2][tele2-lt] again, and they provide up to [3G
 
 ### Lisbon
 
-[3G][3g] was consistently available from [NOS][nos-pt] throughout the various neighborhoods of Lisbon.
+[3G][3g] was consistently available from [NOS][nos-pt] throughout the various neighborhoods of Lisbon. (2016-10-16)
 
 ![Lucky weather in Lisbon]({{site.baseurl}}/images/tmobile/portugal-lisbon.png)
 
 ### Porto
 
-[NOS][nos-pt] does it again with reliable [3G][3g] access in Porto.
+[NOS][nos-pt] does it again with reliable [3G][3g] access in Porto. (2016-10-19)
 
 ![A touch of rain in Porto]({{site.baseurl}}/images/tmobile/portugal-porto.png)
 
