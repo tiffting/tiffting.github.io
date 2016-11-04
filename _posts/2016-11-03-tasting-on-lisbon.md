@@ -20,7 +20,7 @@ The currency in Portugal is the euro (€), and at the time of writing, the exch
   * [Lidl](#lidl)
 * [Restaurants](#restaurants)
   * [Stop Caffé](#stop-caff)
-  * [A Tasquinha do Lagarto](#a-tasquinha-do-lagarto)
+  * [:heart: A Tasquinha do Lagarto](#heart-a-tasquinha-do-lagarto)
   * [Sabor do Bairro](#sabor-do-bairro)
   * [O Prado](#o-prado)
   * [Carvoaria Jacto][carvoaria-jacto]
