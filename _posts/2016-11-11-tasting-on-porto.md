@@ -18,7 +18,7 @@ The currency in Portugal is the euro (€), and at the time of writing, the exch
   * [Mercado do Bolhão](#mercado-do-bolho)
 * [Restaurants](#restaurants)
   * [Mr.Pizza](#mrpizza)
-  * [Casa Guedes][heart-casa-guedes]
+  * [Casa Guedes][casa-guedes]
   * [A Sandeira do Porto](#a-sandeira-do-porto)
   * [Café Santiago](#caf-santiago)
   * [Verso em Pedra](#verso-em-pedra)
@@ -92,5 +92,5 @@ Pica-pau was made of chopped up sausages, steak, cauliflower, and olives. It's v
 
 Our waitress seemed to speak limited English, but Raul loves her because she curses like a sailor, in keeping with the locals.
 
-[casa-guedes]: #casa-guedes
+[casa-guedes]: #heart-casa-guedes
 [cs]: https://www.couchsurfing.com
