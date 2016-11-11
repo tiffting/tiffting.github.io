@@ -18,7 +18,7 @@ The currency in Portugal is the euro (€), and at the time of writing, the exch
   * [Mercado do Bolhão](#mercado-do-bolho)
 * [Restaurants](#restaurants)
   * [Mr.Pizza](#mrpizza)
-  * [Casa Guedes][casa-guedes]
+  * [Casa Guedes][heart-casa-guedes]
   * [A Sandeira do Porto](#a-sandeira-do-porto)
   * [Café Santiago](#caf-santiago)
   * [Verso em Pedra](#verso-em-pedra)
@@ -54,7 +54,7 @@ It was fun to walk through this open air market even on a rainy day. The colors 
 
 Before going to a [Couchsurfing][cs] meetup at a bar, I met up with Dasha and a couple of her friends there for dinner. You can get large, thin slices of pizza here for €2 each. It's not bad for the price, but it's definitely not gourmet pie.
 
-### Casa Guedes
+### :heart: Casa Guedes
 
 [Praça dos Poveiros 130, 4000-098 Porto, Portugal](https://goo.gl/maps/gKiAiJqoFrK2)
 
@@ -89,6 +89,8 @@ My gracious [Couchsurfing][cs] host Raul took me to try my first francesinha at 
 After I arrived in Porto from Lisbon, my [Couchsurfing][cs] host Raul showed me around the river. I was pretty hungry since I didn't have lunch, so we headed across the river to Vila Nova de Gaia, where [Taberninha do Manel](https://taberninhadomanel.comportugal.com) is located. We split a half jug of sangria (€10) and the pica-pau (€10). The sangria contained apples and oranges and was nicely refreshing.
 
 Pica-pau was made of chopped up sausages, steak, cauliflower, and olives. It's very comforting, especially on a rainy day like the one on which I arrived.
+
+Our waitress seemed to speak limited English, but Raul loves her because she curses like a sailor, in keeping with the locals.
 
 [casa-guedes]: #casa-guedes
 [cs]: https://www.couchsurfing.com
