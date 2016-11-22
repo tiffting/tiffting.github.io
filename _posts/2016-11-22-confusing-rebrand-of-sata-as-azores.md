@@ -4,6 +4,7 @@ title: Confusing rebrand of SATA as Azores
 layout: post
 tags:
   - get in
+  - reviews
 date: '2016-11-22 10:00:00 +1300'
 ---
 ## Grade
@@ -59,4 +60,5 @@ They weren't good at communicating what the current status was, but the plane fi
 See [my post](/formerly-mundane-and-now-weird/) that lists several things that I forgot were commonplace in the States that I took for granted while in Europe for three months.
 
 [azores]: https://www.azoresairlines.pt/en
+[cs]: https://www.couchsurfing.org
 [sata]: http://www.sata.pt/en
