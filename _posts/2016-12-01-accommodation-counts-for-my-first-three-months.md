@@ -106,7 +106,7 @@ Paris, France: Paul let me crash on his bed while he slept on the couch.
 __Kythnos, Greece: Kathy and Chris offered me one of the three beds in their spare bedroom.__
 
 ![Yeremiah's bedroom]({{site.baseurl}}/images/2016/12/01-accommodation-counts-for-my-first-three-months/friend-karlsfeld.jpg)
-__Karlsfeld, Germany: Natalya and Oleksandr had their oldest son Yeremiah give up his bedroom for me while I was visiting. Thank you!
+__Karlsfeld, Germany: Natalya and Oleksandr had their oldest son Yeremiah give up his bedroom for me while I was visiting. Thank you!__
 
 Boston, MA: Kiet gave up his bed, so I got to be roommates with little Kate for a few days.
 
