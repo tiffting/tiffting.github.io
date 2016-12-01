@@ -91,7 +91,7 @@ __Urfersheim, Germany: Johanna and Costi live in a former cafe, and I stayed on 
 ![Khalid's spare bedroom]({{site.baseurl}}/images/2016/12/01-accommodation-counts-for-my-first-three-months/cs-essaouira.jpg)
 __Essaouira, Morocco: Khalid has several rooms in his place, and I stayed in two different ones.__
 
-![Jo˜ão's spare bedroom]({{site.baseurl}}/images/2016/12/01-accommodation-counts-for-my-first-three-months/cs-lisbon.jpg)
+![João's spare bedroom]({{site.baseurl}}/images/2016/12/01-accommodation-counts-for-my-first-three-months/cs-lisbon.jpg)
 __Lisbon, Portugal: João had a spare bedroom I could sleep in, and we got to chill with his friends a couple of nights I was in town.__
 
 Porto, Portugal: Raul had a couch for me, and I got to cook a vegan dinner for us on my last evening in Porto.
