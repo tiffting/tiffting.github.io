@@ -72,3 +72,5 @@ We, the citizens of Nagasaki, offer our most heartfelt condolences to those who 
 
 ![Thousands of prayers for peace]({{site.baseurl}}/images/2016/12/12-nagasaki-peace-declaration/cranes.jpg)
 
+If you are interested in participating in the movement towards global nuclear disarmament, check out [Global Zero](http://www.globalzero.org/get-the-facts/FAQs).
+
