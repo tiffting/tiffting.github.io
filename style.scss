@@ -349,6 +349,11 @@ footer {
   
   span {
     color: $lightGray;
+    display: block;
+  }
+
+  a {
+   display: block;
   }
 
   &.next {
