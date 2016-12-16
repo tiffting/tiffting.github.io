@@ -149,6 +149,10 @@ img {
   font-style: italic;
   margin-top: 2rem;
   text-align: right;
+
+  + .pagination {
+    margin-top: 1rem;
+  }
 }
 
 .posts .date {
