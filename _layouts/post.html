@@ -19,11 +19,15 @@ layout: default
     <span class="page-link prev">
       <a href="{{page.previous.url}}">&laquo; Previous</a>
     </span>
+  {% else %}
+    <span>&laquo; Previous</span>
   {% endif %}
   {% if page.next.url %}
     <span class="page-link next">
       <a href="{{page.next.url}}">Next &raquo;</a>
     </span>
+  {% else %}
+    <span>Next &raquo;</span>
   {% endif %}
   </div>
 
