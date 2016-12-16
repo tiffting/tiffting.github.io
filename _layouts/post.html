@@ -15,20 +15,20 @@ layout: default
   
   
   <div class="pagination">
-  {% if page.previous.url %}
     <span class="page-link prev">
+    {% if page.previous.url %}
       <a href="{{page.previous.url}}">&laquo; Previous</a>
+    {% else %}
+      <span>&laquo; Previous</span>
+    {% endif %}
     </span>
-  {% else %}
-    <span>&laquo; Previous</span>
-  {% endif %}
-  {% if page.next.url %}
     <span class="page-link next">
+    {% if page.next.url %}
       <a href="{{page.next.url}}">Next &raquo;</a>
+    {% else %}
+      <span>Next &raquo;</span>
+    {% endif %}
     </span>
-  {% else %}
-    <span>Next &raquo;</span>
-  {% endif %}
   </div>
 
   {% include disqus.html %}
