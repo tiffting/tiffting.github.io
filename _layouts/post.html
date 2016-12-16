@@ -16,17 +16,17 @@ layout: default
   
   <div class="pagination">
     <span class="page-link prev">
-    {% if page.previous.url %}
-      <a href="{{page.previous.url}}">&laquo; Previous</a>
+    {% if page.next.url %}
+      <a href="{{page.next.url}}">Previous &raquo;</a>
     {% else %}
-      <span>&laquo; Previous</span>
+      <span>Previous &raquo;</span>
     {% endif %}
     </span>
     <span class="page-link next">
-    {% if page.next.url %}
-      <a href="{{page.next.url}}">Next &raquo;</a>
+    {% if page.previous.url %}
+      <a href="{{page.previous.url}}">&laquo; Next</a>
     {% else %}
-      <span>Next &raquo;</span>
+      <span>&laquo; Next</span>
     {% endif %}
     </span>
   </div>
