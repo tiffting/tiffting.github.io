@@ -337,15 +337,22 @@ footer {
 //
 
 .pagination {
-  margin: 0 auto;
-  text-align: center;
+  margin: 1rem 0;
+  width: auto;
 }
 
 .page-link {
-  margin: 0 0.5rem;
+  display: block;
+  float: left;
+  overflow: hidden;
+  width: 50%;
   
   span {
     color: $lightGray;
+  }
+
+  &.next {
+    text-align: right;
   }
 }
 
