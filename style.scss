@@ -321,7 +321,6 @@ nav {
 }
 
 .wrapper-footer {
-  clear: both;
   margin-top: 1rem;
   border-top: 1px solid $lightGray;
   border-bottom: 1px solid $lightGray;
@@ -338,23 +337,17 @@ footer {
 //
 
 .pagination {
-  margin: 1rem 0;
-  width: auto;
+  margin: 0 auto;
+  text-align: center;
 }
 
 .page-link {
-  display: block;
-  float: left;
-  overflow: hidden;
-  width: 50%;
+  margin: 0 0.5rem;
   
   span {
     color: $lightGray;
   }
 
-  &.next {
-    text-align: right;
-  }
 }
 
 .page-number {
