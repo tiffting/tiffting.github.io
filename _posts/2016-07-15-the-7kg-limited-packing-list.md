@@ -180,7 +180,7 @@ My backpack weighs 6.6kg, and my travel jacket and neck stash weigh 2.1kg.
 [marmot-julia]: http://amzn.to/29JHpo6
 [masterlock-combo]: http://amzn.to/29Ov2rk
 [miracleshop-soapsaver]: http://amzn.to/29ReyP8
-[mountainhardware-fedora]: https://www.rei.com/product/101484/mountain-hardwear-raffia-fedora-hat-womens
+[mountainhardware-fedora]: http://www.moosejaw.com/moosejaw/shop/product_Mountain-Hardwear-Women-s-Raffia-Fedora_10269638_10208_10000001_-1_
 [muji-pen]: http://www.muji.us/store/select-3-color-ball-point-pen-body.html
 [oralb-floss]: http://amzn.to/29JkYMF
 [pacsafe-venturesafe]: http://amzn.to/2afL1N1
