@@ -68,7 +68,7 @@ What I wear and what I have in my pockets keeps me comfortable and connected.
 [hydroflask-bottle]: http://amzn.to/29DlHA0
 [kathmandu-semsa]: http://www.kathmandu.com.au/womens/clothing/pants-and-shorts/semsa-zip-off-trousers-women-v2.html
 [kobwa-opener]: http://amzn.to/2hfoKUL
-[mountainhardware-fedora]: https://www.rei.com/product/101484/mountain-hardwear-raffia-fedora-hat-womens
+[mountainhardware-fedora]: http://www.moosejaw.com/moosejaw/shop/product_Mountain-Hardwear-Women-s-Raffia-Fedora_10269638_10208_10000001_-1_
 [muji-pen]: http://www.muji.us/store/select-3-color-ball-point-pen-body.html
 [nest-case]: http://amzn.to/2gNGx29
 [pacsafe-purse]: http://amzn.to/29AoXQr
