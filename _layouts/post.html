@@ -1,5 +1,6 @@
 ---
 layout: default
+published: true
 ---
 
 <article class="post">
@@ -19,14 +20,14 @@ layout: default
     {% if page.next.url %}
       <a href="{{page.next.url}}">Previous &raquo;</a>
     {% else %}
-      <span>Previous &raquo;</span>
+      <span>&laquo; Previous</span>
     {% endif %}
     </span>
     <span class="page-link next">
     {% if page.previous.url %}
       <a href="{{page.previous.url}}">&laquo; Next</a>
     {% else %}
-      <span>&laquo; Next</span>
+      <span>Next &raquo;</span>
     {% endif %}
     </span>
   </div>
