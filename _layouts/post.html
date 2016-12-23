@@ -14,18 +14,17 @@ published: true
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
   
-  
   <div class="pagination">
     <span class="page-link prev">
     {% if page.next.url %}
-      <a href="{{page.next.url}}">Previous &raquo;</a>
+      <a href="{{page.next.url}}">&laquo; Previous</a>
     {% else %}
       <span>&laquo; Previous</span>
     {% endif %}
     </span>
     <span class="page-link next">
     {% if page.previous.url %}
-      <a href="{{page.previous.url}}">&laquo; Next</a>
+      <a href="{{page.previous.url}}">Next &raquo;</a>
     {% else %}
       <span>Next &raquo;</span>
     {% endif %}
