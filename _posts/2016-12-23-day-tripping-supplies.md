@@ -50,7 +50,7 @@ What I wear and what I have in my pockets keeps me comfortable and connected.
 * [iPhone][apple-iphonese]: communication device and camera, all in one!
 * Casio watch: check the time without having to look at your phone
 * [Mountain Hardware fedora][mountainhardware-fedora]: lightweight and foldable since it's made of paper
-* Weather-appropriate shirt: [short-][32degrees-shirt] or long-sleeved][sierradesigns-solarwind]
+* Weather-appropriate shirt: [short-][32degrees-shirt] or [long-sleeved][sierradesigns-solarwind]
 * [Zip-off trousers][kathmandu-semsa]: switch between pants and shorts whenever you want
 * [Vasque Breeze][vasque-breeze] Gore-Tex hiking shoes: keep my feet dry even when I splash in rain puddles
 * [Travel jacket][exofficio-flyq] and/or [Patagonia down jacket][patagonia-downsweater]: depending on outdoor temperature
