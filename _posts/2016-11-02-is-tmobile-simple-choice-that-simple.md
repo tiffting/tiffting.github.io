@@ -45,6 +45,7 @@ Jump directly to a country or city:
   - [Sigulda](#sigulda)
 - [Lithuania](#lithuania)
   - [Vilnius](#vilnius)
+- [New Zealand](#new-zealand)
 - [Portugal](#portugal)
   - [Lisbon](#lisbon)
   - [Porto](#porto)
@@ -210,6 +211,13 @@ See a pattern yet? Yes, it's [Tele2][tele2-lt] again, and they provide up to [3G
 
 ![More hot weather in Vilnius]({{site.baseurl}}/images/tmobile/lithuania-vilnius.png)
 
+## New Zealand
+
+[Vodafone NZ][vodafone-nz] provided [3G][3g] in the cities, but coverage was much flakier between outposts of civilization.
+
+![Coldest in Wanaka]({{site.baseurl}}/images/tmobile/newzealand-wanaka.png)
+![Warmest in Akaroa]({{site.baseurl}}/images/tmobile/newzealand-akaroa.jpg)
+
 ## Portugal
 
 ### Lisbon
@@ -290,4 +298,5 @@ This village has only 21 people, so what kind of service do you expect? It was f
 [tmobile-plans]: http://www.t-mobile.com/cell-phone-plans.html
 [turkcell]: http://www.turkcell.com.tr
 [turk-telekom]: http://turktelekomint.com
+[vodafone-nz]: http://www.vodafone.co.nz
 [vodafone-ua]: https://www.vodafone.ua
