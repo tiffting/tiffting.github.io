@@ -12,6 +12,7 @@ If you have an unlocked [GSM][gsm] phone, you can easily avoid buying and carryi
 
 Jump directly to a country or city:
 
+- [Australia](#australia)
 - [Austria](#austria)
   - [Vienna](#vienna)
 - [Czech Republic](#czech-republic)
@@ -58,6 +59,12 @@ Jump directly to a country or city:
   - [Lviv](#lviv)
   - [Malyn](#malyn)
   - [V'yunyshche](#vyunyshche)
+
+## Australia
+
+[Telstra][telstra-au] was the [3G][3g] provider in the cities of Australia, but much like [New Zealand](#new-zealand), if you're driving between cities, you may or may not stay connected. Notably, [Lady Elliot Island](https://en.wikipedia.org/wiki/Lady_Elliot_Island) has no connectivity whatsoever. (2016-12-05)
+
+![Almost summertime in Sydney]({{site.baseurl}}/images/tmobile/australia-sydney.png)
 
 ## Austria
 
@@ -213,7 +220,7 @@ See a pattern yet? Yes, it's [Tele2][tele2-lt] again, and they provide up to [3G
 
 ## New Zealand
 
-[Vodafone NZ][vodafone-nz] provided [3G][3g] in the cities, but coverage was much flakier between outposts of civilization.
+[Vodafone NZ][vodafone-nz] provided [3G][3g] in the cities, but coverage was much flakier between outposts of civilization. (2016-11-24)
 
 ![Coldest in Wanaka]({{site.baseurl}}/images/tmobile/newzealand-wanaka.png)
 ![Warmest in Akaroa]({{site.baseurl}}/images/tmobile/newzealand-akaroa.jpg)
@@ -288,6 +295,7 @@ This village has only 21 people, so what kind of service do you expect? It was f
 [tele2-ee]: https://tele2.ee
 [tele2-lt]: http://tele2.lt
 [tele2-lv]: https://www.tele2.lv
+[telstra-au]: https://www.telstra.com.au
 [tmobile-a]: http://www.t-mobile.at
 [tmobile-countries]: http://www.t-mobile.com/cell-phone-plans/simple-choice-international-plan-countries.html
 [tmobile-cz]: https://www.t-mobile.cz/web/en
