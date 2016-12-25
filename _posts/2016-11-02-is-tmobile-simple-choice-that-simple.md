@@ -4,7 +4,7 @@ layout: post
 title: Is T-Mobile's Simple Choice plan that simple?
 tags:
   - tech
-date: '2016-11-02 10:00:00 -0800'
+date: '2016-12-25 10:00:00 +0900'
 ---
 If you have an unlocked [GSM][gsm] phone, you can easily avoid buying and carrying around a bunch of SIM cards with you especially if you're traveling to a bunch of different countries by subscribing to any [T-Mobile Simple Choice plan][tmobile-plans]. They include unlimited data and SMS, and phone calls are 20 cents per minute. (I use my [Google Voice][google-voice] number to get around that.) Check out the [full list of supported countries][tmobile-countries], but I'm going to be keeping a running tally of how well the service really performs in each city I visit.
 
@@ -41,6 +41,7 @@ Jump directly to a country or city:
   - [Budapest](#budapest)
 - [Iceland](#iceland)
   - [Keflavik](#keflavik)
+- [Japan](#japan)
 - [Latvia](#latvia)
   - [Riga](#riga)
   - [Sigulda](#sigulda)
@@ -196,6 +197,12 @@ I didn't actually leave the airport since I had what amounted to less than an ho
 
 ![Keflavik weather]({{site.baseurl}}/images/tmobile/iceland-keflavik.jpeg)
 
+## Japan
+
+From Tokyo to Kyushu to Okinawa, [Softbank][softbank-jp] provided fairly consistent [3G][3g] connectivity. (2016-12-28)
+
+![Warm winter in Naha]({{site.baseurl}}/images/tmobile/japan-naha.jpg)
+
 ## Latvia
 
 ### Riga
@@ -292,6 +299,7 @@ This village has only 21 people, so what kind of service do you expect? It was f
 [o2-de]: https://www.o2online.de
 [orange-fr]: http://www.orange.fr
 [paris-metro]: https://en.m.wikipedia.org/wiki/Paris_M%C3%A9tro
+[softbank-jp]: http://www.softbank.jp/en
 [tele2-ee]: https://tele2.ee
 [tele2-lt]: http://tele2.lt
 [tele2-lv]: https://www.tele2.lv
