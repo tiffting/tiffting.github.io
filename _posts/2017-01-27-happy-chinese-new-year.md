@@ -6,7 +6,7 @@ tags:
   - getting around
 date: '2017-01-27 10:00:00 +0800'
 ---
-I hope everyone has had a nice start to 2017 despite the inauguration of Emperor Trump. I am celebrating Chinese New Year for the first time in Taiwan with my extended family. We've paid our respects to those ancestors who came and went before us by burning incense and paper money, as well as offering all kinds of food and alcohol. It's also a good time to reflect on where I've been and where I'm planning to go.
+I hope everyone has had a nice start to 2017 despite the inauguration of Emperor Trump. I am celebrating Chinese New Year for the first time in Taiwan with my extended family. We've paid our respects to those ancestors who came and went before us by burning incense and paper money, as well as offering all kinds of food and alcohol. Dad, Alex, and I have played two full rounds of mahjong with dear 100-year-old Grandpa already. And we'll be eating a crazy awesome dinner tonight for Chinese New Year's Eve. While waiting for the food madness to begin, it's a good time to reflect on where I've been and where I'm planning to go.
 
 <!--more-->
 
