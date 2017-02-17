@@ -31,7 +31,7 @@ While not purely a grocery store, [High Country Salmon][high-country-salmon] had
 
 On the other hand, we had a poor experience at [South Westland Salmon](http://salmonfarm.co.nz). The kitchen staff was swamped with orders from a tour group that arrived before us, so we were unable to order any hot dishes. Their sashimi wasn't nearly as good as the version we had at [High Country Salmon][high-country-salmon].
 
-While on the topic of avoiding traps, please do not buy the shortbread cookies with kiwi. It has absolutely no kiwi flavor: I think it's just a shortbread with kiwi seeds, and it's vastly overpriced.
+While on the topic of avoiding traps, please do not buy the kiwi shortbread cookies. It has absolutely no kiwi flavor: I think it's just a shortbread with kiwi seeds, and it's vastly overpriced.
 
 ![What a rip-off]({{site.baseurl}}/images/2017/02/17-grocery-shopping-series-new-zealand/kiwi-shortbread-cookies.jpg)
 
