@@ -34,7 +34,7 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus:
+disqus: tiffting
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-55732081-3
@@ -54,6 +54,9 @@ paginate: 10
 
 # Wanna show posts with future dates?
 future: true
+
+# Wanna include commenting on the page?
+comments: true
 
 #
 # !! You don't need to change any of the configuration flags below !!
