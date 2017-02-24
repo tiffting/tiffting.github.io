@@ -55,9 +55,6 @@ paginate: 10
 # Wanna show posts with future dates?
 future: true
 
-# Wanna include commenting on the page?
-comments: true
-
 #
 # !! You don't need to change any of the configuration flags below !!
 #
