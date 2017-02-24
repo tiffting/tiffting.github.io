@@ -8,6 +8,8 @@ date: '2017-02-24 10:00:00 +0800'
 ---
 Not sure if you've heard, but the current [American president](https://www.twitter.com/realdonaldtrump) is off his rocker. So I got serious about getting my Taiwanese citizenship to open up my global options. Because a friend who's also American-born and has parents who are Taiwanese citizens is interested in the process, I'm starting a series of posts about my experience.
 
+<!--more-->
+
 Taiwan is known as the Republic of China (ROC), which is not the same as China, known as the People's Republic of China (PRC). Although I'm not currently a Taiwanese citizen, I was born an ROC national (國民, guómín). Are you one, too?
 
 ![ROC national flow chart]({{site.baseurl}}/images/2017/02/24-the-path-to-taiwanese-citizenship-step-1/roc-national-flow-chart.png)
