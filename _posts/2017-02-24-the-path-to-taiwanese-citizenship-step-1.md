@@ -5,6 +5,7 @@ layout: post
 tags:
   - live
 date: '2017-02-24 10:00:00 +0800'
+comments: true
 ---
 Not sure if you've heard, but the current [American president](https://www.twitter.com/realdonaldtrump) is off his rocker. So I got serious about getting my Taiwanese citizenship to open up my global options. Because a friend who's also American-born and has parents who are Taiwanese citizens is interested in the process, I'm starting a series of posts about my experience.
 
