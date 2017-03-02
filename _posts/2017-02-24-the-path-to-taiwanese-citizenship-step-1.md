@@ -14,9 +14,9 @@ Taiwan is known as the Republic of China (ROC), which is not the same as China, 
 
 ![ROC national flow chart]({{site.baseurl}}/images/2017/02/24-the-path-to-taiwanese-citizenship-step-1/roc-national-flow-chart.png)
 
-Okay, now you know whether you're an ROC national: if so, you can level-up to a citizen after following the right steps and residing in Taiwan for one continuous year. Note that these requirements are applicable for those aged 20 and over: if you're 19 or younger, you're considered a dependent and can become a citizen [through shuffling paperwork](http://jargoned.com/random/life/becoming-taiwanese-if-your-mother-is-taiwanese/) instead.
+Okay, now you know whether you're an ROC national: if so, you can level-up to a citizen after following the right steps and residing in Taiwan for one continuous year. Note that these requirements are applicable for those aged 20 and over: if you're 19 or younger, you're considered a dependent and can become a citizen [through shuffling paperwork](http://jargoned.com/random/life/becoming-taiwanese-if-your-mother-is-taiwanese/) instead. Also worth noting is if you're male and 19-36 years old, you'll need to deal with Taiwan's practice of [conscription][conscription] to serve in the military for a year.
 
-Taiwan distinguishes between registered nationals (有戶籍國民, yǒu hùjí guómín) and unregistered nationals (無戶籍國民, wú hùjí guómín), also known as nationals without household registration ([NWOHR](https://en.m.wikipedia.org/wiki/National_without_household_registration)). Household registration is a government system that originated in China, under which citizens must be registered (戶籍, hùjí) under a household (戶口, hùkǒu). In my case, my parents are registered under the same household, which is physically manifested as a household register booklet (戶口名簿, hùkǒu míngbù or 戶籍謄本, hùjí téngběn). It includes information like your name and birthdate, your spouse's name and birthdate, your parents' names, and your primary address. Both kinds of nationals are allowed to hold an ROC passport, but only registered nationals have citizenship, while unregistered nationals can be deported and need an entry visa to enter the country. To transition from unregistered to registered national, start the process as follows:
+Taiwan distinguishes between registered nationals (有戶籍國民, yǒu hùjí guómín) and unregistered nationals (無戶籍國民, wú hùjí guómín), also known as nationals without household registration ([NWOHR](https://en.wikipedia.org/wiki/National_without_household_registration)). Household registration is a government system that originated in China, under which citizens must be registered (戶籍, hùjí) under a household (戶口, hùkǒu). In my case, my parents are registered under the same household, which is physically manifested as a household register booklet (戶口名簿, hùkǒu míngbù or 戶籍謄本, hùjí téngběn). It includes information like your name and birthdate, your spouse's name and birthdate, your parents' names, and your primary address. Both kinds of nationals are allowed to hold an ROC passport, but only registered nationals have citizenship, while unregistered nationals can be deported and need an entry visa to enter the country. To transition from unregistered to registered national, start the process as follows:
 
 ## Step 1: No-identification Taiwanese passport
 
@@ -39,4 +39,7 @@ The first milestone is getting what's called a no-identification Taiwanese passp
 
 Stay tuned for the next step toward Taiwanese citizenship in a future post. If you have any questions, please leave a comment below.
 
+_Update on 2017-03-02:_ Added note regarding [conscription][conscription] for males of military age.
+
 [passport-guidelines]: http://maintain.taiwanembassy.org/ph_en/wp-content/uploads/sites/76/2014/03/432016222671.jpg
+[conscription]: https://en.wikipedia.org/wiki/Conscription_in_Taiwan
