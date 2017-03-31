@@ -1,5 +1,6 @@
 ---
 published: true
+title: Sakura on Google Maps
 ---
 Sometimes [Google Maps](https://www.google.com/maps/) falls short when it comes to telling me how to use public transit to get from point A to point B. Other times I get frustrated because it doesn't support biking directions in Taipei or offline maps in Morocco. Despite these annoyances, it still manages to surprise and delight me: I discovered a new (?) feature that displays cherry blossom season status and viewing locations.
 
