@@ -8,7 +8,7 @@ Sometimes [Google Maps](https://www.google.com/maps/) falls short when it comes 
 
 ![And now you know]({{site.baseurl}}/images/2017/03/31-sakura-on-google-maps/screenshot-ipad.png)
 
-To access this feature, you have to zoom in enough to see the cherry blossom spot markers in the first place, and you have to pull up the lists of spots once a little hint appears at the bottom of the screen. The details screen is a little lacking in details, but I'll give them credit for having to translate the data they're using from [Walkerplus](https://hanami.walkerplus.com). These rough edges make you feel like you just uncovered an Easter egg.
+To access this feature, you have to zoom in enough to see the cherry blossom spot markers in the first place, and you have to pull up the lists of spots once a little hint appears at the bottom of the screen. The details screen is a little lacking in details, but I'll give them credit for having to translate the data they're using from [Walker+](https://hanami.walkerplus.com). These rough edges make you feel like you just uncovered an Easter egg.
 
 ![Barely passable details page]({{site.baseurl}}/images/2017/03/31-sakura-on-google-maps/screenshot-iphone.png)
 
