@@ -136,4 +136,4 @@ They don't have any desserts on the menu, so if you're still in need of indulgin
     * カリフォルニアロール (kariforunia rooru) = California roll: avocado, lean tuna, crab, flying fish roe, and red leaf lettuce
     * スーパーネギトロ (suupaa negi toro) = super minced tuna with green onions
 
-If you liked reading this post, please hit "recommend" in the comments below. Leave a comment to let me know what you thought!
+If you liked reading this post, please hit "recommend" or share this post using the links in the comments below. Leave a comment to let me know what you thought!
