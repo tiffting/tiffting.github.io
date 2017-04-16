@@ -11,7 +11,9 @@ date: '2017-04-16 10:00:00 +0800'
 <!--more-->
 
 1. Take the subway to [Umegaoka Station](https://goo.gl/maps/vUVS67h2het) (Odakyu Line), and walk about a minute to arrive at the restaurant just before 9:00am. At the screen to the right of the entrance, hit the big blue button that says 受付. The rest of the screens have English translations to gather your party details and preferences (e.g., party size, whether you want a counter or table seat, whether you want a first- or second-floor seat). Your number should be 50 or smaller. Rejoice!
+  ![Take a number]({{site.baseurl}}/images/2017/04/16-how-to-eat-at-sushi-no-midoris-monday-special/reservation-screen.jpg)
 2. You can use the tea and water dispenser to the left of the entrance if you'd like: your options from left to right are cold water, hot water, green tea, and green tea. Walk north to hang out in the nearby [Hanegi Park](https://goo.gl/maps/VcRL5Fv2teT2), or peruse the shelves at [Odakyu OX](https://goo.gl/maps/t9C8bNz98xk) or [Y’Smart](https://goo.gl/maps/g3UoHydWhJy). The restaurant opens at 11:00, so make sure to return a few minutes early so that you're there when they call your number. If you don't understand Japanese numbers, stop inside the restaurant and check in with the staff so that they know you're there.
+  ![Stay hydrated while you wait]({{site.baseurl}}/images/2017/04/16-how-to-eat-at-sushi-no-midoris-monday-special/waiting-refreshments.jpg)
 3. Once you're seated, you have 90 minutes. (I actually didn't get kicked out even after sitting there for 100 minutes, but your mileage may vary.) You should be facing a Japanese-only menu, a small clipboard with blank sheets of paper, and a pen.
     1. You can only write down at most five kinds of items from the sections of the menu that are not outlined in blue or green. The forms these items take are nigiri sushi, 手巻 (temaki = hand rolls), 細巻 (hosomaki = thin rolls), or 裏巻 (uramaki = inside-out rolls). Also indicate the quantity of each item you'd like. Note that each person is limited to 3 pieces of ootoro nigiri and either 1 temaki or 2 hosomaki. For instance, on one sheet of paper at a time, you can order the following:
         1. 大トロ (手巻) 1
@@ -35,6 +37,7 @@ date: '2017-04-16 10:00:00 +0800'
         * Grapefruit or lemon sours
         * Soft drinks (oolong tea, cola, orange juice, or ginger ale)
 4. Hand your order to the closest server, politely suffixed with "onegaishimasu," to get it fulfilled. Only soy sauce and pickled ginger are on the table, so if you want additional wasabi than what the sushi chefs put on the nigiri, ask for some. Repeat steps 1-3 as needed until you feel nauseous. Goad your neighbors into eating and drinking more than they should. But don't order more than you will finish: you'll be charged for any leftovers on top of the base fees.
+  ![Your reward for waiting]({{site.baseurl}}/images/2017/04/16-how-to-eat-at-sushi-no-midoris-monday-special/food.jpg)
 
 If you are not fortunate enough to get to the restaurant by 9:00am to grab a number, you can either get one virtually on [EPARK](http://epark.jp/sp/shop_sp/show/8682) starting at 10:00am, or swing by in person anyway. However, your number will likely be in the several hundreds by then. I got a number just before 10:30, and I was already 297. I wasn't seated until almost 5:00pm. Their seating estimate is below, but keep in mind that reality can vary depending on whether there are no-shows:
 * Around 50: 11:00am+
@@ -48,6 +51,8 @@ Miso soup is not on the menu, but you can order it anyway by writing it down on 
 They don't have any desserts on the menu, so if you're still in need of indulging your sweet tooth after overdosing on sushi, you can check out Arpajon, a nearby pastry shop.
 
 ## Translation of sushi menu
+
+### [Front]({{site.baseurl}}/images/2017/04/16-how-to-eat-at-sushi-no-midoris-monday-special/menu-front.jpg)
 
 * まぐろもの (maguro mono) = bluefin tuna items
     * ねぎとろ (negi toro) = minced tuna and green onions
@@ -81,6 +86,9 @@ They don't have any desserts on the menu, so if you're still in need of indulgin
     * ほっき貝のひも (hokkigai no himo) = surf clam mantle
     * つぶ貝 (tsubukai) = [whelk](https://en.wikipedia.org/wiki/Whelk)
     * あわび (awabi) = [abalone](http://thesushigeek.com/2016/09/14/awabi-%E9%AE%91-abalone/)
+
+### [Back]({{site.baseurl}}/images/2017/04/16-how-to-eat-at-sushi-no-midoris-monday-special/menu-back.jpg)
+
 * 軍艦 (gunkan) = [warship roll](https://en.wikipedia.org/wiki/Sushi#Nigirizushi)
     * 味付けのり (ajitsuke nori) = 
     * 納豆 (natto) = fermented soy beans
