@@ -34,7 +34,7 @@ date: '2017-04-16 10:00:00 +0800'
         * Plum wine (with cold water, with hot water, with soda, or on the rocks)
         * Grapefruit or lemon sours
         * Soft drinks (oolong tea, cola, orange juice, or ginger ale)
-* Hand your order to the closest server, politely suffixed with "onegaishimasu," to get it fulfilled. Only soy sauce and pickled ginger are on the table, so if you want additional wasabi than what the sushi chefs put on the nigiri, ask for some. Repeat steps 1-3 as needed until you feel nauseous. Goad your neighbors into eating and drinking more than they should. But don't order more than you will finish: you'll be charged for any leftovers on top of the base fees.
+4. Hand your order to the closest server, politely suffixed with "onegaishimasu," to get it fulfilled. Only soy sauce and pickled ginger are on the table, so if you want additional wasabi than what the sushi chefs put on the nigiri, ask for some. Repeat steps 1-3 as needed until you feel nauseous. Goad your neighbors into eating and drinking more than they should. But don't order more than you will finish: you'll be charged for any leftovers on top of the base fees.
 
 If you are not fortunate enough to get to the restaurant by 9:00am to grab a number, you can either get one virtually on [EPARK](http://epark.jp/sp/shop_sp/show/8682) starting at 10:00am, or swing by in person anyway. However, your number will likely be in the several hundreds by then. I got a number just before 10:30, and I was already 297. I wasn't seated until almost 5:00pm. Their seating estimate is below, but keep in mind that reality can vary depending on whether there are no-shows:
 * Around 50: 11:00am+
