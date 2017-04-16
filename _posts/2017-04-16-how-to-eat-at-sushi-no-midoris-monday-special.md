@@ -111,7 +111,7 @@ They don't have any desserts on the menu, so if you're still in need of indulgin
     * 納豆 (natto) = fermented soy beans
     * 鉄火 (tekka) = raw tuna
     * 中トロ (chuu toro) = tuna belly (medium)
-    * 大トロ (oo toro) = tuna belly (supreme)
+    * 大トロ (ootoro) = tuna belly (supreme)
     * トロタク (toro taku) = [tuna belly with perilla, pickled daikon radish, and sesame](https://mesubim.com/2014/12/01/toro-taku-sushi-roll/)
     * ねぎとろ (negi toro) = minced tuna and green onions
     * 海老きゅう (ebi kyuu) = shrimp and cucumber
