@@ -10,7 +10,7 @@ I've been heads down traveling around and not making the time to write while doi
 
 A quick update on where I am: I flew about ten hours from Seoul and landed in Vancouver yesterday morning, and I'm recovering well from jet lag. It's a bit of a relief to finally be in a country where I can walk down the street and frequently overhear English being spoken. I still plan to learn some French (hopefully using resources that teach the Canadian version) in anticipation of the latter part of my two-month stay in Canada.
 
-It's hilarious how nosy my Canadian customs officer was. No other country out of the 20+ that I've been to on this trip has been so thorough in their interrogation. The following is an approximate transcript of our conversation:
+It's hilarious how nosy my Canadian immigration officer was. No other country out of the 20+ that I've been to on this trip has been so thorough in their interrogation. The following is an approximate transcript of our conversation:
 
 > **Officer:** Why are you in Canada?
 
