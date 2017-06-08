@@ -4,7 +4,7 @@ title: Sketches on Instagram
 layout: post
 date: '2017-06-07 10:00:00 -0700'
 ---
-I've been heads down traveling around and not making the time to write while doing so. But I want to make sure that I'm delivering quality content and not just more digital garbage. For the last few months of my one year trip, please enjoy some short pieces on [Instagram](https://www.instagram.com/tifftingcom/). Until July 13, 2017, I'll be working on my 100 Day Project of translated sketches. We'll see what I do with my account after that. As for blog posts, I want to sit down and dedicate my full attention to them after I end my trip so that you can get my comprehensive travel insights at their best.
+I've been heads down traveling around and not making the time to write while doing so. But I want to make sure that I'm delivering quality content and not just more digital garbage. For the last few months of my one year trip, please enjoy some short pieces on [Instagram](https://www.instagram.com/tifftingcom/). Until July 13, 2017, I'll be working on my [100 Day Project](http://the100dayproject.com) of translated sketches. We'll see what I do with my account after that. As for blog posts, I want to sit down and dedicate my full attention to them after I end my trip so that you can get my comprehensive travel insights at their best.
 
 <!--more-->
 
