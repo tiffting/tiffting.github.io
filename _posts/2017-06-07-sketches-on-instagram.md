@@ -4,11 +4,11 @@ title: Sketches on Instagram
 layout: post
 date: '2017-06-07 10:00:00 -0700'
 ---
-I've been heads down traveling around and not making the time to write while doing so. But I want to make sure that I'm delivering quality content and not just more digital garbage. For my last few months of my one year trip, please enjoy some short pieces on [Instagram](https://www.instagram.com/tifftingcom/). Until July 13, 2017, I'll be working on my 100 Day Project of translated sketches. We'll see what I do with my account after that.
+I've been heads down traveling around and not making the time to write while doing so. But I want to make sure that I'm delivering quality content and not just more digital garbage. For the last few months of my one year trip, please enjoy some short pieces on [Instagram](https://www.instagram.com/tifftingcom/). Until July 13, 2017, I'll be working on my 100 Day Project of translated sketches. We'll see what I do with my account after that. As for blog posts, I want to sit down and dedicate my full attention to them after I end my trip so that you can get my comprehensive travel insights at their best.
 
 <!--more-->
 
-A quick update on where I am: I flew from Seoul, South Korea, and landed in Vancouver, Canada, yesterday morning, and I'm recovering well from jet lag. It's a bit of a relief to be in a country where I can walk down the street and frequently overhear English being spoken. I still plan to learn some French (hopefully using resources that teach the Canadian version) in anticipation of the latter part of my two-month stay in Canada.
+A quick update on where I am: I flew about ten hours from Seoul and landed in Vancouver yesterday morning, and I'm recovering well from jet lag. It's a bit of a relief to finally be in a country where I can walk down the street and frequently overhear English being spoken. I still plan to learn some French (hopefully using resources that teach the Canadian version) in anticipation of the latter part of my two-month stay in Canada.
 
 It's hilarious how nosy my Canadian customs officer was. No other country out of the 20+ that I've been to on this trip has been so thorough in their interrogation. The following is an approximate transcript of our conversation:
 
@@ -47,4 +47,3 @@ It's hilarious how nosy my Canadian customs officer was. No other country out of
 If Canada doesn't want Americans to tour their country for so long, why allow Americans to enter on an automatic tourist visa for [180 days](https://travel.state.gov/content/passports/en/country/canada.html)? Perhaps she was concerned that I would seek political asylum. But where would she ever get that idea?
 
 ![Just a teddy bear]({{site.baseurl}}/images/2017/06/07/trump.gif)
-
