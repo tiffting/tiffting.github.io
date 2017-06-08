@@ -44,4 +44,7 @@ It's hilarious how nosy my Canadian customs officer was. No other country out of
 
 > **Me:** Maybe 12?
 
-If Canada doesn't want Americans to tour their country for so long, why allow Americans to enter on an automatic tourist visa for [180 days](https://travel.state.gov/content/passports/en/country/canada.html)? Perhaps she was concerned that I would seek political asylum.
+If Canada doesn't want Americans to tour their country for so long, why allow Americans to enter on an automatic tourist visa for [180 days](https://travel.state.gov/content/passports/en/country/canada.html)? Perhaps she was concerned that I would seek political asylum. But where would she ever get that idea?
+
+![Just a teddy bear]({{site.baseurl}}/images/2017/06/07/trump.gif)
+
