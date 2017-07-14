@@ -26,7 +26,7 @@ It's hilarious how nosy my Canadian immigration officer was. No other country ou
 
 > **Me:** I'm self-employed.
 
-> **Officer:** Year, but what kind of work?
+> **Officer:** Yeah, but what kind of work?
 
 > **Me:** Software.
 
