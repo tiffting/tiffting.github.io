@@ -1,6 +1,6 @@
 ---
 published: true
-title: 'The path to Taiwanese citizenship, step 1'
+title: 'How I became a Taiwanese citizen, part 1'
 layout: post
 tags:
   - live
