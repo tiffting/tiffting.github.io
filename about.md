@@ -14,6 +14,4 @@ My native language is English, and I am conversational in Mandarin Chinese. My J
 
 ## Contact me
 
-If you have any feedback on any posts or want to request a post on a particular topic, send me a message on [Facebook][facebook].
-
-[facebook]: https://www.facebook.com/tiff.ting/
+If you have any feedback on any posts or want to request a post on a particular topic, send me a message: [ama@tiffting.com](mailto:ama@tiffting.com).
