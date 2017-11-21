@@ -12,7 +12,7 @@ Between the time that I wrote about [birth control methods](/which-birth-control
 
 During my brief couple of weeks back on American soil from October 19 till November 7, I contacted a number of doctors and clinics in Boston and New York City to see if anyone could help me give the IUD a go. Many health professionals required at least two appointments: an initial counseling session and a follow-up when the actual insertion would be done. They claimed that the latter appointment needed to coincide with my period so that my cervix would be easier to handle. Unfortunately, I didn't have the time available in any given US city to accommodate for that.
 
-![Ain't nobody got time for that]({{site.baseurl}}/images/2017/11/21/aint-nobody-time.gif)
+![Ain't nobody got time for that]({{site.baseurl}}/images/2017/11/21/aint-got-time.gif)
 
 ## Getting an IUD
 
