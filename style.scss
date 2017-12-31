@@ -77,6 +77,12 @@ a {
   }
 }
 
+address {
+  border-left: 2px solid $lighterGray;
+  margin-left: 2rem;
+  padding-left: 0.75rem;
+}
+
 table {
   margin-bottom: 1rem;
 }

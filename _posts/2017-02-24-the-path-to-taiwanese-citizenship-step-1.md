@@ -22,7 +22,7 @@ Taiwan distinguishes between registered nationals (有戶籍國民, yǒu hùjí 
 
 The first milestone is getting what's called a no-identification Taiwanese passport. You cannot get it in Taiwan: you must apply for it abroad through a local [Taipei Economic and Cultural Office](http://www.roc-taiwan.org/us_en/index.html) (TECO, referred to as 駐外館 zhùwaìgūan), which serves as a de facto Taiwanese embassy. I used the one in Houston since my parents live in Texas, and they had much of the supporting documentation needed:
 
-1. [Passport application form](http://www.boca.gov.tw/public/Attachment/153014254771.pdf), signed by the applicant (that's you!). If you can't read Chinese, check out [this sample in English](http://www.boca.gov.tw/public/Attachment/373014474671.pdf). Note the following questions:
+1. [Passport application form](https://www.boca.gov.tw/cp-143-489-f3c62-2.html), signed by the applicant (that's you!). Note the following questions:
   * Once a bearer of a Republic of China (Taiwan) passport or not? No, and don't fill out the fields concerning it.
   * Credential No, Date of issue, Date of expiry -- fill in your US passport number and corresponding dates.
   * 2 passport photos taken within the past 6 months (must meet [these requirements][passport-guidelines])
