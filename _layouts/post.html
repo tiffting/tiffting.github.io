@@ -17,14 +17,14 @@ published: true
   <div class="pagination">
     <span class="page-link prev">
     {% if page.next.url %}
-      <a href="{{page.next.url}}">&laquo; Previous</a>
+      <a href="{{page.next.url}}">&laquo; Previous: {{page.next.title | truncatewords: 3}}</a>
     {% else %}
       <span>&laquo; Previous</span>
     {% endif %}
     </span>
     <span class="page-link next">
     {% if page.previous.url %}
-      <a href="{{page.previous.url}}">Next &raquo;</a>
+      <a href="{{page.previous.url}}">Next: {{page.previous.title | truncatewords: 3}} &raquo;</a>
     {% else %}
       <span>Next &raquo;</span>
     {% endif %}
