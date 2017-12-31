@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hey, there: I'm Tiff Ting. As of July 18, 2016, I started a round-the-world trip, and I'm not exactly sure when I'm returning home to San Francisco, CA. I hope sharing my experiences is valuable, and not just to future me who needs a reminder of past me.
+Hey, there: I'm Tiff Ting. From July 18, 2016 through September 1, 2017, I took a solo, round-the-world trip. Then on September 29, 2017, I moved to Taipei, Taiwan. I hope sharing my experiences is valuable, and not just to future me who needs a reminder of past me.
 
 ## More info
 
