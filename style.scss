@@ -83,6 +83,10 @@ address {
   padding-left: 0.75rem;
 }
 
+small {
+  font-size: 0.85rem;
+}
+
 table {
   margin-bottom: 1rem;
 }
@@ -304,8 +308,14 @@ nav {
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
     color: $gray;
-    font-size: 22px;
+  }
+
+  cite {
     font-style: italic;
+
+    &:before {
+      content: "—";
+    }
   }
   
   img {
@@ -327,6 +337,13 @@ nav {
   .read-more {
     text-transform: uppercase;
     font-size: 15px;
+  }
+}
+
+.qa {
+  blockquote {
+    font-size: 22px;
+    font-style: italic;
   }
 }
 
