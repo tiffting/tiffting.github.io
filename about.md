@@ -2,9 +2,10 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Hey, there: I'm Tiff Ting. From July 18, 2016 through September 1, 2017, I took a solo, round-the-world trip. Then on September 29, 2017, I moved to Taipei, Taiwan. I hope sharing my experiences is valuable, and not just to future me who needs a reminder of past me.
+Hey, there: I'm Tiff Ting. From July 2016 through September 2017, I took a solo, round-the-world trip. I continued my nomadic lifestyle in Taiwan. I hope sharing my experiences is valuable, and not just to future me who needs a reminder of past me.
 
 ## More info
 
