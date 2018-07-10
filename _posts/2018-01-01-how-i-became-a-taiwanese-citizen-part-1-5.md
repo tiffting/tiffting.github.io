@@ -75,4 +75,4 @@ In addition to your authenticated IHS, make sure you have these documents handy 
 
 It's also time to contemplate and pack what it is you want to bring with you for your year (or longer) of residency in Taiwan. But hey, I won't judge you for bringing your bunny slippers.
 
-[permalink-tw-part1]: /the-path-to-taiwanese-citizenship-step-1/
+[permalink-tw-part1]: /how-i-became-a-taiwanese-citizen-part-1/

@@ -47,7 +47,7 @@ The date your residency begins is the day the immigration office approves your a
 
 Look for my posts about opening a bank account and getting a personal work permit in Taiwan.
 
-[permalink-tw-part1]: /the-path-to-taiwanese-citizenship-step-1/
+[permalink-tw-part1]: /how-i-became-a-taiwanese-citizen-part-1/
 [health-check-hospitals]: https://www.cdc.gov.tw/english/info.aspx?treeid=e79c7a9e1e9b1cdf&nowtreeid=11a5b455c34bb13d&tid=3A55BC8972235072
 [mackay-memorial-hospital]: http://eng.mmh.org.tw/dnn/
 [residency-application]: https://www.immigration.gov.tw/ct.asp?xitem=1088227&ctNode=30067&mp=1
