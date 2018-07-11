@@ -27,7 +27,7 @@ I was allowed to pay the fee (base fee of NT$1,350 + NT$630 for measles vaccinat
 
 ### Translate and notarize FBI identity history summary (IHS)
 
-You'll also need to get your FBI IHS translated into Chinese and notarized by the district court. This is contradictory to what the Washington, D.C. TECRO location told me, so be aware of this requirement! I went to [Evermore Translation Service](http://www.evermore.com.tw/), which handles both the translation and getting the district court to notarize it (NT$700).
+You'll also need to get your FBI IHS translated into Chinese and notarized by the district court. This is contradictory to what the Washington, D.C. TECRO location told me, so be aware of this requirement! I went to [Xu Weiyu](https://goo.gl/maps/jnBPVbFBB742), who handles both the translation and getting the district court to notarize it (NT$700).
 
 ### Apply for residency
 
