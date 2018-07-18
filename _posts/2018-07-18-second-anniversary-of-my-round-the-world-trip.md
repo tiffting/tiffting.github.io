@@ -26,8 +26,8 @@ I'm not telling you that it's easy or painless to effect change, but it's okay t
 Since the first day of 2018, I've tried my hand in various areas:
 
 * Jogging: January&ndash;present
-* Meditation: January&ndash;present, including a 10-day retreat in late May
-* Therapy: January&ndash;present
+* Meditation: January&ndash;present, including a [10-day retreat][vipassana] in late May
+* [EMDR therapy][emdr]: January&ndash;present
 * Traditional Japanese dance class: January&ndash;February
 * Urban farming class: March&ndash;July
 * Ukulele class &amp; private lessons: March&ndash;present
@@ -45,6 +45,8 @@ I also carved up a disproportionate but very sweet pineapple.
 ![So much sweet goodness]({{site.baseurl}}/images/2018/07/18/pineapple-cut.jpg)
 
 [cs]: https://www.couchsurfing.com/
+[emdr]: http://www.emdr.com/what-is-emdr/
 [fcu]: http://en.fcu.edu.tw/
 [unsplash]: https://unsplash.com/search/photos/fear?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
 [unsplash-owen]: https://unsplash.com/photos/4u4lSjknnmo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
+[vipassana]: http://www.dhamma.org/en-US/about/vipassana
