@@ -31,6 +31,7 @@ Since the first day of 2018, I've tried my hand in various areas:
 * Traditional Japanese dance class: January&ndash;February
 * Urban farming class: March&ndash;July
 * Ukulele class &amp; private lessons: March&ndash;present
+* Eating ovo-lacto-vegetarian: May&ndash;present
 
 Starting September, I'll move to Taichung to start on a master's program in smart city development. Fall 2018 is the first time [Feng Chia University][fcu] will offer this program, and I look forward to meeting my seven trailblazing colleagues from Ghana, Haiti, Hungary, Mongolia, Vietnam, and the USA.
 
