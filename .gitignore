@@ -1,10 +1,17 @@
-_site
-.DS_Store
-.jekyll
+# From https://github.com/github/gitignore/blob/master/Jekyll.gitignore
+_site/
+.sass-cache/
+.jekyll-cache/
 .jekyll-metadata
-.bundle
-.sass-cache
-Gemfile
-Gemfile.lock
-node_modules
-package.json
+
+# From https://github.com/github/gitignore/blob/0b4d5ef900be83523016593c6d5213ce03d248a4/Global/macOS.gitignore
+.DS_Store
+
+# From https://github.com/github/gitignore/blob/master/Ruby.gitignore
+/.bundle/
+
+# From https://github.com/github/gitignore/blob/master/Sass.gitignore
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
