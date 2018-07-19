@@ -6,7 +6,7 @@ tags:
 - travel
 published: true
 ---
-Even though it has been almost a year since I wrapped up my round-the-world trip, I will recall Monday, July 18, 2016, when I started my long, solo journey across the globe with gratefulness and fondness. In honor of my trip's second anniversary, I wanted to reflect on how life has been since I took that first momentous step.
+Even though it has been almost a year since I wrapped up my round-the-world trip and settled down in Taiwan, I will recall Monday, July 18, 2016, when I started my long, solo journey across the globe with gratefulness and fondness. In honor of my trip's second anniversary, I wanted to reflect on how life has been since I took that first momentous step.
 
 <!--more-->
 
