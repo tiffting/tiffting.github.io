@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sophie's Kitchen vegan smoked salmon"
+title: Sophie's Kitchen vegan smoked salmon
 tags:
 - reviews
 - vegan
