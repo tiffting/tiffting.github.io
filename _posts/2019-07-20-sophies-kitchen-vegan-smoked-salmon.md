@@ -2,9 +2,9 @@
 layout: post
 title: Sophie's Kitchen vegan smoked salmon
 tags:
-- reviews
-- vegan
-- grocery
+  - reviews
+  - vegan
+  - grocery
 published: true
 ---
 You may or may not know that I officially decided to switch from identifying as a vegetarian to a vegan on May 3 this year. And July 18 was the third anniversary of when I left for my solo, one-year, round-the-world trip. Because of this combination of events, I have been musing about the next chance I get to travel for a year and how I'd want to uphold the [vegan values](https://www.vegansociety.com/go-vegan/definition-veganism). For now, I want to start reviewing vegan products that I come across to help others discover what's out there. My inaugural post will cover [vegan smoked salmon][salmon] from [Sophie's Kitchen][sophies].
@@ -13,7 +13,7 @@ You may or may not know that I officially decided to switch from identifying as 
 
 ## Where I bought it
 
-I was wandering around [Rainbow Grocery][rainbow] on a Thursday afternoon and marveling at the selection of vegan items they carry. Above the refrigerated vegan meat substitutes on the top shelf, I spotted [smoked salmon][smokedsalmon] and did a double-take. I hadn't heard of this product before, and what makes it even more amusing is that the back of the package indicates that it's a "Product of Taiwan". Despite having been living there since late September 2017, I have never encountered it at any grocery stores!
+I was wandering around [Rainbow Grocery][rainbow] on a Thursday afternoon and marveling at the selection of vegan items they carry. Above the refrigerated vegan meat substitutes on the top shelf, I spotted [smoked salmon][salmon] and did a double-take. I hadn't heard of this product before, and what makes it even more amusing is that the back of the package indicates that it's a "Product of Taiwan". Despite having been living there since late September 2017, I have never encountered it at any grocery stores!
 
 !["Huh?" is right]({{site.baseurl}}/images/2019/07/20/packaging.jpg)
 
