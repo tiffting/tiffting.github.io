@@ -1,0 +1,666 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ate Treasures Restaurant Concept - Case Study | Tiff Ting</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        :root {
+            --trust-blue: #2E5BBA;
+            --growth-green: #4A9B8E;
+            --creative-purple: #7B5BA6;
+            --golden-yellow: #F2B705;
+            --light-neutral: #E8F4F8;
+            --white: #ffffff;
+            --dark-text: #333333;
+            --mid-text: #666666;
+            --light-text: #888888;
+        }
+        
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            line-height: 1.7;
+            color: var(--dark-text);
+            background: var(--white);
+        }
+        
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 2rem;
+        }
+        
+        /* Header */
+        .header {
+            background: var(--white);
+            border-bottom: 1px solid var(--light-neutral);
+            padding: 1rem 0;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+        
+        .nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .back-link {
+            color: var(--trust-blue);
+            text-decoration: none;
+            font-weight: 500;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        
+        .back-link:hover {
+            color: var(--creative-purple);
+        }
+        
+        .logo {
+            color: var(--trust-blue);
+            font-weight: 600;
+            text-decoration: none;
+        }
+        
+        /* Hero */
+        .case-hero {
+            padding: 3rem 0;
+            background: linear-gradient(135deg, var(--light-neutral) 0%, var(--white) 100%);
+        }
+        
+        .case-header {
+            text-align: center;
+        }
+        
+        .case-badge {
+            display: inline-block;
+            background: var(--golden-yellow);
+            color: var(--dark-text);
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
+            font-size: 0.875rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+        }
+        
+        .case-title {
+            font-size: 3rem;
+            color: var(--trust-blue);
+            margin-bottom: 1rem;
+            font-weight: 700;
+        }
+        
+        .case-subtitle {
+            font-size: 1.25rem;
+            color: var(--creative-purple);
+            margin-bottom: 2rem;
+            font-weight: 500;
+        }
+        
+        .case-meta {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 2rem;
+            margin-top: 2rem;
+        }
+        
+        .meta-item {
+            text-align: left;
+        }
+        
+        .meta-label {
+            font-size: 0.875rem;
+            color: var(--light-text);
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        
+        .meta-value {
+            font-size: 1rem;
+            color: var(--dark-text);
+            font-weight: 500;
+        }
+        
+        /* Content */
+        .case-content {
+            padding: 4rem 0;
+        }
+        
+        .content-section {
+            margin-bottom: 4rem;
+        }
+        
+        .section-title {
+            font-size: 2rem;
+            color: var(--trust-blue);
+            margin-bottom: 1.5rem;
+            font-weight: 600;
+        }
+        
+        .subsection-title {
+            font-size: 1.375rem;
+            color: var(--creative-purple);
+            margin: 2rem 0 1rem 0;
+            font-weight: 600;
+        }
+        
+        .highlight-box {
+            background: var(--light-neutral);
+            border-left: 4px solid var(--trust-blue);
+            padding: 1.5rem;
+            margin: 2rem 0;
+            border-radius: 0 8px 8px 0;
+        }
+        
+        .highlight-box .title {
+            font-weight: 600;
+            color: var(--trust-blue);
+            margin-bottom: 0.5rem;
+        }
+        
+        .inspiration-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1.5rem;
+            margin: 2rem 0;
+        }
+        
+        .inspiration-card {
+            background: var(--white);
+            border: 1px solid var(--light-neutral);
+            border-radius: 12px;
+            padding: 1.5rem;
+        }
+        
+        .inspiration-card h4 {
+            color: var(--trust-blue);
+            margin-bottom: 0.75rem;
+            font-weight: 600;
+        }
+        
+        .cultural-insight {
+            background: var(--white);
+            border: 2px solid var(--creative-purple);
+            border-radius: 12px;
+            padding: 1.5rem;
+            margin: 2rem 0;
+        }
+        
+        .cultural-insight .title {
+            color: var(--creative-purple);
+            font-weight: 600;
+            margin-bottom: 0.75rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        
+        .brand-elements {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1.5rem;
+            margin: 2rem 0;
+        }
+        
+        .brand-card {
+            background: linear-gradient(135deg, var(--growth-green), var(--golden-yellow));
+            color: var(--white);
+            border-radius: 12px;
+            padding: 1.5rem;
+            text-align: center;
+        }
+        
+        .brand-card h4 {
+            margin-bottom: 0.75rem;
+            font-weight: 600;
+        }
+        
+        .ai-process {
+            background: var(--white);
+            border: 1px solid var(--golden-yellow);
+            border-radius: 12px;
+            padding: 2rem;
+            margin: 2rem 0;
+        }
+        
+        .ai-process .title {
+            color: var(--golden-yellow);
+            font-weight: 600;
+            margin-bottom: 1rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        
+        .process-steps {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1rem;
+            margin: 1rem 0;
+        }
+        
+        .process-step {
+            background: var(--light-neutral);
+            padding: 1rem;
+            border-radius: 8px;
+            border-left: 3px solid var(--golden-yellow);
+        }
+        
+        .process-step .step-number {
+            color: var(--golden-yellow);
+            font-weight: 700;
+            font-size: 0.875rem;
+        }
+        
+        .quote-block {
+            background: var(--white);
+            border: 1px solid var(--light-neutral);
+            border-radius: 12px;
+            padding: 2rem;
+            margin: 2rem 0;
+            position: relative;
+        }
+        
+        .quote-block::before {
+            content: '"';
+            font-size: 4rem;
+            color: var(--trust-blue);
+            position: absolute;
+            top: -10px;
+            left: 1rem;
+            font-family: serif;
+        }
+        
+        .quote-text {
+            font-size: 1.125rem;
+            color: var(--dark-text);
+            font-style: italic;
+            margin-bottom: 1rem;
+            padding-left: 2rem;
+        }
+        
+        .quote-author {
+            color: var(--mid-text);
+            font-weight: 600;
+            padding-left: 2rem;
+        }
+        
+        .learning-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1.5rem;
+            margin: 2rem 0;
+        }
+        
+        .learning-card {
+            background: var(--white);
+            border: 2px solid var(--light-neutral);
+            border-radius: 12px;
+            padding: 1.5rem;
+        }
+        
+        .learning-card h4 {
+            color: var(--trust-blue);
+            margin-bottom: 0.75rem;
+            font-weight: 600;
+        }
+        
+        .navigation {
+            background: var(--light-neutral);
+            padding: 2rem 0;
+            margin-top: 4rem;
+        }
+        
+        .nav-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .nav-link {
+            color: var(--trust-blue);
+            text-decoration: none;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            transition: color 0.3s ease;
+        }
+        
+        .nav-link:hover {
+            color: var(--creative-purple);
+        }
+        
+        /* Responsive */
+        @media (max-width: 768px) {
+            .case-title {
+                font-size: 2.25rem;
+            }
+            
+            .case-meta {
+                grid-template-columns: 1fr;
+                gap: 1rem;
+            }
+            
+            .nav-content {
+                flex-direction: column;
+                gap: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <nav class="nav container">
+            <a href="#" class="back-link">← Back to Portfolio</a>
+            <a href="#" class="logo">Tiff Ting</a>
+        </nav>
+    </header>
+
+    <!-- Hero -->
+    <section class="case-hero">
+        <div class="container">
+            <div class="case-header">
+                <span class="case-badge">Brand Design • Week 4 of Voiz.AI Reskilling</span>
+                <h1 class="case-title">Ate Treasures</h1>
+                <p class="case-subtitle">Plant-based restaurant concept bridging cultures through inclusive design and AI-assisted brand development</p>
+                
+                <div class="case-meta">
+                    <div class="meta-item">
+                        <div class="meta-label">Role</div>
+                        <div class="meta-value">Brand Strategist & Designer</div>
+                    </div>
+                    <div class="meta-item">
+                        <div class="meta-label">Timeline</div>
+                        <div class="meta-value">1 week intensive concept development</div>
+                    </div>
+                    <div class="meta-item">
+                        <div class="meta-label">Market</div>
+                        <div class="meta-value">Osaka, Japan (Nishinari Ward)</div>
+                    </div>
+                    <div class="meta-item">
+                        <div class="meta-label">Inspiration</div>
+                        <div class="meta-value">Personal need + market opportunity</div>
+                    </div>
+                </div>
+
+                <!-- ARTIFACT PLACEMENT 1: Hero Visual -->
+                <div style="margin-top: 3rem; padding: 2rem; background: #f8f9fa; border: 2px dashed #dee2e6; border-radius: 12px; text-align: center;">
+                    <h4 style="color: var(--trust-blue); margin-bottom: 1rem;">📸 PRIMARY ARTIFACT: Complete Style Tile</h4>
+                    <p style="color: var(--mid-text); margin-bottom: 1rem;"><strong>Insert:</strong> Your complete Ate Treasures style tile showing colors, typography, characters, and restaurant environment</p>
+                    <p style="color: var(--light-text); font-size: 0.875rem;"><em>This should be the hero image that immediately shows the warm, inclusive kawaii aesthetic you developed</em></p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Content -->
+    <main class="case-content">
+        <div class="container">
+            
+            <!-- Challenge -->
+            <section class="content-section">
+                <h2 class="section-title">The Opportunity</h2>
+                <p>Moving to Osaka's Nishinari Ward, I discovered a significant gap in the local food scene: a plant-based food desert in a neighborhood where residents were traveling elsewhere in the city to find healthy, inclusive dining options. As a vegan myself, this presented both a personal challenge and a business opportunity.</p>
+                
+                <div class="highlight-box">
+                    <div class="title">Market Gap Identified</div>
+                    <ul>
+                        <li><strong>Geographic desert:</strong> Limited plant-based options in Nishinari Ward</li>
+                        <li><strong>Unmet demand:</strong> Residents traveling to other Osaka areas for healthy food</li>
+                        <li><strong>Cultural opportunity:</strong> Growing interest in plant-based eating in Japan</li>
+                        <li><strong>Tourism potential:</strong> International visitors seeking familiar dietary options</li>
+                    </ul>
+                </div>
+
+                <div class="cultural-insight">
+                    <div class="title">🇯🇵 Cultural Context</div>
+                    <p>Japan's plant-based restaurant scene is still emerging, with significant opportunities for concepts that balance local dining culture with international dietary preferences. My observations of the tourist/local split in existing Osaka plant-based restaurants revealed the need for inclusive branding that appeals to both audiences.</p>
+                </div>
+
+                <!-- ARTIFACT PLACEMENT 2: Market Research -->
+                <div style="margin: 2rem 0; padding: 1.5rem; background: #f8f9fa; border: 2px dashed #dee2e6; border-radius: 8px;">
+                    <h4 style="color: var(--trust-blue); margin-bottom: 0.75rem;">📍 SUPPORTING VISUALS</h4>
+                    <p style="color: var(--mid-text); font-size: 0.95rem; margin-bottom: 0.5rem;"><strong>Option A:</strong> Map of Osaka highlighting Nishinari Ward with existing plant-based restaurant locations</p>
+                    <p style="color: var(--mid-text); font-size: 0.95rem;"><strong>Option B:</strong> Screenshots of ChatGPT market research conversations about Japanese plant-based dining trends</p>
+                </div>
+
+                <h3 class="subsection-title">The Creative Spark</h3>
+                <p>The concept name "Ate Treasures" came to me during a ten-day silent meditation retreat—a moment of cross-cultural linguistic creativity. Starting from the Chinese concept of 八寶 (eight treasures), I created a playful English translation that works as wordplay, then developed 吃寶了 as the ready-made Chinese name for potential Taiwan expansion. This linguistic bridge exemplifies the cross-domain pattern recognition that defines my approach to problem-solving.</p>
+
+                <div class="inspiration-grid">
+                    <div class="inspiration-card">
+                        <h4>Chinese Origin</h4>
+                        <p>八寶 (bā bǎo) - traditional "eight treasures" concept representing abundance and variety</p>
+                    </div>
+                    <div class="inspiration-card">
+                        <h4>English Translation</h4>
+                        <p>"Ate Treasures" - wordplay translation suggesting satisfaction and discovery</p>
+                    </div>
+                    <div class="inspiration-card">
+                        <h4>Taiwan Expansion</h4>
+                        <p>吃寶了 (chī bǎo le) - strategic Chinese brand name for future market entry</p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Process -->
+            <section class="content-section">
+                <h2 class="section-title">AI-Assisted Design Process</h2>
+                
+                <h3 class="subsection-title">Collaborative Brand Development</h3>
+                <p>I used ChatGPT as a creative partner throughout the brand development process, from market research to visual design generation. The AI collaboration proved remarkably effective at translating abstract brand concepts into concrete visual elements.</p>
+
+                <div class="ai-process">
+                    <div class="title">🤖 AI Collaboration Workflow</div>
+                    <div class="process-steps">
+                        <div class="process-step">
+                            <div class="step-number">STEP 1</div>
+                            <strong>Market Research</strong><br>
+                            Used ChatGPT to analyze Osaka's plant-based dining landscape and demographic insights
+                        </div>
+                        <div class="process-step">
+                            <div class="step-number">STEP 2</div>
+                            <strong>Brand Strategy</strong><br>
+                            Developed positioning that balances local appeal with international accessibility
+                        </div>
+                        <div class="process-step">
+                            <div class="step-number">STEP 3</div>
+                            <strong>Visual Concept</strong><br>
+                            AI captured my vision remarkably well on the first attempt, then refined through iteration
+                        </div>
+                        <div class="process-step">
+                            <div class="step-number">STEP 4</div>
+                            <strong>Style System</strong><br>
+                            Created comprehensive style tile incorporating kawaii aesthetic with warm, inclusive colors
+                        </div>
+                    </div>
+                </div>
+
+                <!-- ARTIFACT PLACEMENT 3: AI Process Documentation -->
+                <div style="margin: 2rem 0; padding: 1.5rem; background: #fff8e1; border: 2px dashed #F2B705; border-radius: 8px;">
+                    <h4 style="color: #F2B705; margin-bottom: 0.75rem;">💬 AI COLLABORATION EVIDENCE</h4>
+                    <p style="color: var(--mid-text); font-size: 0.95rem; margin-bottom: 0.5rem;"><strong>Insert:</strong> Screenshots of key ChatGPT conversations showing:</p>
+                    <ul style="color: var(--mid-text); font-size: 0.9rem; margin-left: 1rem;">
+                        <li>Initial brand concept discussion</li>
+                        <li>Visual design prompts and responses</li>
+                        <li>Iteration requests for inclusive character design</li>
+                        <li>Market research queries and insights</li>
+                    </ul>
+                </div>
+
+                <h3 class="subsection-title">Design Philosophy: Inclusive Kawaii</h3>
+                <p>The visual identity blends Japanese kawaii (cute) aesthetic with warm, approachable colors that feel both locally appropriate and internationally welcoming. Every design decision considered how to make both Japanese locals and international visitors feel equally at home.</p>
+
+                <div class="brand-elements">
+                    <div class="brand-card">
+                        <h4>Color Palette</h4>
+                        <p>Warm greens, corals, and yellows that feel both modern and comforting</p>
+                    </div>
+                    <div class="brand-card">
+                        <h4>Typography</h4>
+                        <p>Friendly sans-serif balanced with Japanese font elements</p>
+                    </div>
+                    <div class="brand-card">
+                        <h4>Iconography</h4>
+                        <p>Cute character mascots with inclusive, non-stereotypical representation</p>
+                    </div>
+                    <div class="brand-card">
+                        <h4>Atmosphere</h4>
+                        <p>Playful yet sophisticated, approachable but premium</p>
+                    </div>
+                </div>
+
+                <!-- ARTIFACT PLACEMENT 4: Design Evolution -->
+                <div style="margin: 2rem 0; padding: 1.5rem; background: #f3e5f5; border: 2px dashed #7B5BA6; border-radius: 8px;">
+                    <h4 style="color: #7B5BA6; margin-bottom: 0.75rem;">🎨 DESIGN ITERATIONS</h4>
+                    <p style="color: var(--mid-text); font-size: 0.95rem; margin-bottom: 0.5rem;"><strong>Show before/after:</strong> Character design evolution to be more inclusive</p>
+                    <p style="color: var(--mid-text); font-size: 0.95rem; margin-bottom: 0.5rem;"><strong>Include:</strong> Logo variations and mascot character development</p>
+                    <p style="color: var(--light-text); font-size: 0.875rem;"><em>This demonstrates your iterative design process and attention to inclusive representation</em></p>
+                </div>
+
+                <h3 class="subsection-title">Business Model Innovation</h3>
+                <p>The concept combines pre-constructed menu items with Chipotle-style customization, allowing for both quick service and personalized dietary preferences. This hybrid approach serves the efficiency expectations of Japanese dining culture while accommodating the customization preferences of international customers.</p>
+
+                <!-- ARTIFACT PLACEMENT 4.5: Menu Concepts -->
+                <div style="margin: 2rem 0; padding: 1.5rem; background: #fff3e0; border: 2px dashed #ff8f00; border-radius: 8px;">
+                    <h4 style="color: #ff8f00; margin-bottom: 0.75rem;">🍜 SIGNATURE MENU ITEMS</h4>
+                    <p style="color: var(--mid-text); font-size: 0.95rem; margin-bottom: 0.5rem;"><strong>Insert:</strong> Your ChatGPT-developed signature donburi menu showing:</p>
+                    <ul style="color: var(--mid-text); font-size: 0.9rem; margin-left: 1rem;">
+                        <li>Local taste adaptation (heat bowls, sakura themes)</li>
+                        <li>Inclusive dietary options (gluten-free, soy-free, nut-free)</li>
+                        <li>Kawaii character integration with each bowl</li>
+                        <li>Japanese-English bilingual presentation</li>
+                    </ul>
+                    <p style="color: var(--light-text); font-size: 0.875rem;"><em>This demonstrates how you researched local preferences and created culturally appropriate offerings</em></p>
+                </div>
+            </section>
+
+            <!-- Solution -->
+            <section class="content-section">
+                <h2 class="section-title">Brand Strategy & Cultural Bridge</h2>
+                
+                <h3 class="subsection-title">Target Audience Duality</h3>
+                <p>Rather than choosing between local or tourist appeal, Ate Treasures intentionally serves both markets through inclusive design that doesn't compromise authenticity for either audience. The brand speaks equally to Japanese health-conscious diners and international visitors seeking familiar dietary options.</p>
+
+                <div class="highlight-box">
+                    <div class="title">Dual Market Strategy</div>
+                    <ul>
+                        <li><strong>Local appeal:</strong> Respect for Japanese dining culture and aesthetic preferences</li>
+                        <li><strong>Tourist accessibility:</strong> Clear English communication and familiar service style</li>
+                        <li><strong>Cultural bridge:</strong> Visual identity that feels authentic to both audiences</li>
+                        <li><strong>Dietary inclusivity:</strong> Plant-based options that satisfy diverse nutritional needs</li>
+                    </ul>
+                </div>
+
+                <h3 class="subsection-title">Cross-Cultural Design Decisions</h3>
+                <p>Every brand element balances cultural sensitivity with international accessibility. The kawaii aesthetic appeals to local sensibilities while warm colors and inclusive character design welcome international diners without cultural appropriation concerns.</p>
+
+                <div class="quote-block">
+                    <div class="quote-text">ChatGPT captured my brand vision remarkably well on the first attempt, demonstrating how effectively AI can translate abstract concepts into concrete visual elements when guided by clear strategic thinking.</div>
+                    <div class="quote-author">— AI collaboration insight</div>
+                </div>
+
+                <h3 class="subsection-title">Scalability Considerations</h3>
+                <p>The brand system includes built-in expansion potential, with the pre-planned Chinese name 吃寶了 (chī bǎo le) ready for Taiwan market entry. This strategic foresight demonstrates systematic thinking about brand architecture and international growth.</p>
+            </section>
+
+            <!-- Impact -->
+            <section class="content-section">
+                <h2 class="section-title">Learning Outcomes & Pattern Recognition</h2>
+                
+                <div class="learning-grid">
+                    <div class="learning-card">
+                        <h4>AI Design Partnership</h4>
+                        <p>Discovered how quickly AI can translate vision into visual form when guided by clear strategic input</p>
+                    </div>
+                    <div class="learning-card">
+                        <h4>Cultural Design Balance</h4>
+                        <p>Learned to create inclusive designs that respect local culture while welcoming international audiences</p>
+                    </div>
+                    <div class="learning-card">
+                        <h4>Cross-Linguistic Creativity</h4>
+                        <p>Applied pattern recognition across languages to create meaningful brand connections</p>
+                    </div>
+                    <div class="learning-card">
+                        <h4>Market Opportunity Identification</h4>
+                        <p>Used personal experience to identify and validate underserved market segments</p>
+                    </div>
+                </div>
+
+                <h3 class="subsection-title">Cross-Industry Pattern Recognition</h3>
+                <p>This project demonstrates my ability to connect insights across domains: linguistic creativity from meditation practice, cultural design principles from hospitality experience, and market analysis from product development background. The concept bridges food service, cultural psychology, and international business strategy.</p>
+
+                <!-- ARTIFACT PLACEMENT 5: Cross-Linguistic Creativity -->
+                <div style="margin: 2rem 0; padding: 1.5rem; background: #e8f5e8; border: 2px dashed #4A9B8E; border-radius: 8px;">
+                    <h4 style="color: #4A9B8E; margin-bottom: 0.75rem;">🌍 LINGUISTIC BRIDGE DIAGRAM</h4>
+                    <p style="color: var(--mid-text); font-size: 0.95rem; margin-bottom: 0.5rem;"><strong>Create visual showing:</strong></p>
+                    <ul style="color: var(--mid-text); font-size: 0.9rem; margin-left: 1rem;">
+                        <li>八寶 (bā bǎo - Chinese "eight treasures" concept)</li>
+                        <li>↓</li>
+                        <li>"Ate Treasures" (English wordplay translation)</li>
+                        <li>↓</li>
+                        <li>吃寶了 (chī bǎo le - Taiwan expansion name)</li>
+                    </ul>
+                    <p style="color: var(--light-text); font-size: 0.875rem;"><em>This demonstrates your cross-cultural pattern recognition and strategic thinking</em></p>
+                </div>
+
+                <div class="cultural-insight">
+                    <div class="title">🌍 Broader Applications</div>
+                    <p>The inclusive design principles and cultural bridging strategies developed for Ate Treasures could apply to any business serving diverse international markets. The methodology of balancing local authenticity with international accessibility has broad relevance beyond restaurant concepts.</p>
+                </div>
+
+                <!-- ARTIFACT PLACEMENT 6: Competitive Analysis -->
+                <div style="margin: 2rem 0; padding: 1.5rem; background: #e3f2fd; border: 2px dashed #2E5BBA; border-radius: 8px;">
+                    <h4 style="color: #2E5BBA; margin-bottom: 0.75rem;">📊 COMPETITIVE LANDSCAPE</h4>
+                    <p style="color: var(--mid-text); font-size: 0.95rem; margin-bottom: 0.5rem;"><strong>Optional:</strong> Visual comparison of existing Osaka plant-based restaurants</p>
+                    <p style="color: var(--mid-text); font-size: 0.95rem;"><strong>Show:</strong> Positioning map or table comparing Ate Treasures approach vs. competitors</p>
+                    <p style="color: var(--light-text); font-size: 0.875rem;"><em>Demonstrates market analysis and strategic differentiation</em></p>
+                </div>
+
+                <h3 class="subsection-title">Areas for Real-World Development</h3>
+                <p>In a client situation, I would invest more time in primary market research, customer interviews, and competitive analysis. The current concept represents rapid brand development, but production implementation would require deeper local market validation and operational planning.</p>
+            </section>
+
+            <!-- Next Steps -->
+            <section class="content-section">
+                <h2 class="section-title">From Concept to Reality</h2>
+                <p>Moving to Nishinari Ward will provide firsthand market research opportunities to validate and refine the concept. The brand foundation is strong, but real-world implementation requires deeper understanding of local customer preferences and operational requirements.</p>
+                
+                <div class="highlight-box">
+                    <div class="title">Validation Roadmap</div>
+                    <ul>
+                        <li><strong>Local market immersion:</strong> Direct observation of dining patterns and preferences</li>
+                        <li><strong>Customer interviews:</strong> Validate assumptions about unmet demand</li>
+                        <li><strong>Competitive analysis:</strong> Deeper assessment of existing plant-based options</li>
+                        <li><strong>Operational planning:</strong> Location scouting and service model refinement</li>
+                    </ul>
+                </div>
+                
+                <p>This project showcases my ability to identify market opportunities through personal experience, develop culturally sensitive brand strategies, and leverage AI tools for rapid concept development. The cross-linguistic creativity and cultural bridging approach demonstrate the pattern recognition skills that define my methodology across industries.</p>
+            </section>
+        </div>
+    </main>
+
+    <!-- Navigation -->
+    <section class="navigation">
+        <div class="container">
+            <div class="nav-content">
+                <a href="#" class="nav-link">← CTT Comedy Website Refresh</a>
+                <a href="#" class="nav-link">Back to Portfolio →</a>
+            </div>
+        </div>
+    </section>
+</body>
+</html>

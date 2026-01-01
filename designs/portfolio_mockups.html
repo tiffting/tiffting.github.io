@@ -1,0 +1,613 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Tiff Ting - Technical Product Translator</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        :root {
+            --trust-blue: #2E5BBA;
+            --growth-green: #4A9B8E;
+            --creative-purple: #7B5BA6;
+            --golden-yellow: #F2B705;
+            --light-neutral: #E8F4F8;
+            --white: #ffffff;
+            --dark-text: #333333;
+            --mid-text: #666666;
+        }
+        
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            line-height: 1.6;
+            color: var(--dark-text);
+            background: var(--white);
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 2rem;
+        }
+        
+        /* Header */
+        .header {
+            background: var(--white);
+            border-bottom: 1px solid var(--light-neutral);
+            padding: 1rem 0;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+        
+        .nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .logo {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            text-decoration: none;
+            color: var(--trust-blue);
+        }
+        
+        .logo-symbol {
+            width: 32px;
+            height: 32px;
+        }
+        
+        .logo h1 {
+            font-size: 1.5rem;
+            font-weight: 600;
+        }
+        
+        .nav-links {
+            display: flex;
+            gap: 2rem;
+            list-style: none;
+        }
+        
+        .nav-links a {
+            text-decoration: none;
+            color: var(--mid-text);
+            font-weight: 500;
+            transition: color 0.3s ease;
+        }
+        
+        .nav-links a:hover,
+        .nav-links a.active {
+            color: var(--trust-blue);
+        }
+        
+        /* Hero Section */
+        .hero {
+            padding: 4rem 0;
+            background: linear-gradient(135deg, var(--light-neutral) 0%, var(--white) 100%);
+        }
+        
+        .hero-content {
+            display: grid;
+            grid-template-columns: 2fr 1fr;
+            gap: 3rem;
+            align-items: center;
+        }
+        
+        .hero-text h1 {
+            font-size: 3rem;
+            font-weight: 700;
+            margin-bottom: 1rem;
+            color: var(--trust-blue);
+        }
+        
+        .hero-text .tagline {
+            font-size: 1.25rem;
+            color: var(--creative-purple);
+            margin-bottom: 1.5rem;
+            font-weight: 500;
+        }
+        
+        .hero-text p {
+            font-size: 1.125rem;
+            color: var(--mid-text);
+            margin-bottom: 2rem;
+        }
+        
+        .cta-buttons {
+            display: flex;
+            gap: 1rem;
+        }
+        
+        .btn {
+            padding: 0.75rem 1.5rem;
+            border-radius: 6px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            border: 2px solid transparent;
+        }
+        
+        .btn-primary {
+            background: var(--trust-blue);
+            color: var(--white);
+        }
+        
+        .btn-primary:hover {
+            background: #1e4a9f;
+            transform: translateY(-1px);
+        }
+        
+        .btn-secondary {
+            background: transparent;
+            color: var(--growth-green);
+            border-color: var(--growth-green);
+        }
+        
+        .btn-secondary:hover {
+            background: var(--growth-green);
+            color: var(--white);
+        }
+        
+        .hero-visual {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        /* Portfolio Grid */
+        .portfolio {
+            padding: 4rem 0;
+        }
+        
+        .section-header {
+            text-align: center;
+            margin-bottom: 3rem;
+        }
+        
+        .section-header h2 {
+            font-size: 2.5rem;
+            color: var(--trust-blue);
+            margin-bottom: 1rem;
+        }
+        
+        .section-header p {
+            font-size: 1.125rem;
+            color: var(--mid-text);
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        
+        .portfolio-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 2rem;
+        }
+        
+        .portfolio-card {
+            background: var(--white);
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        
+        .portfolio-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 8px 30px rgba(0,0,0,0.12);
+        }
+        
+        .card-image {
+            height: 200px;
+            background: linear-gradient(45deg, var(--creative-purple), var(--trust-blue));
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: var(--white);
+            font-size: 2rem;
+            font-weight: 700;
+        }
+        
+        .card-content {
+            padding: 1.5rem;
+        }
+        
+        .card-badge {
+            display: inline-block;
+            background: var(--golden-yellow);
+            color: var(--dark-text);
+            padding: 0.25rem 0.75rem;
+            border-radius: 20px;
+            font-size: 0.875rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+        }
+        
+        .card-content h3 {
+            font-size: 1.375rem;
+            color: var(--trust-blue);
+            margin-bottom: 0.75rem;
+        }
+        
+        .card-content p {
+            color: var(--mid-text);
+            margin-bottom: 1rem;
+        }
+        
+        .card-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            margin-bottom: 1rem;
+        }
+        
+        .tag {
+            background: var(--light-neutral);
+            color: var(--trust-blue);
+            padding: 0.25rem 0.5rem;
+            border-radius: 4px;
+            font-size: 0.75rem;
+            font-weight: 500;
+        }
+        
+        .card-link {
+            color: var(--growth-green);
+            text-decoration: none;
+            font-weight: 600;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        
+        .card-link:hover {
+            color: var(--creative-purple);
+        }
+        
+        /* Skills Section */
+        .skills {
+            background: var(--light-neutral);
+            padding: 4rem 0;
+        }
+        
+        .skills-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 2rem;
+        }
+        
+        .skill-card {
+            background: var(--white);
+            padding: 2rem;
+            border-radius: 12px;
+            text-align: center;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+        }
+        
+        .skill-icon {
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            margin: 0 auto 1rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+            color: var(--white);
+        }
+        
+        .skill-card:nth-child(1) .skill-icon { background: var(--trust-blue); }
+        .skill-card:nth-child(2) .skill-icon { background: var(--growth-green); }
+        .skill-card:nth-child(3) .skill-icon { background: var(--creative-purple); }
+        .skill-card:nth-child(4) .skill-icon { background: var(--golden-yellow); }
+        
+        .skill-card h3 {
+            color: var(--trust-blue);
+            margin-bottom: 0.75rem;
+        }
+        
+        /* About Section */
+        .about {
+            padding: 4rem 0;
+        }
+        
+        .about-content {
+            display: grid;
+            grid-template-columns: 1fr 2fr;
+            gap: 3rem;
+            align-items: center;
+        }
+        
+        .about-image {
+            width: 300px;
+            height: 300px;
+            border-radius: 50%;
+            background: linear-gradient(135deg, var(--creative-purple), var(--golden-yellow));
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: var(--white);
+            font-size: 3rem;
+            margin: 0 auto;
+        }
+        
+        .about-text h2 {
+            color: var(--trust-blue);
+            margin-bottom: 1.5rem;
+            font-size: 2rem;
+        }
+        
+        .about-text p {
+            margin-bottom: 1.5rem;
+            color: var(--mid-text);
+        }
+        
+        .traits {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.75rem;
+            margin-bottom: 2rem;
+        }
+        
+        .trait {
+            background: var(--growth-green);
+            color: var(--white);
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
+            font-weight: 500;
+        }
+        
+        /* Footer */
+        .footer {
+            background: var(--trust-blue);
+            color: var(--white);
+            padding: 3rem 0;
+            text-align: center;
+        }
+        
+        .footer-content h3 {
+            margin-bottom: 1rem;
+        }
+        
+        .footer-links {
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            margin-top: 2rem;
+        }
+        
+        .footer-links a {
+            color: var(--light-neutral);
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+        
+        .footer-links a:hover {
+            color: var(--golden-yellow);
+        }
+        
+        /* Responsive */
+        @media (max-width: 768px) {
+            .hero-content {
+                grid-template-columns: 1fr;
+                text-align: center;
+            }
+            
+            .hero-text h1 {
+                font-size: 2.5rem;
+            }
+            
+            .about-content {
+                grid-template-columns: 1fr;
+                text-align: center;
+            }
+            
+            .nav-links {
+                display: none;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <nav class="nav container">
+            <a href="#" class="logo">
+                <svg class="logo-symbol" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+                    <!-- Updated logo based on provided design -->
+                    <polygon points="10,10 40,10 25,40" fill="#2E5BBA"/>
+                    <polygon points="40,10 90,10 90,60 40,60" fill="#2E5BBA"/>
+                    <polygon points="25,40 40,60 10,90 10,40" fill="#4A9B8E"/>
+                    <polygon points="60,10 90,10 90,40" fill="#F2B705"/>
+                    <polygon points="40,60 90,60 75,90 40,90" fill="#7B5BA6"/>
+                </svg>
+                <h1>Tiff Ting</h1>
+            </a>
+            <ul class="nav-links">
+                <li><a href="#portfolio" class="active">Portfolio</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#blog">Blog</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <div class="hero-content">
+                <div class="hero-text">
+                    <h1>Technical Product Translator</h1>
+                    <p class="tagline">Methodical problem-solver bridging technical complexity with user-centered solutions</p>
+                    <p>I help mission-driven organizations translate complex technical requirements into solutions that balance time, budget, business objectives, and user needs through cross-industry pattern recognition.</p>
+                    <div class="cta-buttons">
+                        <a href="#portfolio" class="btn btn-primary">View Portfolio</a>
+                        <a href="#contact" class="btn btn-secondary">Get In Touch</a>
+                    </div>
+                </div>
+                <div class="hero-visual">
+                    <svg width="300" height="200" viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg">
+                        <!-- Larger version of new logo -->
+                        <polygon points="30,30 120,30 75,120" fill="#2E5BBA"/>
+                        <polygon points="120,30 270,30 270,180 120,180" fill="#2E5BBA"/>
+                        <polygon points="75,120 120,180 30,270 30,120" fill="#4A9B8E"/>
+                        <polygon points="180,30 270,30 270,120" fill="#F2B705"/>
+                        <polygon points="120,180 270,180 225,270 120,270" fill="#7B5BA6"/>
+                    </svg>
+                </div>
+                <!-- Ate Treasures -->
+                <div class="portfolio-card">
+                    <div class="card-image">Ate Treasures</div>
+                    <div class="card-content">
+                        <span class="card-badge">Brand Design</span>
+                        <h3>Plant-Based Restaurant Concept</h3>
+                        <p>Created complete brand identity for Osaka restaurant concept, balancing international appeal with local cultural sensibilities through AI-assisted design iteration.</p>
+                        <div class="card-tags">
+                            <span class="tag">Brand Strategy</span>
+                            <span class="tag">Cultural Design</span>
+                            <span class="tag">AI Collaboration</span>
+                        </div>
+                        <a href="#" class="card-link">View Case Study →</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Portfolio Section -->
+    <section class="portfolio" id="portfolio">
+        <div class="container">
+            <div class="section-header">
+                <h2>12 Weeks of Intensive Learning</h2>
+                <p>Recent projects from my Voiz.AI Reskilling program, showcasing methodical problem-solving across live events, hospitality, and platform development.</p>
+            </div>
+            <div class="portfolio-grid">
+                <!-- Capisara Platform -->
+                <div class="portfolio-card">
+                    <div class="card-image">Capisara Platform</div>
+                    <div class="card-content">
+                        <span class="card-badge">MVP Development</span>
+                        <h3>Live Event Management Platform</h3>
+                        <p>Built automated capacity management system with Square API integration, real-time inventory sync, and mobile-optimized box office tools for comedy venues.</p>
+                        <div class="card-tags">
+                            <span class="tag">React</span>
+                            <span class="tag">Supabase</span>
+                            <span class="tag">Square API</span>
+                            <span class="tag">Product Management</span>
+                        </div>
+                        <a href="#" class="card-link">View Case Study →</a>
+                    </div>
+                </div>
+
+                <!-- Capisara Landing -->
+                <div class="portfolio-card">
+                    <div class="card-image">Capisara Landing</div>
+                    <div class="card-content">
+                        <span class="card-badge">UX Strategy</span>
+                        <h3>Conversion-Focused Landing Page</h3>
+                        <p>Designed pain-point-driven messaging and clear value propositions for live event producers struggling with multi-channel capacity management.</p>
+                        <div class="card-tags">
+                            <span class="tag">UX Design</span>
+                            <span class="tag">Conversion Optimization</span>
+                            <span class="tag">User Research</span>
+                        </div>
+                        <a href="#" class="card-link">View Case Study →</a>
+                    </div>
+                </div>
+
+                <!-- CTT Comedy Website -->
+                <div class="portfolio-card">
+                    <div class="card-image">CTT Comedy</div>
+                    <div class="card-content">
+                        <span class="card-badge">Website Redesign</span>
+                        <h3>Comedy Club Website Refresh</h3>
+                        <p>Led data-driven website redesign for Cheaper Than Therapy Comedy, managing stakeholder resistance through evidence-based presentations and gradual change adoption strategies.</p>
+                        <div class="card-tags">
+                            <span class="tag">Stakeholder Management</span>
+                            <span class="tag">Data-Driven Design</span>
+                            <span class="tag">Change Management</span>
+                            <span class="tag">Web Development</span>
+                        </div>
+                        <a href="#" class="card-link">View Case Study →</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Skills Section -->
+    <section class="skills">
+        <div class="container">
+            <div class="section-header">
+                <h2>Cross-Industry Skills</h2>
+                <p>Technical versatility combined with user-centered thinking and domain-agnostic problem-solving.</p>
+            </div>
+            <div class="skills-grid">
+                <div class="skill-card">
+                    <div class="skill-icon">⚙️</div>
+                    <h3>Technical Implementation</h3>
+                    <p>API integrations, database design, automation, and full-stack development with modern tools.</p>
+                </div>
+                <div class="skill-card">
+                    <div class="skill-icon">🎯</div>
+                    <h3>Product Strategy</h3>
+                    <p>User research, problem definition, feature prioritization, and solution architecture.</p>
+                </div>
+                <div class="skill-card">
+                    <div class="skill-icon">🔗</div>
+                    <h3>Cross-Domain Translation</h3>
+                    <p>Pattern recognition across healthcare, arts, SaaS, and live events industries.</p>
+                </div>
+                <div class="skill-card">
+                    <div class="skill-icon">💡</div>
+                    <h3>Creative Problem-Solving</h3>
+                    <p>Innovative solutions balancing technical constraints with user needs and business goals.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section class="about" id="about">
+        <div class="container">
+            <div class="about-content">
+                <div class="about-image">TT</div>
+                <div class="about-text">
+                    <h2>Building bridges through methodical problem-solving</h2>
+                    <p>I combine technical depth with empathetic user focus to translate complex requirements into human-centered solutions. My experience spans healthcare (helping primary care physicians provide quality over quantity care), arts & culture, and SaaS platforms.</p>
+                    <p>Currently building Capisara, a platform that takes the pain out of producing recurring live events for small to medium venues. I'm passionate about working with mission-driven organizations that prioritize meaningful impact.</p>
+                    <div class="traits">
+                        <span class="trait">Empathetic</span>
+                        <span class="trait">Curious</span>
+                        <span class="trait">Methodical</span>
+                        <span class="trait">Open-minded</span>
+                        <span class="trait">Humble</span>
+                    </div>
+                    <a href="#contact" class="btn btn-primary">Let's Work Together</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer" id="contact">
+        <div class="container">
+            <div class="footer-content">
+                <h3>Ready to translate complexity into clarity?</h3>
+                <p>Let's discuss how methodical problem-solving can drive your mission forward.</p>
+                <div class="footer-links">
+                    <a href="mailto:hello@tiffanytong.com">Email</a>
+                    <a href="https://linkedin.com/in/tiffanytong">LinkedIn</a>
+                    <a href="https://github.com/tiffting">GitHub</a>
+                    <a href="/blog">Blog</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

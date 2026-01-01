@@ -1,0 +1,567 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Capisara Platform - Case Study | Tiffany Tong</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        :root {
+            --trust-blue: #2E5BBA;
+            --growth-green: #4A9B8E;
+            --creative-purple: #7B5BA6;
+            --golden-yellow: #F2B705;
+            --light-neutral: #E8F4F8;
+            --white: #ffffff;
+            --dark-text: #333333;
+            --mid-text: #666666;
+            --light-text: #888888;
+        }
+        
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            line-height: 1.7;
+            color: var(--dark-text);
+            background: var(--white);
+        }
+        
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 2rem;
+        }
+        
+        /* Header */
+        .header {
+            background: var(--white);
+            border-bottom: 1px solid var(--light-neutral);
+            padding: 1rem 0;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+        
+        .nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .back-link {
+            color: var(--trust-blue);
+            text-decoration: none;
+            font-weight: 500;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        
+        .back-link:hover {
+            color: var(--creative-purple);
+        }
+        
+        .logo {
+            color: var(--trust-blue);
+            font-weight: 600;
+            text-decoration: none;
+        }
+        
+        /* Hero */
+        .case-hero {
+            padding: 3rem 0;
+            background: linear-gradient(135deg, var(--light-neutral) 0%, var(--white) 100%);
+        }
+        
+        .case-header {
+            text-align: center;
+        }
+        
+        .case-badge {
+            display: inline-block;
+            background: var(--golden-yellow);
+            color: var(--dark-text);
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
+            font-size: 0.875rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+        }
+        
+        .case-title {
+            font-size: 3rem;
+            color: var(--trust-blue);
+            margin-bottom: 1rem;
+            font-weight: 700;
+        }
+        
+        .case-subtitle {
+            font-size: 1.25rem;
+            color: var(--creative-purple);
+            margin-bottom: 2rem;
+            font-weight: 500;
+        }
+        
+        .case-meta {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 2rem;
+            margin-top: 2rem;
+        }
+        
+        .meta-item {
+            text-align: left;
+        }
+        
+        .meta-label {
+            font-size: 0.875rem;
+            color: var(--light-text);
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        
+        .meta-value {
+            font-size: 1rem;
+            color: var(--dark-text);
+            font-weight: 500;
+        }
+        
+        /* Content */
+        .case-content {
+            padding: 4rem 0;
+        }
+        
+        .content-section {
+            margin-bottom: 4rem;
+        }
+        
+        .section-title {
+            font-size: 2rem;
+            color: var(--trust-blue);
+            margin-bottom: 1.5rem;
+            font-weight: 600;
+        }
+        
+        .subsection-title {
+            font-size: 1.375rem;
+            color: var(--creative-purple);
+            margin: 2rem 0 1rem 0;
+            font-weight: 600;
+        }
+        
+        .highlight-box {
+            background: var(--light-neutral);
+            border-left: 4px solid var(--trust-blue);
+            padding: 1.5rem;
+            margin: 2rem 0;
+            border-radius: 0 8px 8px 0;
+        }
+        
+        .highlight-box .title {
+            font-weight: 600;
+            color: var(--trust-blue);
+            margin-bottom: 0.5rem;
+        }
+        
+        .code-block {
+            background: #f8f9fa;
+            border: 1px solid #e9ecef;
+            border-radius: 8px;
+            padding: 1.5rem;
+            margin: 1.5rem 0;
+            font-family: 'JetBrains Mono', 'Consolas', monospace;
+            font-size: 0.875rem;
+            overflow-x: auto;
+        }
+        
+        .feature-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1.5rem;
+            margin: 2rem 0;
+        }
+        
+        .feature-card {
+            background: var(--white);
+            border: 1px solid var(--light-neutral);
+            border-radius: 8px;
+            padding: 1.5rem;
+        }
+        
+        .feature-card .icon {
+            width: 40px;
+            height: 40px;
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 1rem;
+            font-size: 1.25rem;
+            color: var(--white);
+        }
+        
+        .feature-card:nth-child(1) .icon { background: var(--trust-blue); }
+        .feature-card:nth-child(2) .icon { background: var(--growth-green); }
+        .feature-card:nth-child(3) .icon { background: var(--creative-purple); }
+        .feature-card:nth-child(4) .icon { background: var(--golden-yellow); }
+        
+        .feature-card h4 {
+            color: var(--trust-blue);
+            margin-bottom: 0.75rem;
+            font-weight: 600;
+        }
+        
+        .feature-card p {
+            color: var(--mid-text);
+            font-size: 0.9rem;
+        }
+        
+        .metrics-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1.5rem;
+            margin: 2rem 0;
+        }
+        
+        .metric-card {
+            background: var(--white);
+            border: 2px solid var(--light-neutral);
+            border-radius: 12px;
+            padding: 1.5rem;
+            text-align: center;
+        }
+        
+        .metric-value {
+            font-size: 2.5rem;
+            font-weight: 700;
+            color: var(--trust-blue);
+            margin-bottom: 0.5rem;
+        }
+        
+        .metric-label {
+            color: var(--mid-text);
+            font-weight: 500;
+        }
+        
+        .tech-stack {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.75rem;
+            margin: 1.5rem 0;
+        }
+        
+        .tech-tag {
+            background: var(--light-neutral);
+            color: var(--trust-blue);
+            padding: 0.5rem 1rem;
+            border-radius: 6px;
+            font-size: 0.875rem;
+            font-weight: 600;
+        }
+        
+        .quote-block {
+            background: var(--white);
+            border: 1px solid var(--light-neutral);
+            border-radius: 12px;
+            padding: 2rem;
+            margin: 2rem 0;
+            position: relative;
+        }
+        
+        .quote-block::before {
+            content: '"';
+            font-size: 4rem;
+            color: var(--trust-blue);
+            position: absolute;
+            top: -10px;
+            left: 1rem;
+            font-family: serif;
+        }
+        
+        .quote-text {
+            font-size: 1.125rem;
+            color: var(--dark-text);
+            font-style: italic;
+            margin-bottom: 1rem;
+            padding-left: 2rem;
+        }
+        
+        .quote-author {
+            color: var(--mid-text);
+            font-weight: 600;
+            padding-left: 2rem;
+        }
+        
+        .navigation {
+            background: var(--light-neutral);
+            padding: 2rem 0;
+            margin-top: 4rem;
+        }
+        
+        .nav-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .nav-link {
+            color: var(--trust-blue);
+            text-decoration: none;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            transition: color 0.3s ease;
+        }
+        
+        .nav-link:hover {
+            color: var(--creative-purple);
+        }
+        
+        /* Responsive */
+        @media (max-width: 768px) {
+            .case-title {
+                font-size: 2.25rem;
+            }
+            
+            .case-meta {
+                grid-template-columns: 1fr;
+                gap: 1rem;
+            }
+            
+            .nav-content {
+                flex-direction: column;
+                gap: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <nav class="nav container">
+            <a href="#" class="back-link">← Back to Portfolio</a>
+            <a href="#" class="logo">Tiff Ting</a>
+        </nav>
+    </header>
+
+    <!-- Hero -->
+    <section class="case-hero">
+        <div class="container">
+            <div class="case-header">
+                <span class="case-badge">MVP Development • Week 8-12 of Voiz.AI Reskilling</span>
+                <h1 class="case-title">Capisara Platform</h1>
+                <p class="case-subtitle">Automated capacity management system transforming live event operations from chaos to streamlined efficiency</p>
+                
+                <div class="case-meta">
+                    <div class="meta-item">
+                        <div class="meta-label">Role</div>
+                        <div class="meta-value">Product Manager & Technical Lead</div>
+                    </div>
+                    <div class="meta-item">
+                        <div class="meta-label">Timeline</div>
+                        <div class="meta-value">4 weeks intensive development</div>
+                    </div>
+                    <div class="meta-item">
+                        <div class="meta-label">Team</div>
+                        <div class="meta-value">Solo developer with stakeholder validation</div>
+                    </div>
+                    <div class="meta-item">
+                        <div class="meta-label">Industry</div>
+                        <div class="meta-value">Live Events & Entertainment</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Content -->
+    <main class="case-content">
+        <div class="container">
+            
+            <!-- Challenge -->
+            <section class="content-section">
+                <h2 class="section-title">The Challenge</h2>
+                <p>Live event producers at comedy venues spend 15+ hours per week on manual administrative tasks instead of creative programming. They juggle multiple sales channels (Eventbrite, direct website, door sales) using error-prone spreadsheet coordination, leading to overbooking incidents, lost revenue, and operational chaos during show times.</p>
+                
+                <div class="highlight-box">
+                    <div class="title">Primary Pain Points Identified</div>
+                    <ul>
+                        <li><strong>Manual inventory sync</strong> across 3-5 platforms with different formatting requirements</li>
+                        <li><strong>15+ hours weekly</strong> on administrative tasks vs. creative programming</li>
+                        <li><strong>$5K-10K annual losses</strong> from overselling incidents</li>
+                        <li><strong>Show-day check-in chaos</strong> with paper lists and confused staff</li>
+                    </ul>
+                </div>
+
+                <h3 class="subsection-title">User Research Methodology</h3>
+                <p>I conducted one-on-one validation sessions with five stakeholders at Cheaper Than Therapy Comedy: three co-producers, one bar manager, and the primary box office associate. Each session started with workflow mapping of current manual processes, followed by prototype demonstration and iterative feedback collection.</p>
+
+                <div class="quote-block">
+                    <div class="quote-text">All users loved the idea, direction, and potential for how much it could improve their processes. One co-producer pointed out event publishing automation as an easily automatable task that could save significant time and reduce errors.</div>
+                    <div class="quote-author">— Stakeholder Feedback Summary</div>
+                </div>
+            </section>
+
+            <!-- Process -->
+            <section class="content-section">
+                <h2 class="section-title">Development Process</h2>
+                
+                <h3 class="subsection-title">Technical Architecture Decisions</h3>
+                <p>I chose Supabase over alternatives like Neon because it provides real-time subscriptions, built-in authentication, row-level security policies, and edge functions—features I'd need to build from scratch with other solutions. This decision proved crucial for the multi-tenant architecture and real-time inventory sync requirements.</p>
+
+                <div class="tech-stack">
+                    <span class="tech-tag">React 18 + TypeScript</span>
+                    <span class="tech-tag">Supabase (PostgreSQL)</span>
+                    <span class="tech-tag">Square API</span>
+                    <span class="tech-tag">Tailwind CSS</span>
+                    <span class="tech-tag">Cloudflare Workers</span>
+                    <span class="tech-tag">CronJob.org</span>
+                </div>
+
+                <h3 class="subsection-title">Development Workflow Evolution</h3>
+                <p>I started with no-code platforms (Lovable, Bolt, v0) for rapid experimentation but found they eventually got stuck in self-created error loops. This led me to switch to Claude Code for the core platform development, using the no-code tools only for initial UI concepts and visual inspiration.</p>
+
+                <div class="highlight-box">
+                    <div class="title">Key Learning: Tool Selection Strategy</div>
+                    <p>No-code platforms excel for rapid prototyping and stakeholder demos, but become limiting when building complex, interconnected features. Claude Code provided the flexibility needed for sophisticated API integrations and custom business logic.</p>
+                </div>
+
+                <h3 class="subsection-title">Square API Integration Deep Dive</h3>
+                <p>The most technically complex achievement was building automated scheduling logic that updates inventory item variant availability based on organization-specific configuration. The system handles single vs. double show nights, differentiating between door sales for early vs. late Friday/Saturday shows.</p>
+
+                <div class="code-block">
+// Example: Automated scheduling configuration
+const scheduleConfig = {
+  single_show_nights: ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday'],
+  double_show_nights: ['Friday', 'Saturday'],
+  early_show_time: '20:00',
+  late_show_time: '22:00',
+  cutoff_hours: 1
+}
+                </div>
+
+                <div class="feature-grid">
+                    <div class="feature-card">
+                        <div class="icon">🔄</div>
+                        <h4>Automated Scheduling</h4>
+                        <p>Cron jobs update Square inventory variants at precise times based on venue's show schedule</p>
+                    </div>
+                    <div class="feature-card">
+                        <div class="icon">📧</div>
+                        <h4>Smart Monitoring</h4>
+                        <p>Email notifications classify runs (NO_OP, CRITICAL) with detailed execution metrics</p>
+                    </div>
+                    <div class="feature-card">
+                        <div class="icon">📱</div>
+                        <h4>Mobile-First UI</h4>
+                        <p>Box office management optimized for tablets with offline capability</p>
+                    </div>
+                    <div class="feature-card">
+                        <div class="icon">🔍</div>
+                        <h4>Intelligent Search</h4>
+                        <p>Progressive attendee lookup across events with 7-day look-ahead/back</p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Solution -->
+            <section class="content-section">
+                <h2 class="section-title">Technical Implementation</h2>
+                
+                <h3 class="subsection-title">Email Monitoring System</h3>
+                <p>I built a comprehensive monitoring system that tracks execution timing, classifies run types, and provides actionable feedback. The system monitors GitHub Actions delays, critical window execution, and business impact assessment.</p>
+
+                <div class="highlight-box">
+                    <div class="title">Monitoring Metrics Tracked</div>
+                    <ul>
+                        <li><strong>Execution timing:</strong> Expected vs. actual minute with delay calculations</li>
+                        <li><strong>Business impact:</strong> CRITICAL, MODERATE, NONE classification</li>
+                        <li><strong>Run classification:</strong> NO_OP, STANDARD, CRITICAL types</li>
+                        <li><strong>Action details:</strong> Which variants changed and why</li>
+                    </ul>
+                </div>
+
+                <h3 class="subsection-title">Box Office Management Features</h3>
+                <p>The current UI handles complex real-world scenarios: full/partial check-ins, no-show marking, cross-event attendee search, comp ticket management with organizational policies, and offline-capable operations for unreliable venue WiFi.</p>
+
+                <h3 class="subsection-title">API Integration Lessons</h3>
+                <p>I discovered that Facebook and Google severely restrict API access for event publishing, making those integrations impractical. This taught me to validate API accessibility early in the planning phase. I'm now focusing on Eventbrite integration for bi-weekly event publishing as the next development priority.</p>
+            </section>
+
+            <!-- Impact -->
+            <section class="content-section">
+                <h2 class="section-title">Impact & Learning Outcomes</h2>
+                
+                <div class="metrics-grid">
+                    <div class="metric-card">
+                        <div class="metric-value">75%</div>
+                        <div class="metric-label">Projected reduction in box office setup time</div>
+                    </div>
+                    <div class="metric-card">
+                        <div class="metric-value">0</div>
+                        <div class="metric-label">Overselling incidents since automation</div>
+                    </div>
+                    <div class="metric-card">
+                        <div class="metric-value">5</div>
+                        <div class="metric-label">Stakeholders validated approach</div>
+                    </div>
+                    <div class="metric-card">
+                        <div class="metric-value">15→5</div>
+                        <div class="metric-label">Target: admin hours per week</div>
+                    </div>
+                </div>
+
+                <h3 class="subsection-title">Technical Skills Developed</h3>
+                <ul>
+                    <li><strong>Product Management:</strong> Feature prioritization under time constraints with real user feedback loops</li>
+                    <li><strong>API Integration:</strong> Complex scheduling logic with error handling and monitoring</li>
+                    <li><strong>User-Centered Design:</strong> Balancing powerful functionality with operational simplicity</li>
+                    <li><strong>Stakeholder Management:</strong> Addressing AI concerns through disciplined architecture and gradual autonomy models</li>
+                </ul>
+
+                <h3 class="subsection-title">Cross-Industry Pattern Recognition</h3>
+                <p>This project reinforced my ability to apply methodical problem-solving across domains. The inventory management concepts from live events could apply to restaurant reservations, equipment rentals, or any multi-channel booking scenario.</p>
+
+                <div class="quote-block">
+                    <div class="quote-text">I had to assuage fears about AI by building a disciplined software architecture and designing a process where organizations can start with less AI autonomy and gradually increase trust as they see the platform correctly categorize emails and recommend responses that match their brand voice.</div>
+                    <div class="quote-author">— Addressing stakeholder concerns about AI integration</div>
+                </div>
+            </section>
+
+            <!-- Next Steps -->
+            <section class="content-section">
+                <h2 class="section-title">What's Next</h2>
+                <p>Current development priorities include Eventbrite API integration for automated event publishing, enhanced box office UI based on initial user testing, and expanding the platform to support additional comedy venues in San Francisco.</p>
+                
+                <div class="highlight-box">
+                    <div class="title">Immediate Roadmap</div>
+                    <ul>
+                        <li><strong>Eventbrite Integration:</strong> Bi-weekly event publishing with template system</li>
+                        <li><strong>Multi-venue Support:</strong> Scale architecture for additional comedy venues</li>
+                        <li><strong>Advanced Analytics:</strong> Show performance metrics and attendance patterns</li>
+                        <li><strong>Customer Portal:</strong> Self-service transfer and refund capabilities</li>
+                    </ul>
+                </div>
+                
+                <p>This project demonstrates my ability to combine technical implementation with user-centered design thinking, turning operational chaos into systematic efficiency through methodical problem-solving.</p>
+            </section>
+        </div>
+    </main>
+
+    <!-- Navigation -->
+    <section class="navigation">
+        <div class="container">
+            <div class="nav-content">
+                <a href="#" class="nav-link">← Capisara Landing Page</a>
+                <a href="#" class="nav-link">Ate Treasures Brand Design →</a>
+            </div>
+        </div>
+    </section>
+</body>
+</html>

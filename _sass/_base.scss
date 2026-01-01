@@ -1,0 +1,204 @@
+//
+// BASE STYLES
+// Global typography and foundational styles
+//
+
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+html {
+  font-size: 100%;
+  scroll-behavior: smooth;
+}
+
+body {
+  background: $white;
+  font: 18px/1.6 $source-sans;
+  color: $darkGray;
+}
+
+// Typography
+h1, h2, h3, h4, h5, h6 {
+  font-family: $inter;
+  color: $darkerGray;
+  font-weight: 600;
+  line-height: 1.3;
+  margin: 1em 0 0.5em;
+  padding: 0;
+
+  @include mobile {
+    line-height: 1.4;
+  }
+}
+
+h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+
+  @include mobile {
+    font-size: 2rem;
+  }
+
+  a {
+    color: inherit;
+  }
+}
+
+h2 {
+  font-size: 2rem;
+
+  @include mobile {
+    font-size: 1.5rem;
+  }
+}
+
+h3 {
+  font-size: 1.5rem;
+
+  @include mobile {
+    font-size: 1.25rem;
+  }
+}
+
+h4 {
+  font-size: 1.25rem;
+  color: $gray;
+}
+
+h5, h6 {
+  font-size: 1rem;
+  color: $gray;
+}
+
+p {
+  margin: 0 0 1.5rem 0;
+  line-height: 1.6;
+}
+
+a {
+  color: $trust-blue;
+  text-decoration: none;
+  cursor: pointer;
+  transition: color 0.3s ease;
+
+  &:hover, &:active {
+    color: $creative-purple;
+  }
+}
+
+ul, ol {
+  margin: 1.5rem 0;
+  padding-left: 2rem;
+}
+
+ul {
+  list-style-type: disc;
+}
+
+ol {
+  list-style-type: decimal;
+}
+
+li {
+  margin-bottom: 0.5rem;
+}
+
+em, i {
+  font-style: italic;
+}
+
+strong, b {
+  font-weight: 600;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+blockquote {
+  margin: 2rem 0;
+  padding: 1.5rem;
+  background: $light-neutral;
+  border-left: 4px solid $trust-blue;
+  border-radius: 0 8px 8px 0;
+  color: $darkGray;
+  font-style: italic;
+
+  p {
+    margin-bottom: 0;
+  }
+}
+
+// Code
+code,
+pre {
+  font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+  font-size: 0.9rem;
+}
+
+code {
+  background-color: #f8f9fa;
+  border: 1px solid #e9ecef;
+  border-radius: 4px;
+  padding: 0.2rem 0.4rem;
+}
+
+pre {
+  background-color: #f8f9fa;
+  border: 1px solid #e9ecef;
+  border-radius: 8px;
+  padding: 1.5rem;
+  overflow-x: auto;
+  margin: 1.5rem 0;
+
+  code {
+    background: none;
+    border: none;
+    padding: 0;
+  }
+}
+
+// Tables
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+}
+
+th, td {
+  padding: 0.75rem;
+  text-align: left;
+  border-bottom: 1px solid $lightGray;
+}
+
+th {
+  font-weight: 600;
+  color: $darkerGray;
+  background: $lighterGray;
+}
+
+tr:nth-child(even) {
+  background: $lighterGray;
+}
+
+// Horizontal rule
+hr {
+  border: 0;
+  border-top: 1px solid $lightGray;
+  margin: 2rem 0;
+}
+
+// Utilities
+.clearfix:before,
+.clearfix:after {
+  content: " ";
+  display: table;
+}
+
+.clearfix:after {
+  clear: both;
+}

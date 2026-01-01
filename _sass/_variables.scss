@@ -3,8 +3,15 @@
 // VARIABLES
 //
 
-// Colors
-$blue: #4183C4;
+// NEW BRAND COLORS
+$trust-blue: #2E5BBA;
+$growth-green: #4A9B8E;
+$creative-purple: #7B5BA6;
+$golden-yellow: #F2B705;
+$light-neutral: #E8F4F8;
+
+// Legacy color mapping (backwards compatibility)
+$blue: $trust-blue;
 
 // Grays
 $black: #000;
@@ -15,7 +22,11 @@ $lightGray: #ddd;
 $lighterGray: #eee;
 $white: #fff;
 
-// Font stacks
+// NEW TYPOGRAPHY
+$inter: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+$source-sans: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+
+// Legacy font stacks (backwards compatibility)
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
@@ -23,6 +34,13 @@ $georgia: Georgia, serif;
 // Mobile breakpoints
 @mixin mobile {
   @media screen and (max-width: 640px) {
+    @content;
+  }
+}
+
+// Tablet breakpoint
+@mixin tablet {
+  @media screen and (max-width: 1024px) {
     @content;
   }
 }

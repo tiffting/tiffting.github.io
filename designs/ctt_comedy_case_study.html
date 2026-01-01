@@ -1,0 +1,591 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CTT Comedy Website Refresh - Case Study | Tiff Ting</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        :root {
+            --trust-blue: #2E5BBA;
+            --growth-green: #4A9B8E;
+            --creative-purple: #7B5BA6;
+            --golden-yellow: #F2B705;
+            --light-neutral: #E8F4F8;
+            --white: #ffffff;
+            --dark-text: #333333;
+            --mid-text: #666666;
+            --light-text: #888888;
+        }
+        
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            line-height: 1.7;
+            color: var(--dark-text);
+            background: var(--white);
+        }
+        
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 2rem;
+        }
+        
+        /* Header */
+        .header {
+            background: var(--white);
+            border-bottom: 1px solid var(--light-neutral);
+            padding: 1rem 0;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+        
+        .nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .back-link {
+            color: var(--trust-blue);
+            text-decoration: none;
+            font-weight: 500;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        
+        .back-link:hover {
+            color: var(--creative-purple);
+        }
+        
+        .logo {
+            color: var(--trust-blue);
+            font-weight: 600;
+            text-decoration: none;
+        }
+        
+        /* Hero */
+        .case-hero {
+            padding: 3rem 0;
+            background: linear-gradient(135deg, var(--light-neutral) 0%, var(--white) 100%);
+        }
+        
+        .case-header {
+            text-align: center;
+        }
+        
+        .case-badge {
+            display: inline-block;
+            background: var(--golden-yellow);
+            color: var(--dark-text);
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
+            font-size: 0.875rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+        }
+        
+        .case-title {
+            font-size: 3rem;
+            color: var(--trust-blue);
+            margin-bottom: 1rem;
+            font-weight: 700;
+        }
+        
+        .case-subtitle {
+            font-size: 1.25rem;
+            color: var(--creative-purple);
+            margin-bottom: 2rem;
+            font-weight: 500;
+        }
+        
+        .case-meta {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 2rem;
+            margin-top: 2rem;
+        }
+        
+        .meta-item {
+            text-align: left;
+        }
+        
+        .meta-label {
+            font-size: 0.875rem;
+            color: var(--light-text);
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        
+        .meta-value {
+            font-size: 1rem;
+            color: var(--dark-text);
+            font-weight: 500;
+        }
+        
+        /* Content */
+        .case-content {
+            padding: 4rem 0;
+        }
+        
+        .content-section {
+            margin-bottom: 4rem;
+        }
+        
+        .section-title {
+            font-size: 2rem;
+            color: var(--trust-blue);
+            margin-bottom: 1.5rem;
+            font-weight: 600;
+        }
+        
+        .subsection-title {
+            font-size: 1.375rem;
+            color: var(--creative-purple);
+            margin: 2rem 0 1rem 0;
+            font-weight: 600;
+        }
+        
+        .highlight-box {
+            background: var(--light-neutral);
+            border-left: 4px solid var(--trust-blue);
+            padding: 1.5rem;
+            margin: 2rem 0;
+            border-radius: 0 8px 8px 0;
+        }
+        
+        .highlight-box .title {
+            font-weight: 600;
+            color: var(--trust-blue);
+            margin-bottom: 0.5rem;
+        }
+        
+        .comparison-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 2rem;
+            margin: 2rem 0;
+        }
+        
+        .comparison-card {
+            background: var(--white);
+            border: 2px solid var(--light-neutral);
+            border-radius: 12px;
+            padding: 1.5rem;
+        }
+        
+        .comparison-card.current {
+            border-color: #dc3545;
+        }
+        
+        .comparison-card.new {
+            border-color: var(--growth-green);
+        }
+        
+        .comparison-card h4 {
+            margin-bottom: 1rem;
+            font-weight: 600;
+        }
+        
+        .comparison-card.current h4 {
+            color: #dc3545;
+        }
+        
+        .comparison-card.new h4 {
+            color: var(--growth-green);
+        }
+        
+        .metrics-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1.5rem;
+            margin: 2rem 0;
+        }
+        
+        .metric-card {
+            background: var(--white);
+            border: 2px solid var(--light-neutral);
+            border-radius: 12px;
+            padding: 1.5rem;
+            text-align: center;
+        }
+        
+        .metric-value {
+            font-size: 2.5rem;
+            font-weight: 700;
+            color: var(--trust-blue);
+            margin-bottom: 0.5rem;
+        }
+        
+        .metric-label {
+            color: var(--mid-text);
+            font-weight: 500;
+        }
+        
+        .tech-stack {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.75rem;
+            margin: 1.5rem 0;
+        }
+        
+        .tech-tag {
+            background: var(--light-neutral);
+            color: var(--trust-blue);
+            padding: 0.5rem 1rem;
+            border-radius: 6px;
+            font-size: 0.875rem;
+            font-weight: 600;
+        }
+        
+        .quote-block {
+            background: var(--white);
+            border: 1px solid var(--light-neutral);
+            border-radius: 12px;
+            padding: 2rem;
+            margin: 2rem 0;
+            position: relative;
+        }
+        
+        .quote-block::before {
+            content: '"';
+            font-size: 4rem;
+            color: var(--trust-blue);
+            position: absolute;
+            top: -10px;
+            left: 1rem;
+            font-family: serif;
+        }
+        
+        .quote-text {
+            font-size: 1.125rem;
+            color: var(--dark-text);
+            font-style: italic;
+            margin-bottom: 1rem;
+            padding-left: 2rem;
+        }
+        
+        .quote-author {
+            color: var(--mid-text);
+            font-weight: 600;
+            padding-left: 2rem;
+        }
+        
+        .strategy-list {
+            background: var(--white);
+            border: 1px solid var(--light-neutral);
+            border-radius: 12px;
+            padding: 2rem;
+            margin: 2rem 0;
+        }
+        
+        .strategy-list h4 {
+            color: var(--trust-blue);
+            margin-bottom: 1rem;
+            font-weight: 600;
+        }
+        
+        .strategy-list ol {
+            padding-left: 1.5rem;
+        }
+        
+        .strategy-list li {
+            margin-bottom: 1rem;
+        }
+        
+        .navigation {
+            background: var(--light-neutral);
+            padding: 2rem 0;
+            margin-top: 4rem;
+        }
+        
+        .nav-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .nav-link {
+            color: var(--trust-blue);
+            text-decoration: none;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            transition: color 0.3s ease;
+        }
+        
+        .nav-link:hover {
+            color: var(--creative-purple);
+        }
+        
+        /* Responsive */
+        @media (max-width: 768px) {
+            .case-title {
+                font-size: 2.25rem;
+            }
+            
+            .case-meta {
+                grid-template-columns: 1fr;
+                gap: 1rem;
+            }
+            
+            .comparison-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .nav-content {
+                flex-direction: column;
+                gap: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <nav class="nav container">
+            <a href="#" class="back-link">← Back to Portfolio</a>
+            <a href="#" class="logo">Tiff Ting</a>
+        </nav>
+    </header>
+
+    <!-- Hero -->
+    <section class="case-hero">
+        <div class="container">
+            <div class="case-header">
+                <span class="case-badge">Website Redesign • Week 4-8 of Voiz.AI Reskilling</span>
+                <h1 class="case-title">CTT Comedy Website Refresh</h1>
+                <p class="case-subtitle">Overcoming stakeholder resistance through data-driven design and strategic change management</p>
+                
+                <div class="case-meta">
+                    <div class="meta-item">
+                        <div class="meta-label">Role</div>
+                        <div class="meta-value">Lead Designer & Change Manager</div>
+                    </div>
+                    <div class="meta-item">
+                        <div class="meta-label">Timeline</div>
+                        <div class="meta-value">4 weeks design + ongoing implementation</div>
+                    </div>
+                    <div class="meta-item">
+                        <div class="meta-label">Challenge</div>
+                        <div class="meta-value">Strong resistance to change</div>
+                    </div>
+                    <div class="meta-item">
+                        <div class="meta-label">Industry</div>
+                        <div class="meta-value">Live Entertainment</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Content -->
+    <main class="case-content">
+        <div class="container">
+            
+            <!-- Challenge -->
+            <section class="content-section">
+                <h2 class="section-title">The Challenge</h2>
+                <p>Cheaper Than Therapy Comedy's website hadn't been updated in years, presenting significant user experience and business challenges. However, the bigger obstacle wasn't technical—it was organizational resistance to change rooted in the false belief that "if it's not broken, don't fix it."</p>
+                
+                <div class="highlight-box">
+                    <div class="title">Core Problems Identified</div>
+                    <ul>
+                        <li><strong>Outdated user experience:</strong> Non-responsive design, poor mobile experience</li>
+                        <li><strong>Confusing information architecture:</strong> Critical details buried in FAQ format</li>
+                        <li><strong>Poor conversion flow:</strong> Ticket purchasing required multiple steps and external redirects</li>
+                        <li><strong>Stakeholder resistance:</strong> "It's worked for 12 years, why change now?"</li>
+                    </ul>
+                </div>
+
+                <div class="comparison-grid">
+                    <div class="comparison-card current">
+                        <h4>Current Site Issues</h4>
+                        <ul>
+                            <li>Dense FAQ format for basic info</li>
+                            <li>Non-responsive mobile experience</li>
+                            <li>Essential details hard to find</li>
+                            <li>Multiple external redirects</li>
+                            <li>Outdated visual design</li>
+                        </ul>
+                    </div>
+                    <div class="comparison-card new">
+                        <h4>Redesign Goals</h4>
+                        <ul>
+                            <li>Essential info prominently displayed</li>
+                            <li>Mobile-first responsive design</li>
+                            <li>Clear visual hierarchy</li>
+                            <li>Streamlined user flows</li>
+                            <li>Modern, accessible interface</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <h3 class="subsection-title">The Real Challenge: Change Management</h3>
+                <p>The technical refresh was straightforward compared to managing stakeholder resistance. After 12 years of using the same site, leadership perceived any change as risky and unnecessary. This required a strategic approach combining data analysis, stakeholder psychology, and gradual adoption strategies.</p>
+            </section>
+
+            <!-- Process -->
+            <section class="content-section">
+                <h2 class="section-title">Strategic Approach</h2>
+                
+                <h3 class="subsection-title">Data-Driven Argumentation</h3>
+                <p>Rather than relying on subjective design opinions, I consulted with Claude to develop a comprehensive data-driven case for change. This involved analyzing user behavior patterns, mobile usage trends, and competitive landscape assessment.</p>
+
+                <div class="strategy-list">
+                    <h4>Change Management Strategy</h4>
+                    <ol>
+                        <li><strong>Evidence gathering:</strong> Collected usage analytics, mobile traffic data, and user feedback</li>
+                        <li><strong>Competitive analysis:</strong> Benchmarked against modern comedy venue websites</li>
+                        <li><strong>Risk mitigation:</strong> Developed parallel deployment strategy to minimize disruption</li>
+                        <li><strong>Stakeholder presentation:</strong> Created compelling slide deck with concrete benefits</li>
+                        <li><strong>Gradual implementation:</strong> Planned phased rollout to build confidence</li>
+                    </ol>
+                </div>
+
+                <h3 class="subsection-title">Development Workflow</h3>
+                <p>I used v0 for initial rapid prototyping to quickly visualize concepts, then migrated to Claude Code for detailed implementation and customization. This hybrid approach allowed for fast stakeholder feedback while maintaining development flexibility.</p>
+
+                <div class="tech-stack">
+                    <span class="tech-tag">v0 Prototyping</span>
+                    <span class="tech-tag">Claude Code</span>
+                    <span class="tech-tag">React</span>
+                    <span class="tech-tag">Cloudflare Workers</span>
+                    <span class="tech-tag">Gamma Presentation</span>
+                </div>
+
+                <h3 class="subsection-title">AI-Assisted Presentation Creation</h3>
+                <p>I collaborated with Claude to craft effective messaging strategies, then used its recommendations to build a prompt for Gamma that generated a persuasive slide deck. This presentation focused on business impact rather than aesthetic preferences, making the case for change in terms stakeholders could relate to.</p>
+
+                <div class="quote-block">
+                    <div class="quote-text">The key was framing the refresh not as 'fixing what's broken' but as 'capturing opportunities we're missing.' Data showed mobile users struggling with the current experience, representing lost ticket sales and frustrated customers.</div>
+                    <div class="quote-author">— Strategic messaging approach</div>
+                </div>
+            </section>
+
+            <!-- Solution -->
+            <section class="content-section">
+                <h2 class="section-title">Design Solution</h2>
+                
+                <h3 class="subsection-title">Information Architecture Redesign</h3>
+                <p>The new design prioritizes essential information upfront: showtimes, location, age requirements, and ticket links. Instead of burying critical details in FAQ format, everything a potential attendee needs is immediately visible.</p>
+
+                <div class="comparison-grid">
+                    <div class="comparison-card current">
+                        <h4>Original Structure</h4>
+                        <ul>
+                            <li>Essential info in FAQ format</li>
+                            <li>Show details scattered</li>
+                            <li>Mobile experience poor</li>
+                            <li>External ticket redirects</li>
+                        </ul>
+                    </div>
+                    <div class="comparison-card new">
+                        <h4>Redesigned Structure</h4>
+                        <ul>
+                            <li>Key info prominently displayed</li>
+                            <li>Clear visual hierarchy</li>
+                            <li>Mobile-optimized layout</li>
+                            <li>Streamlined conversion flow</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <h3 class="subsection-title">User Experience Improvements</h3>
+                <p>The refresh focuses on reducing friction between discovery and ticket purchase. Show information, venue details, and performer bios are presented in a scannable format that works equally well on mobile and desktop.</p>
+
+                <div class="highlight-box">
+                    <div class="title">Key UX Enhancements</div>
+                    <ul>
+                        <li><strong>Mobile-first design:</strong> Optimized for the majority of traffic</li>
+                        <li><strong>Prominent CTAs:</strong> Clear ticket purchase paths</li>
+                        <li><strong>Essential info display:</strong> Ages, times, location visible immediately</li>
+                        <li><strong>Performer highlights:</strong> Builds credibility and interest</li>
+                        <li><strong>Streamlined navigation:</strong> Fewer clicks to key actions</li>
+                    </ul>
+                </div>
+
+                <h3 class="subsection-title">Stakeholder Buy-in Strategy</h3>
+                <p>The presentation deck focused on quantifiable business benefits: improved mobile experience leading to higher conversion rates, better first impressions for new customers, and reduced support inquiries through clearer information presentation.</p>
+            </section>
+
+            <!-- Impact -->
+            <section class="content-section">
+                <h2 class="section-title">Impact & Learning Outcomes</h2>
+                
+                <div class="metrics-grid">
+                    <div class="metric-card">
+                        <div class="metric-value">100%</div>
+                        <div class="metric-label">Stakeholder approval achieved</div>
+                    </div>
+                    <div class="metric-card">
+                        <div class="metric-value">4</div>
+                        <div class="metric-label">Weeks from concept to stakeholder buy-in</div>
+                    </div>
+                    <div class="metric-card">
+                        <div class="metric-value">Mobile</div>
+                        <div class="metric-label">First responsive design</div>
+                    </div>
+                    <div class="metric-card">
+                        <div class="metric-value">Data</div>
+                        <div class="metric-label">Driven decision making</div>
+                    </div>
+                </div>
+
+                <h3 class="subsection-title">Change Management Skills Developed</h3>
+                <ul>
+                    <li><strong>Stakeholder Psychology:</strong> Understanding resistance patterns and addressing underlying concerns</li>
+                    <li><strong>Data-Driven Persuasion:</strong> Building compelling cases using evidence rather than opinion</li>
+                    <li><strong>Strategic Communication:</strong> Framing change as opportunity rather than criticism</li>
+                    <li><strong>Risk Mitigation:</strong> Designing implementation strategies that minimize perceived risk</li>
+                </ul>
+
+                <h3 class="subsection-title">Technical Problem-Solving</h3>
+                <p>This project reinforced the importance of choosing the right tool for each phase. v0's rapid prototyping capabilities were perfect for stakeholder demos, while Claude Code provided the flexibility needed for production implementation.</p>
+
+                <div class="quote-block">
+                    <div class="quote-text">The biggest learning wasn't technical—it was that successful product changes require as much attention to stakeholder psychology as to user experience. Data and strategic communication are just as important as good design.</div>
+                    <div class="quote-author">— Key insight from the project</div>
+                </div>
+            </section>
+
+            <!-- Next Steps -->
+            <section class="content-section">
+                <h2 class="section-title">Implementation & Next Steps</h2>
+                <p>With stakeholder approval secured, the focus shifts to careful deployment and performance monitoring. The phased rollout approach allows for real-world validation while maintaining stakeholder confidence through measurable improvements.</p>
+                
+                <div class="highlight-box">
+                    <div class="title">Implementation Plan</div>
+                    <ul>
+                        <li><strong>Soft launch:</strong> Deploy to staging environment for final stakeholder review</li>
+                        <li><strong>A/B testing:</strong> Compare conversion rates between old and new designs</li>
+                        <li><strong>Performance monitoring:</strong> Track mobile engagement and ticket conversion</li>
+                        <li><strong>Iterative improvements:</strong> Refine based on real user behavior data</li>
+                    </ul>
+                </div>
+                
+                <p>This project demonstrates how technical skills must be combined with change management expertise to successfully implement improvements in established organizations. The ability to build data-driven cases for change is just as valuable as the ability to execute the technical solution.</p>
+            </section>
+        </div>
+    </main>
+
+    <!-- Navigation -->
+    <section class="navigation">
+        <div class="container">
+            <div class="nav-content">
+                <a href="#" class="nav-link">← Capisara Platform</a>
+                <a href="#" class="nav-link">Ate Treasures Brand Design →</a>
+            </div>
+        </div>
+    </section>
+</body>
+</html>

@@ -1,0 +1,746 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% if page.title %}{{ page.title }} | {% endif %}Tiff Ting - Technical Product Translator</title>
+    <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}Cross-industry insights on methodical problem-solving, mission-driven technology, and translating technical complexity into user-centered solutions.{% endif %}">
+    
+    <!-- Open Graph -->
+    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}Tiff Ting Blog{% endif %}">
+    <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}Cross-industry insights on technical product translation{% endif %}">
+    <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        :root {
+            --trust-blue: #2E5BBA;
+            --growth-green: #4A9B8E;
+            --creative-purple: #7B5BA6;
+            --golden-yellow: #F2B705;
+            --light-neutral: #E8F4F8;
+            --white: #ffffff;
+            --dark-text: #333333;
+            --mid-text: #666666;
+            --light-text: #888888;
+            --border: #e1e5e9;
+        }
+        
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            line-height: 1.7;
+            color: var(--dark-text);
+            background: var(--white);
+        }
+        
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 2rem;
+        }
+        
+        .wide-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 2rem;
+        }
+        
+        /* Header */
+        .header {
+            background: var(--white);
+            border-bottom: 1px solid var(--border);
+            padding: 1rem 0;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            backdrop-filter: blur(10px);
+        }
+        
+        .nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .logo {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            text-decoration: none;
+            color: var(--trust-blue);
+        }
+        
+        .logo-symbol {
+            width: 28px;
+            height: 28px;
+        }
+        
+        .logo h1 {
+            font-size: 1.25rem;
+            font-weight: 600;
+        }
+        
+        .nav-links {
+            display: flex;
+            gap: 2rem;
+            list-style: none;
+        }
+        
+        .nav-links a {
+            text-decoration: none;
+            color: var(--mid-text);
+            font-weight: 500;
+            transition: color 0.3s ease;
+            position: relative;
+        }
+        
+        .nav-links a:hover,
+        .nav-links a.active {
+            color: var(--trust-blue);
+        }
+        
+        .nav-links a.active::after {
+            content: '';
+            position: absolute;
+            bottom: -1.2rem;
+            left: 0;
+            right: 0;
+            height: 2px;
+            background: var(--trust-blue);
+        }
+        
+        /* Blog Hero */
+        .blog-hero {
+            padding: 3rem 0;
+            background: linear-gradient(135deg, var(--light-neutral) 0%, var(--white) 100%);
+            text-align: center;
+        }
+        
+        .blog-title {
+            font-size: 2.5rem;
+            color: var(--trust-blue);
+            margin-bottom: 1rem;
+            font-weight: 700;
+        }
+        
+        .blog-subtitle {
+            font-size: 1.125rem;
+            color: var(--mid-text);
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        
+        /* Featured Post */
+        .featured {
+            padding: 3rem 0;
+        }
+        
+        .featured-post {
+            background: var(--white);
+            border-radius: 16px;
+            overflow: hidden;
+            box-shadow: 0 8px 32px rgba(0,0,0,0.1);
+            transition: transform 0.3s ease;
+        }
+        
+        .featured-post:hover {
+            transform: translateY(-4px);
+        }
+        
+        .featured-content {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            min-height: 400px;
+        }
+        
+        .featured-image {
+            background: linear-gradient(45deg, var(--creative-purple), var(--trust-blue));
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: var(--white);
+            font-size: 3rem;
+            font-weight: 700;
+        }
+        
+        .featured-text {
+            padding: 2.5rem;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        
+        .featured-badge {
+            display: inline-block;
+            background: var(--golden-yellow);
+            color: var(--dark-text);
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
+            font-size: 0.875rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+            width: fit-content;
+        }
+        
+        .featured-text h2 {
+            font-size: 1.75rem;
+            color: var(--trust-blue);
+            margin-bottom: 1rem;
+            font-weight: 600;
+        }
+        
+        .featured-text p {
+            color: var(--mid-text);
+            margin-bottom: 1.5rem;
+        }
+        
+        .read-more {
+            color: var(--growth-green);
+            text-decoration: none;
+            font-weight: 600;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            transition: color 0.3s ease;
+        }
+        
+        .read-more:hover {
+            color: var(--creative-purple);
+        }
+        
+        /* Post Grid */
+        .posts-section {
+            padding: 4rem 0;
+        }
+        
+        .section-title {
+            font-size: 2rem;
+            color: var(--trust-blue);
+            margin-bottom: 2rem;
+            font-weight: 600;
+        }
+        
+        .posts-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 2rem;
+        }
+        
+        .post-card {
+            background: var(--white);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            overflow: hidden;
+            transition: all 0.3s ease;
+        }
+        
+        .post-card:hover {
+            border-color: var(--trust-blue);
+            transform: translateY(-2px);
+            box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+        }
+        
+        .post-image {
+            height: 180px;
+            background: linear-gradient(45deg, var(--growth-green), var(--creative-purple));
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: var(--white);
+            font-size: 1.5rem;
+            font-weight: 600;
+        }
+        
+        .post-content {
+            padding: 1.5rem;
+        }
+        
+        .post-meta {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            margin-bottom: 1rem;
+            font-size: 0.875rem;
+            color: var(--light-text);
+        }
+        
+        .post-date {
+            display: flex;
+            align-items: center;
+            gap: 0.25rem;
+        }
+        
+        .post-category {
+            background: var(--light-neutral);
+            color: var(--trust-blue);
+            padding: 0.25rem 0.75rem;
+            border-radius: 12px;
+            font-weight: 500;
+        }
+        
+        .post-content h3 {
+            font-size: 1.25rem;
+            color: var(--trust-blue);
+            margin-bottom: 0.75rem;
+            font-weight: 600;
+        }
+        
+        .post-content p {
+            color: var(--mid-text);
+            margin-bottom: 1rem;
+            font-size: 0.95rem;
+        }
+        
+        .post-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            margin-bottom: 1rem;
+        }
+        
+        .tag {
+            background: var(--light-neutral);
+            color: var(--trust-blue);
+            padding: 0.25rem 0.5rem;
+            border-radius: 4px;
+            font-size: 0.75rem;
+            font-weight: 500;
+        }
+        
+        /* Single Post Layout */
+        .post-header {
+            padding: 3rem 0 2rem 0;
+            background: var(--light-neutral);
+        }
+        
+        .post-header .container {
+            max-width: 700px;
+        }
+        
+        .post-title {
+            font-size: 2.5rem;
+            color: var(--trust-blue);
+            margin-bottom: 1rem;
+            font-weight: 700;
+            line-height: 1.2;
+        }
+        
+        .post-subtitle {
+            font-size: 1.25rem;
+            color: var(--creative-purple);
+            margin-bottom: 1.5rem;
+            font-weight: 500;
+        }
+        
+        .post-meta-full {
+            display: flex;
+            align-items: center;
+            gap: 1.5rem;
+            color: var(--mid-text);
+            font-size: 0.95rem;
+        }
+        
+        .post-body {
+            padding: 3rem 0;
+        }
+        
+        .post-body .container {
+            max-width: 700px;
+        }
+        
+        .post-body h2 {
+            font-size: 1.75rem;
+            color: var(--trust-blue);
+            margin: 2.5rem 0 1rem 0;
+            font-weight: 600;
+        }
+        
+        .post-body h3 {
+            font-size: 1.375rem;
+            color: var(--creative-purple);
+            margin: 2rem 0 0.75rem 0;
+            font-weight: 600;
+        }
+        
+        .post-body p {
+            margin-bottom: 1.5rem;
+        }
+        
+        .post-body ul, .post-body ol {
+            margin: 1.5rem 0;
+            padding-left: 2rem;
+        }
+        
+        .post-body li {
+            margin-bottom: 0.5rem;
+        }
+        
+        .post-body blockquote {
+            background: var(--light-neutral);
+            border-left: 4px solid var(--trust-blue);
+            padding: 1.5rem;
+            margin: 2rem 0;
+            border-radius: 0 8px 8px 0;
+            font-style: italic;
+        }
+        
+        .post-body code {
+            background: #f8f9fa;
+            padding: 0.25rem 0.5rem;
+            border-radius: 4px;
+            font-family: 'JetBrains Mono', 'Consolas', monospace;
+            font-size: 0.875rem;
+        }
+        
+        .post-body pre {
+            background: #f8f9fa;
+            border: 1px solid #e9ecef;
+            border-radius: 8px;
+            padding: 1.5rem;
+            margin: 1.5rem 0;
+            overflow-x: auto;
+        }
+        
+        .post-body pre code {
+            background: none;
+            padding: 0;
+        }
+        
+        /* Post Navigation */
+        .post-nav {
+            background: var(--light-neutral);
+            padding: 2rem 0;
+        }
+        
+        .post-nav-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .nav-post {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            text-decoration: none;
+            color: var(--trust-blue);
+            font-weight: 500;
+            transition: color 0.3s ease;
+        }
+        
+        .nav-post:hover {
+            color: var(--creative-purple);
+        }
+        
+        .nav-post.prev {
+            margin-right: auto;
+        }
+        
+        .nav-post.next {
+            margin-left: auto;
+            flex-direction: row-reverse;
+        }
+        
+        /* Categories & Tags */
+        .sidebar {
+            background: var(--white);
+            border-radius: 12px;
+            padding: 1.5rem;
+            height: fit-content;
+            position: sticky;
+            top: 100px;
+        }
+        
+        .sidebar h4 {
+            color: var(--trust-blue);
+            margin-bottom: 1rem;
+            font-weight: 600;
+        }
+        
+        .category-list {
+            list-style: none;
+        }
+        
+        .category-list li {
+            margin-bottom: 0.5rem;
+        }
+        
+        .category-list a {
+            color: var(--mid-text);
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+        
+        .category-list a:hover {
+            color: var(--trust-blue);
+        }
+        
+        /* Footer */
+        .footer {
+            background: var(--trust-blue);
+            color: var(--white);
+            padding: 3rem 0;
+            text-align: center;
+        }
+        
+        .footer h3 {
+            margin-bottom: 1rem;
+        }
+        
+        .footer-links {
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            margin-top: 2rem;
+        }
+        
+        .footer-links a {
+            color: var(--light-neutral);
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+        
+        .footer-links a:hover {
+            color: var(--golden-yellow);
+        }
+        
+        /* Two-column layout for blog index with sidebar */
+        .blog-layout {
+            display: grid;
+            grid-template-columns: 1fr 300px;
+            gap: 3rem;
+            padding: 3rem 0;
+        }
+        
+        /* Responsive */
+        @media (max-width: 768px) {
+            .blog-title {
+                font-size: 2rem;
+            }
+            
+            .post-title {
+                font-size: 2rem;
+            }
+            
+            .featured-content {
+                grid-template-columns: 1fr;
+            }
+            
+            .featured-text {
+                padding: 2rem;
+            }
+            
+            .posts-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .blog-layout {
+                grid-template-columns: 1fr;
+            }
+            
+            .nav-links {
+                display: none;
+            }
+            
+            .post-nav-content {
+                flex-direction: column;
+                gap: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <nav class="nav container">
+            <a href="/" class="logo">
+                <svg class="logo-symbol" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+                    <!-- Updated logo based on provided design -->
+                    <polygon points="10,10 40,10 25,40" fill="#2E5BBA"/>
+                    <polygon points="40,10 90,10 90,60 40,60" fill="#2E5BBA"/>
+                    <polygon points="25,40 40,60 10,90 10,40" fill="#4A9B8E"/>
+                    <polygon points="60,10 90,10 90,40" fill="#F2B705"/>
+                    <polygon points="40,60 90,60 75,90 40,90" fill="#7B5BA6"/>
+                </svg>
+                <h1>Tiff Ting</h1>
+            </a>
+            <ul class="nav-links">
+                <li><a href="/portfolio">Portfolio</a></li>
+                <li><a href="/blog" class="active">Blog</a></li>
+                <li><a href="/about">About</a></li>
+                <li><a href="/contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    {% if page.layout == 'blog_home' %}
+    <!-- Blog Home Layout -->
+    
+    <!-- Hero -->
+    <section class="blog-hero">
+        <div class="container">
+            <h1 class="blog-title">Cross-Industry Insights</h1>
+            <p class="blog-subtitle">Exploring methodical problem-solving, mission-driven technology, and the art of translating technical complexity into user-centered solutions.</p>
+        </div>
+    </section>
+
+    <!-- Featured Post -->
+    <section class="featured">
+        <div class="container">
+            <article class="featured-post">
+                <div class="featured-content">
+                    <div class="featured-image">
+                        Featured
+                    </div>
+                    <div class="featured-text">
+                        <span class="featured-badge">Latest Post</span>
+                        <h2>Building Capisara: Lessons from 12 Weeks of Intensive Product Development</h2>
+                        <p>What I learned about API integrations, stakeholder validation, and bridging technical complexity with real user needs while building a live event management platform.</p>
+                        <a href="/blog/building-capisara-lessons-learned" class="read-more">Read Full Post →</a>
+                    </div>
+                </div>
+            </article>
+        </div>
+    </section>
+
+    <!-- Posts Grid -->
+    <section class="posts-section">
+        <div class="wide-container">
+            <div class="blog-layout">
+                <main>
+                    <h2 class="section-title">Recent Posts</h2>
+                    <div class="posts-grid">
+                        {% for post in site.posts limit: 6 %}
+                        <article class="post-card">
+                            <div class="post-image">
+                                {{ post.title | slice: 0, 2 | upcase }}
+                            </div>
+                            <div class="post-content">
+                                <div class="post-meta">
+                                    <span class="post-date">📅 {{ post.date | date: "%b %d, %Y" }}</span>
+                                    <span class="post-category">{{ post.category | default: "Insights" }}</span>
+                                </div>
+                                <h3><a href="{{ post.url }}" style="text-decoration: none; color: inherit;">{{ post.title }}</a></h3>
+                                <p>{{ post.excerpt | strip_html | truncate: 120 }}</p>
+                                {% if post.tags %}
+                                <div class="post-tags">
+                                    {% for tag in post.tags limit: 3 %}
+                                    <span class="tag">{{ tag }}</span>
+                                    {% endfor %}
+                                </div>
+                                {% endif %}
+                                <a href="{{ post.url }}" class="read-more">Continue Reading →</a>
+                            </div>
+                        </article>
+                        {% endfor %}
+                    </div>
+                </main>
+                
+                <!-- Sidebar -->
+                <aside class="sidebar">
+                    <h4>Categories</h4>
+                    <ul class="category-list">
+                        <li><a href="/blog/category/product-development">Product Development</a></li>
+                        <li><a href="/blog/category/technical-insights">Technical Insights</a></li>
+                        <li><a href="/blog/category/cross-industry">Cross-Industry</a></li>
+                        <li><a href="/blog/category/mission-driven">Mission-Driven Tech</a></li>
+                        <li><a href="/blog/category/lessons-learned">Lessons Learned</a></li>
+                    </ul>
+                    
+                    <h4 style="margin-top: 2rem;">Recent Tags</h4>
+                    <div class="post-tags">
+                        <span class="tag">API Integration</span>
+                        <span class="tag">User Research</span>
+                        <span class="tag">Product Strategy</span>
+                        <span class="tag">Technical Leadership</span>
+                        <span class="tag">Stakeholder Management</span>
+                    </div>
+                </aside>
+            </div>
+        </div>
+    </section>
+
+    {% elsif page.layout == 'post' %}
+    <!-- Single Post Layout -->
+    
+    <!-- Post Header -->
+    <header class="post-header">
+        <div class="container">
+            <h1 class="post-title">{{ page.title }}</h1>
+            {% if page.subtitle %}
+            <p class="post-subtitle">{{ page.subtitle }}</p>
+            {% endif %}
+            <div class="post-meta-full">
+                <span>📅 {{ page.date | date: "%B %d, %Y" }}</span>
+                <span>⏱️ {{ page.reading_time | default: "5 min read" }}</span>
+                {% if page.category %}
+                <span class="post-category">{{ page.category }}</span>
+                {% endif %}
+            </div>
+        </div>
+    </header>
+
+    <!-- Post Content -->
+    <main class="post-body">
+        <div class="container">
+            {{ content }}
+            
+            {% if page.tags %}
+            <div style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid var(--border);">
+                <h4 style="color: var(--trust-blue); margin-bottom: 1rem;">Tags</h4>
+                <div class="post-tags">
+                    {% for tag in page.tags %}
+                    <span class="tag">{{ tag }}</span>
+                    {% endfor %}
+                </div>
+            </div>
+            {% endif %}
+        </div>
+    </main>
+
+    <!-- Post Navigation -->
+    <nav class="post-nav">
+        <div class="container">
+            <div class="post-nav-content">
+                {% if page.previous %}
+                <a href="{{ page.previous.url }}" class="nav-post prev">
+                    <span>← Previous</span>
+                    <span>{{ page.previous.title | truncate: 30 }}</span>
+                </a>
+                {% endif %}
+                
+                <a href="/blog" style="color: var(--trust-blue); text-decoration: none; font-weight: 500;">All Posts</a>
+                
+                {% if page.next %}
+                <a href="{{ page.next.url }}" class="nav-post next">
+                    <span>Next →</span>
+                    <span>{{ page.next.title | truncate: 30 }}</span>
+                </a>
+                {% endif %}
+            </div>
+        </div>
+    </nav>
+
+    {% endif %}
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <h3>Continue the Conversation</h3>
+            <p>Thoughts on cross-industry problem-solving? Let's connect.</p>
+            <div class="footer-links">
+                <a href="mailto:hello@tiffanytong.com">Email</a>
+                <a href="https://linkedin.com/in/tiffanytong">LinkedIn</a>
+                <a href="https://github.com/tiffting">GitHub</a>
+                <a href="/portfolio">Portfolio</a>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
