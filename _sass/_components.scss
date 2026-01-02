@@ -5,228 +5,352 @@
 
 // Buttons
 .btn {
-  display: inline-block;
-  padding: 0.75rem 1.5rem;
-  border-radius: 6px;
-  text-decoration: none;
-  font-weight: 600;
-  font-family: $inter;
-  transition: all 0.3s ease;
-  border: 2px solid transparent;
-  cursor: pointer;
-  text-align: center;
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: 600;
+    font-family: $inter;
+    transition: all 0.3s ease;
+    border: 2px solid transparent;
+    cursor: pointer;
+    text-align: center;
 
-  &-primary {
-    background: $trust-blue;
-    color: $white;
+    &-primary {
+        background: $trust-blue;
+        color: $white;
 
-    &:hover {
-      background: darken($trust-blue, 10%);
-      color: $white;
-      transform: translateY(-1px);
-      box-shadow: 0 4px 12px rgba($trust-blue, 0.3);
+        &:hover {
+            background: darken($trust-blue, 10%);
+            color: $white;
+            transform: translateY(-1px);
+            box-shadow: 0 4px 12px rgba($trust-blue, 0.3);
+        }
     }
-  }
 
-  &-secondary {
-    background: transparent;
-    color: $growth-green;
-    border-color: $growth-green;
+    &-secondary {
+        background: transparent;
+        color: $growth-green;
+        border-color: $growth-green;
 
-    &:hover {
-      background: $growth-green;
-      color: $white;
-      transform: translateY(-1px);
+        &:hover {
+            background: $growth-green;
+            color: $white;
+            transform: translateY(-1px);
+        }
     }
-  }
 }
 
 // Cards
 .card,
 .portfolio-card,
 .post-card {
-  background: $white;
-  border-radius: 12px;
-  overflow: hidden;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
+    background: $white;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+    transition:
+        transform 0.3s ease,
+        box-shadow 0.3s ease;
 
-  &:hover {
-    transform: translateY(-4px);
-    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);
-  }
+    &:hover {
+        transform: translateY(-4px);
+        box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);
+    }
 }
 
 // Tags and Badges
 .tag {
-  display: inline-block;
-  background: $light-neutral;
-  color: $trust-blue;
-  padding: 0.25rem 0.5rem;
-  border-radius: 4px;
-  font-size: 0.75rem;
-  font-weight: 500;
-  font-family: $inter;
+    display: inline-block;
+    background: $light-neutral;
+    color: $trust-blue;
+    padding: 0.25rem 0.5rem;
+    border-radius: 4px;
+    font-size: 0.75rem;
+    font-weight: 500;
+    font-family: $inter;
 }
 
 .badge,
 .case-badge,
 .card-badge {
-  display: inline-block;
-  background: $golden-yellow;
-  color: $darkerGray;
-  padding: 0.5rem 1rem;
-  border-radius: 20px;
-  font-size: 0.875rem;
-  font-weight: 600;
-  font-family: $inter;
+    display: inline-block;
+    background: $golden-yellow;
+    color: $darkerGray;
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    font-size: 0.875rem;
+    font-weight: 600;
+    font-family: $inter;
 }
 
-// Logo Symbol
+// Logo Symbol (header)
 .logo-symbol {
-  width: 40px;
-  height: auto;
-  display: block;
+    width: 40px;
+    height: auto;
+    display: block;
+}
+
+// Hero image (larger logo or headshot)
+.hero-image .logo-symbol {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+}
+
+// Headshot styling
+.hero-image img {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    border-radius: 12px;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);
+
+    @include mobile {
+        max-width: 200px;
+        margin-bottom: 0;
+    }
+}
+
+// Hero content layout
+.hero-content {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 3rem;
+    align-items: center;
+
+    @include mobile {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+        text-align: center;
+    }
+
+    // On mobile, show image first (before text)
+    .hero-visual {
+        @include mobile {
+            order: -1;
+        }
+    }
+}
+
+.hero-text {
+    h1 {
+        font-size: 3rem;
+        font-weight: 700;
+        margin-bottom: 1rem;
+        margin-top: 0;
+        color: $trust-blue;
+
+        @include mobile {
+            font-size: 2rem;
+        }
+    }
+
+    .tagline {
+        font-size: 1.25rem;
+        color: $creative-purple;
+        margin-bottom: 1.5rem;
+        font-weight: 500;
+
+        @include mobile {
+            font-size: 1.1rem;
+        }
+    }
+
+    p {
+        font-size: 1.125rem;
+        color: $gray;
+        margin-bottom: 2rem;
+
+        @include mobile {
+            font-size: 1rem;
+        }
+    }
+}
+
+.cta-buttons {
+    display: flex;
+    gap: 1rem;
+
+    @include mobile {
+        flex-direction: column;
+        align-items: stretch;
+
+        .btn {
+            width: 100%;
+        }
+    }
 }
 
 // Header
 .header {
-  background: $white;
-  border-bottom: 1px solid $light-neutral;
-  padding: 1rem 0;
-  position: sticky;
-  top: 0;
-  z-index: 100;
-  backdrop-filter: blur(10px);
-  background: rgba(255, 255, 255, 0.95);
+    background: $white;
+    border-bottom: 1px solid $light-neutral;
+    padding: 1.25rem 0;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    backdrop-filter: blur(10px);
+    background: rgba(255, 255, 255, 0.95);
+    min-height: 80px;
+    display: flex;
+    align-items: center;
 }
 
 .nav {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    width: 100%;
 
-  @include mobile {
-    flex-direction: column;
-    gap: 1rem;
-  }
+    @include mobile {
+        flex-direction: column;
+        align-items: center;
+        gap: 1rem;
+    }
 }
 
 .logo {
-  display: flex;
-  align-items: center;
-  gap: 0.75rem;
-  text-decoration: none;
-  color: $trust-blue;
-
-  h1 {
-    font-size: 1.25rem;
-    font-weight: 600;
-    margin: 0;
-  }
-
-  &:hover {
+    display: flex;
+    align-items: baseline;
+    gap: 0.75rem;
+    text-decoration: none;
     color: $trust-blue;
-  }
+
+    h1 {
+        font-size: 1.25rem;
+        font-weight: 600;
+        margin: 0;
+        line-height: 1;
+    }
+
+    &:hover {
+        color: $trust-blue;
+    }
+
+    .logo-symbol {
+        align-self: center;
+    }
 }
 
 .nav-links {
-  display: flex;
-  gap: 2rem;
-  list-style: none;
-  margin: 0;
-  padding: 0;
+    display: flex;
+    gap: 2rem;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    align-items: baseline;
 
-  @include mobile {
-    gap: 1rem;
-    flex-wrap: wrap;
-    justify-content: center;
-  }
-
-  a {
-    text-decoration: none;
-    color: $gray;
-    font-weight: 500;
-    transition: color 0.3s ease;
-    position: relative;
-
-    &:hover,
-    &.active {
-      color: $trust-blue;
+    @include mobile {
+        gap: 1rem;
+        flex-wrap: wrap;
+        justify-content: center;
     }
 
-    &.active::after {
-      content: '';
-      position: absolute;
-      bottom: -1.2rem;
-      left: 0;
-      right: 0;
-      height: 2px;
-      background: $trust-blue;
+    a {
+        text-decoration: none;
+        color: $gray;
+        font-weight: 500;
+        transition: color 0.3s ease;
+        position: relative;
+        font-size: 1rem;
+        line-height: 1;
 
-      @include mobile {
-        display: none;
-      }
+        &:hover,
+        &.active {
+            color: $trust-blue;
+        }
+
+        &.active::after {
+            content: "";
+            position: absolute;
+            bottom: -1.2rem;
+            left: 0;
+            right: 0;
+            height: 2px;
+            background: $trust-blue;
+
+            @include mobile {
+                display: none;
+            }
+        }
     }
-  }
 }
 
 // Footer
 .footer {
-  background: $trust-blue;
-  color: $white;
-  padding: 3rem 0;
-  text-align: center;
-  margin-top: 4rem;
-
-  h3 {
+    background: $trust-blue;
     color: $white;
-    margin-bottom: 1rem;
-  }
+    padding: 3rem 0;
+    text-align: center;
+    margin-top: 4rem;
 
-  p {
-    color: $light-neutral;
-    margin-bottom: 2rem;
-    max-width: 600px;
-    margin-left: auto;
-    margin-right: auto;
-  }
+    h3 {
+        color: $white;
+        margin-bottom: 1rem;
+    }
+
+    p {
+        color: $light-neutral;
+        margin-bottom: 2rem;
+        max-width: 600px;
+        margin-left: auto;
+        margin-right: auto;
+    }
 }
 
 .footer-links {
-  display: flex;
-  justify-content: center;
-  gap: 2rem;
-  flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    flex-wrap: wrap;
 
-  a {
-    color: $light-neutral;
-    text-decoration: none;
-    transition: color 0.3s ease;
+    a {
+        color: $light-neutral;
+        text-decoration: none;
+        transition: color 0.3s ease;
 
-    &:hover {
-      color: $golden-yellow;
+        &:hover {
+            color: $golden-yellow;
+        }
     }
-  }
 }
 
 // Gradient utilities
 .gradient-hero {
-  background: linear-gradient(135deg, $light-neutral 0%, $white 100%);
+    background: linear-gradient(135deg, $light-neutral 0%, $white 100%);
 }
 
 .gradient-portfolio {
-  background: linear-gradient(45deg, $creative-purple, $trust-blue);
+    background: linear-gradient(45deg, $creative-purple, $trust-blue);
 }
 
 // Color utilities
-.bg-trust-blue { background-color: $trust-blue; }
-.bg-growth-green { background-color: $growth-green; }
-.bg-creative-purple { background-color: $creative-purple; }
-.bg-golden-yellow { background-color: $golden-yellow; }
-.bg-light-neutral { background-color: $light-neutral; }
+.bg-trust-blue {
+    background-color: $trust-blue;
+}
+.bg-growth-green {
+    background-color: $growth-green;
+}
+.bg-creative-purple {
+    background-color: $creative-purple;
+}
+.bg-golden-yellow {
+    background-color: $golden-yellow;
+}
+.bg-light-neutral {
+    background-color: $light-neutral;
+}
 
-.text-trust-blue { color: $trust-blue; }
-.text-growth-green { color: $growth-green; }
-.text-creative-purple { color: $creative-purple; }
-.text-golden-yellow { color: $golden-yellow; }
+.text-trust-blue {
+    color: $trust-blue;
+}
+.text-growth-green {
+    color: $growth-green;
+}
+.text-creative-purple {
+    color: $creative-purple;
+}
+.text-golden-yellow {
+    color: $golden-yellow;
+}

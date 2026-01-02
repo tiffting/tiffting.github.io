@@ -8,9 +8,11 @@
   max-width: 800px;
   margin: 0 auto;
   padding: 0 1.5rem;
+  width: 100%;
 
   @include mobile {
     padding: 0 1rem;
+    width: 100%;
   }
 }
 
@@ -18,15 +20,20 @@
   max-width: 1200px;
   margin: 0 auto;
   padding: 0 1.5rem;
+  width: 100%;
 
   @include mobile {
     padding: 0 1rem;
+    width: 100%;
   }
 }
 
 // Sections
 section {
   padding: 4rem 0;
+  width: 100%;
+  max-width: 100vw;
+  overflow-x: hidden;
 
   @include mobile {
     padding: 2rem 0;
@@ -80,6 +87,30 @@ section {
 
   @include mobile {
     grid-template-columns: 1fr;
+  }
+}
+
+// Portfolio grid
+.portfolio-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  gap: 2rem;
+
+  @include mobile {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+}
+
+// Skills grid
+.skills-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 2rem;
+
+  @include mobile {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
   }
 }
 

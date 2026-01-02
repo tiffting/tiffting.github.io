@@ -1,0 +1,40 @@
+{% if page.layout == 'home' or page.layout == 'case-study' %}
+<!-- Portfolio Footer -->
+<footer class="footer">
+    <div class="container">
+        <div class="footer-content">
+            <h3>Ready to translate complexity into clarity?</h3>
+            <p>
+                Let's discuss how methodical problem-solving can drive your
+                mission forward.
+            </p>
+
+            <div class="footer-links">
+                <a href="mailto:hello@tiffting.com">Email</a>
+                {% if site.footer-links.linkedin %}
+                <a
+                    href="https://linkedin.com/in/{{ site.footer-links.linkedin }}"
+                    target="_blank"
+                    rel="noopener"
+                    >LinkedIn</a
+                >
+                {% endif %} {% if site.footer-links.github %}
+                <a
+                    href="https://github.com/{{ site.footer-links.github }}"
+                    target="_blank"
+                    rel="noopener"
+                    >GitHub</a
+                >
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</footer>
+{% else %}
+<!-- Blog Footer (Legacy) -->
+<div class="wrapper-footer">
+    <div class="container">
+        <footer class="footer">{% include svg-icons.html %}</footer>
+    </div>
+</div>
+{% endif %}

@@ -1,0 +1,237 @@
+---
+layout: base
+---
+
+<!-- Hero Section -->
+<section class="hero gradient-hero">
+    <div class="container">
+        <div class="hero-content">
+            <div class="hero-text">
+                <h1>Technical Product Translator</h1>
+                <p class="tagline">
+                    Methodical problem-solver bridging technical complexity with
+                    user-centered solutions
+                </p>
+                <p>
+                    I help mission-driven organizations translate complex
+                    technical requirements into solutions that balance time,
+                    budget, business objectives, and user needs.
+                </p>
+                <div class="cta-buttons">
+                    <a href="#portfolio" class="btn btn-primary"
+                        >View Portfolio</a
+                    >
+                    <a href="/contact" class="btn btn-secondary"
+                        >Get In Touch</a
+                    >
+                </div>
+            </div>
+            <div
+                class="hero-visual"
+                style="
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                "
+            >
+                <div class="hero-image" style="max-width: 400px; width: 100%">
+                    <img src="/assets/images/headshot.jpg" alt="Tiff Ting" />
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Portfolio Grid -->
+<section class="portfolio" id="portfolio" style="padding: 4rem 0">
+    <div class="wide-container">
+        <div class="section-header">
+            <h2>12 Weeks of Intensive Learning</h2>
+            <p>Recent projects from my Voiz.AI Reskilling program</p>
+        </div>
+
+        <div class="portfolio-grid">
+            {% for case_study in site.case_studies %}
+            <div class="portfolio-card">
+                <div class="card-content" style="padding: 2rem">
+                    <div class="card-badge">{{ case_study.category }}</div>
+                    <h3 style="margin: 1rem 0 0.5rem 0">
+                        {{ case_study.title }}
+                    </h3>
+                    <p
+                        class="card-tagline"
+                        style="color: #666; margin-bottom: 1rem"
+                    >
+                        {{ case_study.tagline }}
+                    </p>
+                    <div
+                        class="card-meta"
+                        style="
+                            font-size: 0.875rem;
+                            color: #999;
+                            margin-bottom: 1rem;
+                        "
+                    >
+                        <span>{{ case_study.timeline }}</span>
+                    </div>
+                    <a
+                        href="{{ case_study.url }}"
+                        class="card-link"
+                        style="color: #2e5bba; font-weight: 500"
+                        >View Case Study →</a
+                    >
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+
+<!-- Skills Section -->
+<section class="skills bg-light-neutral" style="padding: 4rem 0">
+    <div class="wide-container">
+        <div class="section-header">
+            <h2>Cross-Industry Skills</h2>
+        </div>
+        <div class="skills-grid">
+            <div
+                class="skill-card"
+                style="
+                    background: white;
+                    padding: 2rem;
+                    border-radius: 12px;
+                    text-align: center;
+                    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+                "
+            >
+                <div
+                    style="
+                        width: 64px;
+                        height: 64px;
+                        margin: 0 auto 1.5rem;
+                        background: linear-gradient(135deg, #2e5bba, #4a9b8e);
+                        border-radius: 50%;
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        color: white;
+                        font-weight: 700;
+                        font-size: 1.5rem;
+                    "
+                >
+                    PM
+                </div>
+                <h3 style="color: #2e5bba; margin-bottom: 0.75rem">
+                    Product Management
+                </h3>
+                <p style="color: #666">
+                    Translating stakeholder needs into actionable roadmaps
+                </p>
+            </div>
+            <div
+                class="skill-card"
+                style="
+                    background: white;
+                    padding: 2rem;
+                    border-radius: 12px;
+                    text-align: center;
+                    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+                "
+            >
+                <div
+                    style="
+                        width: 64px;
+                        height: 64px;
+                        margin: 0 auto 1.5rem;
+                        background: linear-gradient(135deg, #4a9b8e, #7b5ba6);
+                        border-radius: 50%;
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        color: white;
+                        font-weight: 700;
+                        font-size: 1.5rem;
+                    "
+                >
+                    TT
+                </div>
+                <h3 style="color: #2e5bba; margin-bottom: 0.75rem">
+                    Technical Translation
+                </h3>
+                <p style="color: #666">
+                    Bridging engineering and business conversations
+                </p>
+            </div>
+            <div
+                class="skill-card"
+                style="
+                    background: white;
+                    padding: 2rem;
+                    border-radius: 12px;
+                    text-align: center;
+                    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+                "
+            >
+                <div
+                    style="
+                        width: 64px;
+                        height: 64px;
+                        margin: 0 auto 1.5rem;
+                        background: linear-gradient(135deg, #7b5ba6, #f2b705);
+                        border-radius: 50%;
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        color: white;
+                        font-weight: 700;
+                        font-size: 1.5rem;
+                    "
+                >
+                    CI
+                </div>
+                <h3 style="color: #2e5bba; margin-bottom: 0.75rem">
+                    Cross-Industry Insights
+                </h3>
+                <p style="color: #666">
+                    Applying patterns from healthcare to arts & tech
+                </p>
+            </div>
+            <div
+                class="skill-card"
+                style="
+                    background: white;
+                    padding: 2rem;
+                    border-radius: 12px;
+                    text-align: center;
+                    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+                "
+            >
+                <div
+                    style="
+                        width: 64px;
+                        height: 64px;
+                        margin: 0 auto 1.5rem;
+                        background: linear-gradient(135deg, #f2b705, #2e5bba);
+                        border-radius: 50%;
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        color: white;
+                        font-weight: 700;
+                        font-size: 1.5rem;
+                    "
+                >
+                    UX
+                </div>
+                <h3 style="color: #2e5bba; margin-bottom: 0.75rem">
+                    User-Centered Solutions
+                </h3>
+                <p style="color: #666">
+                    Balancing technical feasibility with human needs
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Blog section removed - will add back if blogging resumes -->
