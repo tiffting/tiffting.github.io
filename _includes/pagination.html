@@ -1,0 +1,62 @@
+<nav class="pagination">
+    <div class="pagination-controls">
+        {% if paginator.previous_page %}
+            <a href="{{ paginator.previous_page_path | relative_url }}" class="btn btn-secondary page-link">
+                ← Previous
+            </a>
+        {% else %}
+            <span class="btn btn-secondary page-link disabled">← Previous</span>
+        {% endif %}
+
+        <div class="page-numbers">
+            {% assign current = paginator.page %}
+            {% assign total = paginator.total_pages %}
+
+            {% comment %} Always show first page {% endcomment %}
+            {% if current == 1 %}
+                <span class="page-number current">1</span>
+            {% else %}
+                <a href="{{ '/blog' | relative_url }}" class="page-number">1</a>
+            {% endif %}
+
+            {% comment %} Show ellipsis if gap between first and current range {% endcomment %}
+            {% if current > 4 %}
+                <span class="page-ellipsis">...</span>
+            {% endif %}
+
+            {% comment %} Show pages around current (current-2 to current+2) {% endcomment %}
+            {% for page in (2..total) %}
+                {% assign diff = page | minus: current | abs %}
+                {% if diff <= 2 and page != total %}
+                    {% if page == current %}
+                        <span class="page-number current">{{ page }}</span>
+                    {% else %}
+                        <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}" class="page-number">{{ page }}</a>
+                    {% endif %}
+                {% endif %}
+            {% endfor %}
+
+            {% comment %} Show ellipsis if gap between current range and last {% endcomment %}
+            {% if current < total | minus: 3 %}
+                <span class="page-ellipsis">...</span>
+            {% endif %}
+
+            {% comment %} Always show last page (if more than 1 page) {% endcomment %}
+            {% if total > 1 %}
+                {% if current == total %}
+                    <span class="page-number current">{{ total }}</span>
+                {% else %}
+                    <a href="{{ site.paginate_path | relative_url | replace: ':num', total }}" class="page-number">{{ total }}</a>
+                {% endif %}
+            {% endif %}
+        </div>
+
+        {% if paginator.next_page %}
+            <a href="{{ paginator.next_page_path | relative_url }}" class="btn btn-secondary page-link">
+                Next →
+            </a>
+        {% else %}
+            <span class="btn btn-secondary page-link disabled">Next →</span>
+        {% endif %}
+    </div>
+</nav>

@@ -229,7 +229,8 @@
     }
 
     .logo-symbol {
-        align-self: center;
+        position: relative;
+        top: 0.5rem;
     }
 }
 
@@ -283,7 +284,6 @@
     color: $white;
     padding: 3rem 0;
     text-align: center;
-    margin-top: 4rem;
 
     h3 {
         color: $white;

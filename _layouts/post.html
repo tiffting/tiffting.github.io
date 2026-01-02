@@ -1,34 +1,56 @@
 ---
-layout: default
-published: true
+layout: base
 ---
 
-<article class="post">
-  <h1>{{ page.title }}</h1>
+<!-- Post Header -->
+<header class="post-header gradient-hero">
+    <div class="container">
+        <h1 class="post-title">{{ page.title }}</h1>
+        <div class="post-meta-full">
+            <span class="post-date">{{ page.date | date: "%B %d, %Y" }}</span>
+            {% if page.tags %}
+                <span class="post-tags">
+                    {% for tag in page.tags limit:3 %}
+                        <span class="tag">{{ tag }}</span>
+                    {% endfor %}
+                </span>
+            {% endif %}
+        </div>
+    </div>
+</header>
 
-  <div class="entry">
-    {{ content }}
-  </div>
+<!-- Post Content -->
+<main class="post-body">
+    <div class="container">
+        <article class="post">
+            {{ content }}
+        </article>
+    </div>
+</main>
 
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
-  </div>
-  
-  <div class="pagination">
-    <span class="page-link prev">
-    {% if page.next.url %}
-      <a href="{{page.next.url}}">&laquo; Previous: {{page.next.title | truncatewords: 3}}</a>
-    {% else %}
-      <span>&laquo; Previous</span>
-    {% endif %}
-    </span>
-    <span class="page-link next">
-    {% if page.previous.url %}
-      <a href="{{page.previous.url}}">Next: {{page.previous.title | truncatewords: 3}} &raquo;</a>
-    {% else %}
-      <span>Next &raquo;</span>
-    {% endif %}
-    </span>
-  </div>
+<!-- Post Navigation -->
+<nav class="post-nav">
+    <div class="wide-container">
+        <div class="post-nav-content">
+            {% if page.next %}
+                <a href="{{ page.next.url }}" class="nav-post prev">
+                    <span class="nav-label">← Previous</span>
+                    <span class="nav-title">{{ page.next.title | truncatewords: 5 }}</span>
+                </a>
+            {% else %}
+                <div class="nav-post-placeholder"></div>
+            {% endif %}
 
-</article>
+            <a href="/blog" class="btn btn-secondary">All Posts</a>
+
+            {% if page.previous %}
+                <a href="{{ page.previous.url }}" class="nav-post next">
+                    <span class="nav-label">Next →</span>
+                    <span class="nav-title">{{ page.previous.title | truncatewords: 5 }}</span>
+                </a>
+            {% else %}
+                <div class="nav-post-placeholder"></div>
+            {% endif %}
+        </div>
+    </div>
+</nav>
