@@ -1,0 +1,284 @@
+//
+// PORTFOLIO STYLES
+// Portfolio and case study specific styles
+//
+
+// Case Study Hero
+.case-hero {
+  padding: 3rem 0;
+  text-align: center;
+
+  .case-header {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+  .case-badge {
+    display: inline-block;
+    background: $golden-yellow;
+    color: $darkerGray;
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    font-size: 0.875rem;
+    font-weight: 600;
+    font-family: $inter;
+    margin-bottom: 1rem;
+  }
+
+  .case-title {
+    color: $trust-blue;
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+
+    @include mobile {
+      font-size: 2rem;
+    }
+  }
+
+  .case-tagline {
+    font-size: 1.25rem;
+    color: $creative-purple;
+    margin-bottom: 2rem;
+    font-weight: 500;
+
+    @include mobile {
+      font-size: 1.1rem;
+    }
+  }
+
+  .case-meta {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+    text-align: left;
+    background: $white;
+    padding: 1.5rem;
+    border-radius: 12px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+
+    @include mobile {
+      grid-template-columns: 1fr;
+    }
+
+    .meta-item {
+      strong {
+        display: block;
+        color: $trust-blue;
+        font-size: 0.875rem;
+        margin-bottom: 0.25rem;
+      }
+
+      color: $darkGray;
+      font-size: 1rem;
+    }
+
+    .meta-links {
+      grid-column: 1 / -1; // Span full width of grid
+
+      a {
+        color: $trust-blue;
+        text-decoration: none;
+
+        &:hover {
+          color: $creative-purple;
+          text-decoration: underline;
+        }
+      }
+    }
+  }
+}
+
+// Case Study Body
+.case-body {
+  padding: 3rem 0;
+
+  h2 {
+    color: $trust-blue;
+    font-size: 2rem;
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+
+    @include mobile {
+      font-size: 1.5rem;
+    }
+  }
+
+  h3 {
+    color: $creative-purple;
+    font-size: 1.5rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+
+    @include mobile {
+      font-size: 1.25rem;
+    }
+  }
+
+  p {
+    font-size: 1.125rem;
+    line-height: 1.7;
+    margin-bottom: 1.5rem;
+  }
+
+  ul, ol {
+    font-size: 1.125rem;
+    line-height: 1.7;
+    margin-bottom: 1.5rem;
+
+    li {
+      margin-bottom: 0.5rem;
+    }
+  }
+
+  img {
+    display: block;
+    margin: 2rem auto;
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  }
+
+  blockquote {
+    margin: 2rem 0;
+    padding: 1.5rem;
+    background: $light-neutral;
+    border-left: 4px solid $trust-blue;
+    border-radius: 0 8px 8px 0;
+    font-style: italic;
+
+    p:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  // Feature boxes or callouts
+  .feature-box {
+    background: $light-neutral;
+    padding: 2rem;
+    border-radius: 12px;
+    margin: 2rem 0;
+
+    h3 {
+      margin-top: 0;
+    }
+  }
+
+  // Code blocks
+  pre, code {
+    font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+  }
+
+  code {
+    background: #f8f9fa;
+    padding: 0.2rem 0.4rem;
+    border-radius: 4px;
+    font-size: 0.9em;
+  }
+
+  pre {
+    background: #f8f9fa;
+    border: 1px solid #e9ecef;
+    border-radius: 8px;
+    padding: 1.5rem;
+    overflow-x: auto;
+    margin: 1.5rem 0;
+
+    code {
+      background: none;
+      padding: 0;
+      border: none;
+    }
+  }
+}
+
+// Case Navigation
+.case-nav {
+  padding: 2rem 0;
+  background: $light-neutral;
+
+  .wide-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .btn {
+    display: inline-block;
+  }
+}
+
+// Portfolio Section (on homepage)
+.portfolio {
+  .portfolio-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: 2rem;
+
+    @include mobile {
+      grid-template-columns: 1fr;
+      gap: 1.5rem;
+    }
+  }
+}
+
+// Portfolio Cards (on homepage)
+.portfolio-card {
+  background: $white;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+
+  &:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);
+  }
+
+  .card-content {
+    padding: 2rem;
+  }
+
+  .card-badge {
+    display: inline-block;
+    background: $golden-yellow;
+    color: $darkerGray;
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    font-size: 0.875rem;
+    font-weight: 600;
+    font-family: $inter;
+    margin-bottom: 1rem;
+  }
+
+  h3 {
+    color: $trust-blue;
+    font-size: 1.5rem;
+    margin: 1rem 0 0.5rem 0;
+  }
+
+  .card-tagline {
+    color: $gray;
+    margin-bottom: 1rem;
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+
+  .card-meta {
+    font-size: 0.875rem;
+    color: $gray;
+    margin-bottom: 1rem;
+  }
+
+  .card-link {
+    color: $trust-blue;
+    font-weight: 500;
+    text-decoration: none;
+    display: inline-block;
+
+    &:hover {
+      color: $creative-purple;
+    }
+  }
+}

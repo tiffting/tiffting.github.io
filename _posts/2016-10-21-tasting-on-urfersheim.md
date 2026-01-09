@@ -90,7 +90,6 @@ Costi also shared some locally brewed pilsner with me. It tasted refreshing!
 Not only did I explore the architecture at the [Freilandmuseum](/sights-of-urfersheim/#frnkisches-freilandmuseum), but I also brought different varieties of apples home from the many trees on the property.
 
 ![Some good, some not]({{site.baseurl}}/images/2016/10/21-tasting-on-urfersheim/freilandmuseum-apples.jpg)
-<img src="/images/2016/10/21-tasting-on-urfersheim/freilandmuseum-apples.jpg" width="800" height="450" alt="Some good, some not" title="Some good, some not"/>
 
 Johanna's mom Petra also bought two kinds of cured sausages and some delicious bread so that we could enjoy brotzeit ("bread time") that evening. I love brotzeit!
 

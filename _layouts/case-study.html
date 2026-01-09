@@ -1,0 +1,53 @@
+---
+layout: base
+---
+
+<!-- Case Study Hero -->
+<section class="case-hero gradient-hero">
+    <div class="container">
+        <div class="case-header">
+            <span class="case-badge"
+                >{{ page.category | default: "Case Study" }}</span
+            >
+            <h1 class="case-title">{{ page.title }}</h1>
+            <p class="case-tagline">{{ page.tagline }}</p>
+
+            <div class="case-meta">
+                <div class="meta-item">
+                    <strong>Role</strong> {{ page.role }}
+                </div>
+                <div class="meta-item">
+                    <strong>Timeline</strong> {{ page.timeline }}
+                </div>
+                {% if page.tech_stack %}
+                <div class="meta-item">
+                    <strong>Tech Stack</strong> {{ page.tech_stack }}
+                </div>
+                {% endif %} {% if page.links %}
+                <div class="meta-item meta-links">
+                    <strong>Links</strong>
+                    {% for link in page.links %}
+                    <a
+                        href="{{ link.url }}"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        >{{ link.title }}</a
+                    >{% unless forloop.last %} | {% endunless %} {% endfor %}
+                </div>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Case Study Content -->
+<main class="case-body">
+    <div class="container">{{ content }}</div>
+</main>
+
+<!-- Back to Portfolio -->
+<nav class="case-nav">
+    <div class="wide-container">
+        <a href="/#portfolio" class="btn btn-secondary">← Back to Portfolio</a>
+    </div>
+</nav>
