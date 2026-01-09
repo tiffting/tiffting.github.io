@@ -354,3 +354,80 @@
 .text-golden-yellow {
     color: $golden-yellow;
 }
+
+// Page Layout Styles
+.page {
+    .page-header {
+        padding: 3rem 0;
+        text-align: center;
+
+        h1 {
+            color: $trust-blue;
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin: 0;
+
+            @include mobile {
+                font-size: 2rem;
+            }
+        }
+    }
+
+    .page-content {
+        padding: 3rem 0;
+
+        h2 {
+            color: $trust-blue;
+            font-size: 1.75rem;
+            margin-top: 2.5rem;
+            margin-bottom: 1rem;
+
+            @include mobile {
+                font-size: 1.5rem;
+            }
+        }
+
+        h3 {
+            color: $creative-purple;
+            font-size: 1.25rem;
+            margin-top: 2rem;
+            margin-bottom: 0.75rem;
+
+            @include mobile {
+                font-size: 1.125rem;
+            }
+        }
+
+        p {
+            font-size: 1.125rem;
+            line-height: 1.7;
+            margin-bottom: 1.5rem;
+        }
+
+        ul, ol {
+            font-size: 1.125rem;
+            line-height: 1.7;
+            margin-bottom: 1.5rem;
+
+            li {
+                margin-bottom: 0.5rem;
+            }
+        }
+
+        a {
+            color: $trust-blue;
+            text-decoration: none;
+
+            &:hover {
+                color: $creative-purple;
+                text-decoration: underline;
+            }
+        }
+
+        hr {
+            border: none;
+            border-top: 1px solid $lighterGray;
+            margin: 3rem 0;
+        }
+    }
+}

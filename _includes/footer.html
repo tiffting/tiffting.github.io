@@ -1,4 +1,30 @@
-{% if page.layout == 'home' or page.layout == 'case-study' %}
+{% if page.layout == 'blog' or page.layout == 'post' %}
+<!-- Blog Footer -->
+<footer class="footer">
+    <div class="container">
+        <div class="footer-content">
+            <div class="footer-links">
+                <a href="mailto:ama@tiffting.com">Email</a>
+                {% if site.footer-links.linkedin %}
+                <a
+                    href="https://linkedin.com/in/{{ site.footer-links.linkedin }}"
+                    target="_blank"
+                    rel="noopener"
+                    >LinkedIn</a
+                >
+                {% endif %} {% if site.footer-links.github %}
+                <a
+                    href="https://github.com/{{ site.footer-links.github }}"
+                    target="_blank"
+                    rel="noopener"
+                    >GitHub</a
+                >
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</footer>
+{% else %}
 <!-- Portfolio Footer -->
 <footer class="footer">
     <div class="container">
@@ -30,11 +56,4 @@
         </div>
     </div>
 </footer>
-{% else %}
-<!-- Blog Footer (Legacy) -->
-<div class="wrapper-footer">
-    <div class="container">
-        <footer class="footer">{% include svg-icons.html %}</footer>
-    </div>
-</div>
 {% endif %}

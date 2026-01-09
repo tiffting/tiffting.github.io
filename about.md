@@ -5,14 +5,47 @@ permalink: /about/
 published: true
 ---
 
-Hey, there: I'm Tiff Ting. From July 2016 through September 2017, I took a solo, round-the-world trip. After that, I continued my nomadic lifestyle in Taiwan. I hope sharing my experiences is valuable, and not just to future me who needs a reminder of past me.
+## Technical Product Translator
 
-## More info
+I'm Tiff Ting, a methodical problem-solver who translates complex technical requirements into user-centered solutions for mission-driven organizations.
 
-I love all things related to food, so you'll hear a lot about that. I also enjoy hanging out with locals and going off the beaten path.
+### What I Do
 
-My native language is English, and I am conversational in Mandarin Chinese. My Japanese skills are very basic, and my Spanish is worse. I also need to warn you that I pronounce French in a way that makes even non-native speakers cringe.
+I specialize in:
+- **Product strategy and execution** - Translating technical complexity into clear solutions
+- **User research and synthesis** - Discovering real constraints, not just stated preferences
+- **Cross-industry pattern recognition** - Applying learnings across domains (healthcare, arts, nonprofit, SaaS)
+- **Systems design** - Balancing time, budget, business objectives, and user needs
 
-## Contact me
+I work with organizations where **mission matters** and technical challenges require both strategic thinking and hands-on execution.
 
-If you have any feedback on any posts or want to request a post on a particular topic, send me a message: [ama@tiffting.com](mailto:ama@tiffting.com).
+### Current Focus
+
+Building **[Capisara](https://capisara.com/)**, a unified box office management platform for live event venues. I'm also contributing pro bono to **[Music Declares Emergency's AMPLIFY program](https://www.musicdeclares.net/us/campaigns/mde-us-amplify-program)**, connecting touring artists with grassroots climate organizations.
+
+### Personality
+
+Empathetic • Curious • Methodical • Open-minded • Humble
+
+### Languages
+
+- **Native**: English
+- **Conversational**: Mandarin Chinese
+- **Learning**: Japanese
+- **Basic**: Spanish
+
+---
+
+## Travel & Food Archive
+
+From July 2016 through September 2017, I took a solo, round-the-world trip, followed by a nomadic lifestyle in Taiwan. This blog started as a travel journal documenting those experiences.
+
+You can explore over a hundred posts about food, local culture, and off-the-beaten-path adventures in the [blog archive](/blog).
+
+I love all things related to food, hanging out with locals, and going off the beaten path.
+
+---
+
+## Let's Connect
+
+Interested in working together on mission-driven technology? [Get in touch](/contact).
