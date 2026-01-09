@@ -117,6 +117,8 @@ Pete clarified that he already knows some artists will participate (and he has e
 4. **Redirect to relevant organization**: 302 redirect with UTM tracking parameters
 5. **Fallback for edge cases**: If context can't be determined, redirect to AMPLIFY general page
 
+![System diagram showing evergreen link routing logic]({{site.baseurl}}/images/case_studies/mde_amplify/mvp-system-diagram.png)
+
 **Why this matters**:
 - **Zero artist maintenance**: Link never changes, works across all platforms
 - **Data-driven learning**: Captures artist, tour dates, location, organization, and timestamp (no PII)
