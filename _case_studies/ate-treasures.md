@@ -4,7 +4,7 @@ title: Ate Treasures
 tagline: Plant-based restaurant concept for Osaka's Nishinari Ward
 category: Restaurant Concept
 role: Concept Designer & Market Researcher
-timeline: Week 4 (Voiz.AI Reskilling)
+timeline: June 2025
 tech_stack: ChatGPT, market research, cultural design
 published: true
 ---

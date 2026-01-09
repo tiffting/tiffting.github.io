@@ -4,7 +4,7 @@ title: CTT Comedy Website Refresh
 tagline: Data-driven redesign with strategic change management
 category: Website Redesign
 role: Product Manager & Designer
-timeline: Weeks 4-8 (Voiz.AI Reskilling)
+timeline: August 2025
 tech_stack: v0, Claude Code, Gamma (for presentations)
 links:
   - title: Current Site
