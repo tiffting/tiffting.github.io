@@ -2,6 +2,8 @@
 published: true
 title: 'How I became a Taiwanese citizen, part 1'
 permalink: /how-i-became-a-taiwanese-citizen-part-1/
+redirect_from:
+  - /the-path-to-taiwanese-citizenship-step-1/
 layout: post
 tags:
   - live
